@@ -20,8 +20,7 @@ This project follows a structured approach:
 - Filtering of records to retain only relevant data for meaningful analysis.  
 
 3️⃣ **Data Visualization & Analysis**  
-- Generation of visual representations to explore patterns and trends in the data.  
-- Application of statistical methods to analyze key aspects of the dataset.  
+- Generation of visual representations to explore patterns and trends in the data. 
 - Examination of relationships between variables to uncover potential insights.  
 
 4️⃣ **Business Recommendations**  
