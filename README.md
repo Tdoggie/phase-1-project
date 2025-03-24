@@ -39,5 +39,5 @@ This project follows a structured approach:
 
 ## 📂 Repository Structure
 - `index.ipynb` → Jupyter Notebook containing the full analysis
-- `Data/` → Folder containing the aviation dataset
+- `Data/` → Folder containing the aviation dataset and FAA airplane manufacturer registry
 - `README.md` → This document outlining project details
