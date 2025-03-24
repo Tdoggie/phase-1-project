@@ -23,9 +23,10 @@ This project follows a structured approach:
 - Generation of visual representations to explore patterns and trends in the data. 
 - Examination of relationships between variables to uncover potential insights.  
 
-4️⃣ **Business Recommendations**  
+4️⃣ **Business Recommendations**
+- Provision of data-driven recommendations informed by identified trends.    
 - Summarization of findings based on the conducted analysis.  
-- Provision of data-driven recommendations informed by identified trends.  
+
 
 ## ⚙️ Technologies Used
 - **Python** (Pandas, Matplotlib, Seaborn, NumPy, TheFuzz)
