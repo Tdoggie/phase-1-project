@@ -1,0 +1,4013 @@
+Make,Model,Broad.phase.of.flight,Total.Fatal.Injuries,Total.Serious.Injuries,Total.Minor.Injuries,Total.Uninjured,Event.Year
+Cessna,401B,Landing,0.0,0.0,0.0,2.0,1982
+Cessna,414A,Approach,8.0,0.0,0.0,0.0,1982
+Cessna,206,Taxi,1.0,0.0,1.0,0.0,1982
+Navion,A,Cruise,3.0,0.0,0.0,0.0,1982
+Rockwell,114,Cruise,0.0,0.0,0.0,1.0,1982
+Piper,PA-24-250,Descent,0.0,1.0,0.0,1.0,1982
+Aerospatiale,SA-316B,Taxi,0.0,0.0,0.0,6.0,1982
+Mooney,M-20J,Takeoff,0.0,0.0,0.0,2.0,1982
+Cessna,TU206G,Landing,0.0,0.0,0.0,1.0,1982
+Beech,C23,Descent,0.0,2.0,2.0,0.0,1982
+Cessna,180K,Takeoff,0.0,0.0,0.0,1.0,1982
+Mooney,M20F,Takeoff,1.0,0.0,0.0,0.0,1982
+Cessna,177B,Cruise,1.0,2.0,0.0,0.0,1982
+Cessna,340A,Cruise,0.0,0.0,0.0,2.0,1982
+Piper,PA-23-250,Approach,1.0,0.0,0.0,0.0,1982
+Cessna,177,Descent,0.0,0.0,0.0,1.0,1982
+Bellanca,7GCBC,Takeoff,0.0,0.0,0.0,1.0,1982
+Mooney,M20C,Landing,0.0,0.0,0.0,1.0,1982
+Cessna,A185F,Takeoff,0.0,0.0,0.0,2.0,1982
+Piper,PA-32-260,Approach,0.0,0.0,0.0,2.0,1982
+Beech,36,Cruise,0.0,1.0,0.0,1.0,1982
+Cessna,U206G,Landing,0.0,0.0,0.0,1.0,1982
+Cessna,T210N,Landing,0.0,0.0,0.0,1.0,1982
+Mitsubishi,MU2B-40,Landing,0.0,0.0,6.0,0.0,1982
+Cessna,177RG,Taxi,0.0,0.0,0.0,2.0,1982
+Piper,PA-18A-150,Takeoff,1.0,0.0,0.0,0.0,1982
+Cessna,310R,Takeoff,0.0,0.0,0.0,2.0,1982
+Cessna,402B,Go-around,0.0,0.0,0.0,1.0,1982
+Beech,95-C55,Cruise,2.0,0.0,0.0,0.0,1982
+Cessna,421B,Landing,0.0,0.0,0.0,2.0,1982
+Cessna,401,Cruise,0.0,0.0,0.0,5.0,1982
+Piper,PA-28-151,Descent,0.0,0.0,0.0,1.0,1982
+Beech,35,Approach,0.0,0.0,0.0,1.0,1982
+Piper,PA-31T2,Approach,8.0,0.0,0.0,0.0,1982
+Piper,PA-28RT-201T,Descent,0.0,1.0,0.0,0.0,1982
+Cessna,210,Approach,0.0,0.0,2.0,0.0,1982
+Cessna,A185F,Taxi,0.0,0.0,0.0,2.0,1982
+Piper,PA-60/601P,Landing,0.0,0.0,0.0,3.0,1982
+Beech,BE-95-C55,Takeoff,1.0,0.0,0.0,0.0,1982
+Robinson,R22,Cruise,1.0,0.0,0.0,0.0,1982
+Cessna,T210M,Landing,0.0,0.0,0.0,2.0,1982
+Piper,PA-28-161,Taxi,0.0,0.0,0.0,2.0,1982
+Bell,206B III,Cruise,0.0,0.0,0.0,2.0,1982
+Cessna,172RG,Takeoff,0.0,0.0,0.0,2.0,1982
+Cessna,P210N,Landing,0.0,0.0,4.0,0.0,1982
+Cessna,310K,Landing,0.0,0.0,0.0,1.0,1982
+Piper,PA-30,Approach,0.0,0.0,0.0,2.0,1982
+Cessna,182L,Cruise,0.0,2.0,0.0,0.0,1982
+Piper,PA-28-181,Takeoff,0.0,0.0,0.0,2.0,1982
+Beech,V35B,Maneuvering,0.0,0.0,0.0,1.0,1982
+Cessna,210D,Cruise,1.0,1.0,0.0,0.0,1982
+Varga,2150A,Takeoff,0.0,0.0,2.0,0.0,1982
+Cessna,U-206,Takeoff,0.0,0.0,0.0,3.0,1982
+Piper,PA-34-200,Landing,0.0,0.0,0.0,3.0,1982
+Cessna,501,Landing,0.0,0.0,0.0,2.0,1982
+Beech,A36TC,Approach,0.0,0.0,0.0,2.0,1982
+Cessna,182,Cruise,0.0,0.0,0.0,1.0,1982
+Beech,58,Cruise,1.0,0.0,0.0,0.0,1982
+Piper,PA-28RT-201,Descent,0.0,0.0,0.0,2.0,1982
+Piper,PA-38-112,Cruise,0.0,0.0,1.0,0.0,1982
+Cessna,421,Approach,1.0,2.0,0.0,0.0,1982
+Mooney,M20F,Takeoff,0.0,0.0,1.0,1.0,1982
+Cessna,210,Landing,0.0,0.0,0.0,1.0,1982
+Cessna,172,Maneuvering,0.0,0.0,0.0,1.0,1982
+Rockwell,690A,Approach,0.0,0.0,0.0,3.0,1982
+Piper,PA-28-140,Cruise,1.0,0.0,0.0,0.0,1982
+Piper,PA-30,Landing,0.0,0.0,0.0,1.0,1982
+Cessna,T182RG,Landing,0.0,0.0,0.0,3.0,1982
+Piper,PA-28-235,Takeoff,0.0,0.0,1.0,0.0,1982
+Beech,95-B55,Landing,0.0,0.0,0.0,2.0,1982
+Cessna,T210N,Cruise,0.0,0.0,0.0,5.0,1982
+Piper,PA-32R,Cruise,0.0,2.0,0.0,0.0,1982
+Cessna,A185E,Takeoff,2.0,0.0,0.0,0.0,1982
+Cessna,205,Taxi,0.0,0.0,1.0,0.0,1982
+Beech,D55,Takeoff,0.0,0.0,0.0,2.0,1982
+Beech,B35,Takeoff,3.0,1.0,0.0,0.0,1982
+Cessna,172,Taxi,0.0,0.0,0.0,1.0,1982
+Cessna,182RG,Takeoff,0.0,0.0,0.0,2.0,1982
+Piper,PA-28-180,Approach,1.0,0.0,0.0,0.0,1982
+Piper,PA-44-180,Landing,0.0,1.0,1.0,0.0,1982
+Piper,PA-28R-201T,Landing,0.0,0.0,0.0,1.0,1982
+Beech,E55,Climb,2.0,0.0,0.0,0.0,1982
+Cessna,310,Landing,0.0,0.0,0.0,2.0,1982
+Beech,65-A90,Landing,0.0,0.0,0.0,2.0,1982
+Piper,PA-28-181,Cruise,0.0,0.0,0.0,2.0,1982
+Mooney,M20F,Landing,0.0,0.0,0.0,2.0,1982
+Piper,PA-32R-300,Takeoff,3.0,1.0,0.0,0.0,1982
+Cessna,182A,Cruise,0.0,0.0,0.0,1.0,1982
+Bell,222,Cruise,3.0,0.0,0.0,0.0,1982
+Mooney,M20J,Cruise,3.0,0.0,0.0,0.0,1982
+Maule,M-5-210C,Approach,0.0,0.0,0.0,2.0,1982
+Beech,S-35,Standing,0.0,0.0,0.0,1.0,1982
+Beech,B95,Maneuvering,1.0,0.0,0.0,0.0,1982
+Beech,A36TC,Unknown,3.0,0.0,0.0,0.0,1982
+Cessna,182P,Landing,0.0,0.0,0.0,1.0,1982
+Cessna,421C,Landing,0.0,2.0,1.0,0.0,1982
+Piper,PA-23-250T,Landing,0.0,0.0,0.0,1.0,1982
+Hughes,369D,Cruise,0.0,1.0,2.0,0.0,1982
+Bellanca,7GCBC,Landing,0.0,0.0,0.0,2.0,1982
+Cessna,152,Climb,0.0,0.0,1.0,1.0,1982
+Piper,PA-23,Takeoff,0.0,0.0,0.0,1.0,1982
+Piper,PA-31-350,Takeoff,0.0,0.0,0.0,1.0,1982
+Cessna,172N,Taxi,0.0,0.0,0.0,1.0,1982
+Cessna,182M,Taxi,0.0,0.0,0.0,2.0,1982
+Continental,TOMCAT MK6C,Maneuvering,1.0,0.0,0.0,0.0,1982
+Cessna,207,Maneuvering,1.0,1.0,0.0,0.0,1982
+Gates Learjet,23,Descent,4.0,0.0,0.0,0.0,1982
+Cessna,182P,Descent,0.0,0.0,1.0,1.0,1982
+Piper,PA-28R-180,Cruise,0.0,1.0,1.0,0.0,1982
+Bellanca,17-31ATC,Takeoff,0.0,0.0,0.0,2.0,1982
+Piper,PA-28-161,Cruise,4.0,0.0,0.0,0.0,1982
+Gates Learjet,24B,Climb,0.0,0.0,0.0,3.0,1982
+Cessna,T210N,Cruise,0.0,1.0,4.0,0.0,1982
+Piper,18,Maneuvering,1.0,1.0,0.0,0.0,1982
+Cessna,A185F,Landing,0.0,0.0,0.0,1.0,1982
+Cessna,T210N,Cruise,0.0,0.0,0.0,1.0,1982
+Piper,P-60-601P,Takeoff,1.0,1.0,0.0,0.0,1982
+Cessna,T210L,Standing,0.0,0.0,0.0,1.0,1982
+Cessna,T210M,Cruise,2.0,0.0,0.0,0.0,1982
+Cessna,182,Landing,0.0,0.0,0.0,3.0,1982
+Cessna,150,Landing,0.0,0.0,0.0,1.0,1982
+Cessna,206,Landing,0.0,0.0,0.0,1.0,1982
+Cessna,310R,Landing,0.0,0.0,0.0,2.0,1982
+Beech,58,Landing,0.0,0.0,0.0,1.0,1982
+Bell,206B,Cruise,3.0,0.0,0.0,0.0,1982
+Piper,PA-34,Taxi,0.0,0.0,0.0,5.0,1982
+Kaman,K600-3,Cruise,0.0,0.0,0.0,1.0,1982
+Piper,PA-38,Cruise,0.0,0.0,0.0,2.0,1982
+Piper,PA-34-200T,Landing,0.0,0.0,0.0,1.0,1982
+Cessna,182P,Takeoff,0.0,1.0,0.0,0.0,1982
+Cessna,182K,Descent,0.0,0.0,0.0,1.0,1982
+Enstrom,280,Cruise,0.0,1.0,1.0,0.0,1982
+Cessna,A185E,Landing,0.0,0.0,0.0,1.0,1982
+Beech,C23,Takeoff,0.0,0.0,0.0,3.0,1982
+Cessna,500,Standing,0.0,1.0,0.0,1.0,1982
+Piper,PA-38-112,Landing,0.0,0.0,0.0,2.0,1982
+Cessna,402B,Landing,0.0,0.0,0.0,3.0,1982
+Aerospatiale,341G,Takeoff,0.0,0.0,0.0,5.0,1982
+Cessna,206-5,Cruise,0.0,0.0,0.0,3.0,1982
+Lake,LA-4-200,Takeoff,0.0,1.0,1.0,1.0,1982
+Mooney,M-20,Cruise,1.0,0.0,0.0,0.0,1982
+Piper,PA-32R-301,Cruise,3.0,0.0,0.0,0.0,1982
+Cessna,421,Approach,0.0,0.0,0.0,2.0,1982
+Piper,PA-32,Takeoff,2.0,0.0,0.0,0.0,1982
+Cessna,310,Cruise,0.0,0.0,0.0,1.0,1982
+Brantly,B-2B,Cruise,0.0,0.0,0.0,1.0,1982
+Beech,95-C55,Descent,0.0,2.0,0.0,0.0,1982
+Cessna,182,Go-around,0.0,1.0,1.0,1.0,1982
+Bellanca,17-30,Cruise,0.0,2.0,1.0,0.0,1982
+Piper,PA-32-260,Takeoff,1.0,2.0,0.0,0.0,1982
+Cessna,172N,Standing,0.0,0.0,0.0,2.0,1982
+Cessna,185,Climb,0.0,0.0,0.0,1.0,1982
+Cessna,310Q,Maneuvering,0.0,0.0,0.0,1.0,1982
+Beech,V35,Cruise,0.0,0.0,0.0,1.0,1982
+Cessna,180J,Takeoff,0.0,0.0,0.0,1.0,1982
+Beech,95-A55,Landing,0.0,0.0,1.0,0.0,1982
+Cessna,A185F,Landing,0.0,0.0,0.0,1.0,1982
+Piper,PA-24-250,Cruise,1.0,0.0,0.0,0.0,1982
+Cessna,T-210L,Cruise,1.0,0.0,0.0,0.0,1982
+Cessna,172M,Climb,3.0,0.0,0.0,0.0,1982
+Cessna,172N,Takeoff,4.0,0.0,0.0,0.0,1982
+Beech,95-A55,Takeoff,0.0,0.0,0.0,2.0,1982
+Beech,J35,Taxi,0.0,0.0,0.0,1.0,1982
+Piper,28-140,Takeoff,1.0,1.0,0.0,0.0,1982
+Piper,PA-601P,Cruise,2.0,0.0,0.0,0.0,1982
+Piper,PA-38,Takeoff,0.0,0.0,0.0,2.0,1982
+Beech,B-60,Takeoff,0.0,0.0,1.0,0.0,1982
+Piper,PA-23C-250,Climb,0.0,0.0,2.0,0.0,1982
+Piper,PA-28-140,Landing,0.0,0.0,1.0,2.0,1982
+Cessna,R182,Cruise,0.0,0.0,0.0,2.0,1982
+Cessna,172,Cruise,0.0,0.0,1.0,0.0,1982
+Cessna,T210M,Maneuvering,2.0,0.0,0.0,0.0,1982
+Maule,M-5-210C,Takeoff,0.0,0.0,0.0,4.0,1982
+Cessna,210L,Approach,0.0,0.0,2.0,0.0,1982
+Cessna,421B,Cruise,0.0,0.0,0.0,1.0,1982
+Cessna,182M,Landing,0.0,0.0,0.0,1.0,1982
+Cessna,180,Takeoff,0.0,0.0,3.0,0.0,1982
+Cessna,T337C,Landing,0.0,0.0,0.0,1.0,1982
+Cessna,210,Climb,0.0,0.0,0.0,1.0,1982
+Mitsubishi,MU-2B-25,Climb,0.0,0.0,0.0,2.0,1982
+Piper,PA-23-250,Cruise,1.0,0.0,0.0,0.0,1982
+Mooney,M20J,Landing,0.0,0.0,0.0,4.0,1982
+Cessna,421C,Landing,0.0,0.0,0.0,1.0,1982
+Piper,PA-18,Landing,0.0,0.0,0.0,1.0,1982
+Piper,PA32-300,Climb,1.0,0.0,0.0,0.0,1982
+Cessna,337D,Landing,0.0,0.0,0.0,1.0,1982
+Beech,58,Landing,0.0,0.0,0.0,5.0,1982
+Cessna,421B,Descent,0.0,0.0,1.0,0.0,1982
+Cessna,336,Landing,0.0,0.0,0.0,1.0,1982
+Enstrom,F-28F,Takeoff,0.0,0.0,3.0,0.0,1982
+Mitsubishi,MU-2B-20,Approach,0.0,0.0,0.0,1.0,1982
+Cessna,A185F,Landing,0.0,0.0,0.0,3.0,1982
+Cessna,185,Maneuvering,0.0,1.0,0.0,1.0,1982
+Bell,206L-1,Cruise,0.0,0.0,0.0,2.0,1982
+Bell,47G-2A,Taxi,0.0,0.0,0.0,1.0,1982
+Mooney,M-20F,Landing,0.0,0.0,1.0,3.0,1982
+Piper,PA-28R,Cruise,3.0,0.0,0.0,0.0,1982
+Bellanca,17-30A,Landing,0.0,0.0,0.0,3.0,1982
+Piper,PA-34,Taxi,0.0,0.0,0.0,1.0,1982
+Cessna,TU206,Landing,0.0,0.0,0.0,3.0,1982
+Piper,PA-28-161,Standing,0.0,0.0,0.0,2.0,1982
+Cessna,177,Landing,0.0,0.0,1.0,2.0,1982
+Cessna,T310R,Approach,2.0,0.0,0.0,0.0,1982
+Bell,206L,Landing,0.0,0.0,0.0,1.0,1982
+Piper,PA-28-235,Takeoff,1.0,0.0,0.0,0.0,1982
+Cessna,U206F,Landing,0.0,0.0,0.0,1.0,1982
+Cessna,180,Landing,0.0,0.0,0.0,2.0,1982
+De Havilland,DHC-3,Cruise,0.0,0.0,0.0,3.0,1982
+Beech,95-C55,Approach,0.0,0.0,0.0,2.0,1982
+Beech,95-B55,Landing,0.0,0.0,0.0,1.0,1982
+Maule,M-5,Takeoff,0.0,0.0,0.0,3.0,1982
+Aero Commander,681,Cruise,0.0,0.0,0.0,3.0,1982
+De Havilland,BEAVER U-64,Takeoff,0.0,0.0,1.0,0.0,1982
+Cessna,150,Takeoff,0.0,0.0,0.0,2.0,1982
+Cessna,T210N,Descent,0.0,0.0,1.0,1.0,1982
+Piper,PA-18,Takeoff,0.0,0.0,0.0,2.0,1982
+Cessna,31,Landing,0.0,0.0,0.0,5.0,1982
+Mooney,M20E,Takeoff,0.0,0.0,1.0,1.0,1982
+Piper,PA-31T,Landing,0.0,0.0,0.0,4.0,1982
+Mitsubishi,MU-2B-25,Takeoff,6.0,0.0,0.0,0.0,1982
+Cessna,P210N,Cruise,0.0,0.0,0.0,1.0,1982
+Cessna,172RG,Descent,0.0,0.0,0.0,4.0,1982
+Grumman,AA-5B,Landing,0.0,0.0,0.0,1.0,1982
+Cessna,180K,Landing,0.0,0.0,0.0,2.0,1982
+Piper,PA-34-22OT,Takeoff,0.0,0.0,0.0,2.0,1982
+Piper,PA-23-250,Taxi,0.0,0.0,0.0,4.0,1982
+Piper,PA-28R-200,Approach,0.0,0.0,0.0,1.0,1982
+Mooney,M20E,Cruise,0.0,0.0,2.0,0.0,1982
+Beech,C33,Landing,0.0,0.0,0.0,1.0,1982
+Piper,PA-32R-301T,Cruise,1.0,0.0,0.0,0.0,1982
+Cessna,421B,Approach,1.0,0.0,0.0,0.0,1982
+Cessna,340A,Go-around,1.0,0.0,0.0,0.0,1982
+Bell,206L-1,Landing,0.0,0.0,3.0,0.0,1982
+Aero Commander,520,Climb,3.0,0.0,0.0,0.0,1982
+Piper,PA-23-250,Cruise,0.0,1.0,0.0,0.0,1982
+Mooney,M-20K,Descent,1.0,0.0,0.0,0.0,1982
+Beech,C45H,Cruise,0.0,0.0,0.0,3.0,1982
+Fairchild,C-82A,Approach,0.0,0.0,0.0,2.0,1982
+Piper,PA32RT-300,Takeoff,0.0,0.0,0.0,1.0,1982
+Piper,PA-32-301,Landing,0.0,0.0,0.0,2.0,1982
+Beech,35-C33,Landing,0.0,0.0,0.0,4.0,1982
+Piper,PA-32-300,Taxi,0.0,0.0,0.0,1.0,1982
+Hughes,TH-55A,Takeoff,0.0,0.0,0.0,2.0,1982
+Cessna,206,Takeoff,0.0,0.0,0.0,1.0,1982
+Beech,S35,Taxi,0.0,0.0,0.0,1.0,1982
+Piper,PA-32-300,Unknown,2.0,0.0,0.0,0.0,1982
+Cessna,340,Takeoff,0.0,0.0,0.0,1.0,1982
+Cessna,182,Landing,0.0,0.0,0.0,1.0,1982
+Cessna,R182,Cruise,1.0,2.0,0.0,0.0,1982
+Cessna,310C,Approach,0.0,0.0,1.0,0.0,1982
+Maule,M-5-210C,Landing,0.0,0.0,0.0,1.0,1982
+Cessna,402B,Taxi,0.0,0.0,0.0,2.0,1982
+Cessna,172G,Cruise,1.0,0.0,1.0,0.0,1982
+Piper,PA-31P,Approach,4.0,0.0,0.0,0.0,1982
+Ted Smith,601P,Maneuvering,1.0,0.0,0.0,0.0,1982
+Piper,PA-31-350,Takeoff,3.0,0.0,0.0,0.0,1982
+Piper,PA-34-200T,Cruise,4.0,0.0,0.0,0.0,1982
+Cessna,P210N,Climb,4.0,0.0,0.0,0.0,1982
+Cessna,210E,Climb,0.0,0.0,0.0,3.0,1982
+Beech,50,Takeoff,0.0,0.0,0.0,1.0,1982
+Cessna,182D,Takeoff,0.0,0.0,0.0,1.0,1982
+Aerospatiale,S350D,Cruise,2.0,0.0,0.0,0.0,1982
+Piper,PA-24-260,Cruise,0.0,0.0,0.0,1.0,1982
+Beech,A36,Approach,0.0,0.0,0.0,1.0,1982
+Cessna,R172K,Cruise,2.0,0.0,0.0,0.0,1982
+Cessna,340A,Cruise,1.0,0.0,0.0,0.0,1982
+Piper,PA-28-140,Cruise,0.0,0.0,0.0,1.0,1982
+Cessna,170B,Maneuvering,0.0,1.0,0.0,1.0,1982
+Cessna,551,Takeoff,3.0,0.0,0.0,0.0,1982
+Piper,601P,Approach,0.0,1.0,0.0,0.0,1982
+Piper,PA-44-180,Takeoff,1.0,0.0,0.0,0.0,1982
+Cessna,337,Landing,0.0,0.0,0.0,2.0,1982
+Bell,47D1,Cruise,0.0,0.0,0.0,2.0,1982
+Robinson,R-22,Takeoff,0.0,0.0,0.0,2.0,1982
+Piper,PA-34,Cruise,2.0,0.0,0.0,0.0,1982
+Beech,C23,Maneuvering,2.0,0.0,0.0,0.0,1982
+Piper,PA-18-150,Landing,0.0,0.0,1.0,0.0,1982
+Piper,PA-34-200T,Takeoff,0.0,0.0,0.0,3.0,1982
+Beech,C23,Cruise,0.0,0.0,1.0,0.0,1982
+Piper,32RT-300T,Takeoff,0.0,1.0,0.0,0.0,1982
+Beech,58,Takeoff,0.0,0.0,0.0,1.0,1982
+Enstrom,F-28A,Maneuvering,0.0,0.0,1.0,2.0,1982
+Bell,206B,Cruise,2.0,0.0,0.0,0.0,1982
+Cessna,551,Climb,0.0,0.0,0.0,1.0,1982
+Cessna,421B,Go-around,4.0,0.0,0.0,0.0,1982
+Mitsubishi,MU-2,Landing,0.0,0.0,0.0,2.0,1982
+Mitsubishi,MU-2B-20,Maneuvering,0.0,0.0,1.0,4.0,1982
+S.n.i.a.s.,AS350D,Landing,0.0,1.0,1.0,0.0,1982
+Piper,PA-32R-301,Takeoff,0.0,1.0,0.0,0.0,1982
+Bell,214B,Unknown,2.0,0.0,0.0,0.0,1982
+Cessna,310R,Cruise,0.0,0.0,0.0,1.0,1982
+Piper,PA-23-250,Takeoff,0.0,0.0,1.0,0.0,1982
+Cessna,421B,Landing,0.0,0.0,0.0,6.0,1982
+Cessna,182,Takeoff,0.0,0.0,0.0,3.0,1982
+Cessna,T337G,Taxi,0.0,0.0,0.0,1.0,1982
+Cessna,T210M,Cruise,1.0,0.0,0.0,0.0,1982
+Beech,A36,Takeoff,0.0,0.0,0.0,2.0,1983
+Cessna,T303,Climb,5.0,0.0,0.0,0.0,1983
+Piper,AEROSTAR 602P,Approach,1.0,0.0,0.0,0.0,1983
+Piper,PA-28-161,Approach,0.0,0.0,0.0,1.0,1983
+Cessna,P210N,Cruise,0.0,0.0,0.0,5.0,1983
+Beech,200,Cruise,0.0,0.0,0.0,2.0,1983
+Bellanca,17-30A,Go-around,0.0,0.0,0.0,1.0,1983
+Cessna,180K,Landing,0.0,0.0,0.0,2.0,1983
+Cessna,182M,Approach,0.0,0.0,0.0,1.0,1983
+Cessna,172XP,Go-around,0.0,0.0,0.0,1.0,1983
+Piper,PA-28-140,Cruise,3.0,0.0,0.0,0.0,1983
+Cessna,A185F,Approach,3.0,0.0,0.0,0.0,1983
+Mitsubishi,MU-2B-30,Landing,0.0,0.0,0.0,2.0,1983
+Beech,95-C55,Landing,0.0,0.0,0.0,2.0,1983
+Bell,206L-3,Cruise,2.0,0.0,0.0,0.0,1983
+Beech,E18-S,Landing,0.0,0.0,0.0,2.0,1983
+Beech,D55,Approach,0.0,0.0,0.0,1.0,1983
+Robinson,R22,Standing,0.0,0.0,0.0,2.0,1983
+Beech,M35,Standing,0.0,1.0,0.0,0.0,1983
+Aero Commander,680FL P,Cruise,2.0,0.0,0.0,0.0,1983
+Maule,M-5-220C,Cruise,0.0,1.0,3.0,0.0,1983
+Mitsubishi,MU-2B-36,Landing,0.0,0.0,0.0,7.0,1983
+Beech,58,Cruise,2.0,0.0,0.0,0.0,1983
+Cessna,550,Takeoff,0.0,0.0,0.0,8.0,1983
+Gates Learjet,LR24DXR,Landing,0.0,0.0,0.0,3.0,1983
+Cessna,550,Taxi,0.0,0.0,0.0,8.0,1983
+Navion,G,Cruise,2.0,0.0,0.0,0.0,1983
+Cessna,T210M,Climb,0.0,0.0,0.0,3.0,1983
+Cessna,TR182,Cruise,2.0,0.0,0.0,0.0,1983
+Piper,PA-28R-200,Approach,0.0,2.0,0.0,0.0,1983
+Cessna,R182,Landing,0.0,0.0,0.0,1.0,1983
+Cessna,182Q,Go-around,0.0,0.0,1.0,2.0,1983
+Swearingen,SA-26T,Landing,0.0,0.0,0.0,1.0,1983
+Piper,PA-23-250,Takeoff,1.0,0.0,0.0,0.0,1983
+Piper,PA-28R-200,Landing,0.0,0.0,0.0,2.0,1983
+Piper,PA-44-180T,Go-around,0.0,1.0,2.0,0.0,1983
+Cessna,172RG,Landing,0.0,0.0,0.0,1.0,1983
+Cessna,150G,Takeoff,0.0,0.0,0.0,1.0,1983
+Beech,V35A,Approach,0.0,2.0,2.0,0.0,1983
+Piper,PA-31P,Approach,0.0,0.0,0.0,2.0,1983
+Piper,PA-24-180,Descent,3.0,0.0,0.0,0.0,1983
+Cessna,180J,Cruise,1.0,0.0,0.0,0.0,1983
+Cessna,P-206C,Go-around,3.0,0.0,0.0,0.0,1983
+Bell,BH 206-L111,Takeoff,0.0,0.0,0.0,5.0,1983
+Mooney,M20F,Cruise,0.0,0.0,1.0,0.0,1983
+Douglas,DC-6A,Taxi,0.0,0.0,0.0,3.0,1983
+Piper,PA-34-200,Approach,0.0,0.0,0.0,3.0,1983
+Raven,RX-7,Climb,0.0,0.0,0.0,5.0,1983
+Piper,PA-28-181,Takeoff,0.0,1.0,1.0,0.0,1983
+Cessna,182G,Cruise,0.0,0.0,0.0,2.0,1983
+Beech,C-23,Landing,0.0,0.0,0.0,2.0,1983
+Cessna,401,Cruise,0.0,0.0,0.0,6.0,1983
+Cessna,310C,Takeoff,0.0,0.0,1.0,1.0,1983
+Bellanca,8KCAB,Approach,0.0,0.0,0.0,1.0,1983
+Cessna,C-150L,Landing,0.0,0.0,0.0,1.0,1983
+Grumman American,AA-1B,Climb,0.0,0.0,2.0,0.0,1983
+Piper,PA-601P,Landing,0.0,0.0,0.0,1.0,1983
+Piper,PA-22-150,Other,0.0,0.0,0.0,4.0,1983
+Beech,35-C33,Cruise,0.0,0.0,0.0,3.0,1983
+Piper,PA-31T1,Landing,0.0,0.0,0.0,3.0,1983
+Cessna,182,Landing,0.0,0.0,0.0,2.0,1983
+Piper,PA-32R-300,Descent,1.0,0.0,0.0,0.0,1983
+Mooney,M20F,Taxi,0.0,0.0,0.0,2.0,1983
+Cessna,182,Cruise,0.0,2.0,0.0,0.0,1983
+Cessna,U206G,Takeoff,0.0,2.0,0.0,1.0,1983
+Piper,PA-24-400,Cruise,1.0,0.0,0.0,0.0,1983
+Cessna,210C,Taxi,0.0,0.0,0.0,2.0,1983
+Mooney,M20-K,Landing,0.0,0.0,0.0,2.0,1983
+Cessna,182RG,Descent,0.0,0.0,0.0,4.0,1983
+Beech,A56TC,Landing,0.0,0.0,0.0,3.0,1983
+Bell,47G2,Landing,0.0,1.0,1.0,0.0,1983
+Cessna,195A,Taxi,0.0,0.0,0.0,5.0,1983
+"Anderson, Greenwood",51,Taxi,0.0,0.0,0.0,1.0,1983
+Cessna,T310R,Approach,1.0,0.0,0.0,0.0,1983
+Piper,PA-60-601P,Landing,0.0,0.0,0.0,2.0,1983
+Cessna,182,Cruise,1.0,0.0,0.0,0.0,1983
+Britten-norman,BN-2A-8,Cruise,2.0,1.0,0.0,0.0,1983
+Piper,PA-32RT-300,Cruise,6.0,0.0,0.0,0.0,1983
+Piper,PA32-300,Landing,6.0,0.0,0.0,0.0,1983
+Cessna,172 I,Approach,0.0,0.0,0.0,2.0,1983
+Cessna,U-206,Takeoff,0.0,0.0,0.0,1.0,1983
+Cessna,182K,Approach,0.0,0.0,1.0,1.0,1983
+Cessna,210K,Approach,0.0,0.0,1.0,0.0,1983
+Cessna,182P,Approach,0.0,2.0,0.0,0.0,1983
+Piper,PA18-150,Maneuvering,0.0,1.0,0.0,1.0,1983
+Piper,PA-28R-180,Takeoff,0.0,1.0,1.0,0.0,1983
+Piper,PA-32-300,Cruise,1.0,0.0,0.0,0.0,1983
+Piper,PA-28-201T,Landing,0.0,0.0,0.0,3.0,1983
+Hiller,12-E,Landing,0.0,0.0,0.0,3.0,1983
+Cessna,172N,Takeoff,0.0,0.0,2.0,0.0,1983
+Mooney,M20K,Climb,0.0,0.0,0.0,4.0,1983
+Cessna,C-185F,Takeoff,0.0,0.0,0.0,1.0,1983
+Piper,PA-23-250,Landing,0.0,0.0,1.0,0.0,1983
+Cessna,182H,Landing,0.0,0.0,0.0,3.0,1983
+Hiller,FH-1100,Cruise,2.0,0.0,0.0,0.0,1983
+Beech,A36,Approach,3.0,0.0,0.0,0.0,1983
+Cessna,340,Approach,3.0,0.0,0.0,0.0,1983
+Cessna,CE-500,Takeoff,0.0,0.0,2.0,3.0,1983
+Cessna,150C,Takeoff,0.0,0.0,2.0,0.0,1983
+Hughes,269B,Landing,0.0,0.0,0.0,1.0,1983
+Cessna,U206,Landing,0.0,0.0,0.0,2.0,1983
+Hughes,500D,Maneuvering,0.0,0.0,0.0,3.0,1983
+Piper,PA-28-151,Descent,0.0,0.0,0.0,1.0,1983
+Beech,B-60,Taxi,0.0,0.0,0.0,2.0,1983
+Beech,E33,Approach,0.0,0.0,0.0,4.0,1983
+Beech,C-50,Cruise,0.0,0.0,1.0,1.0,1983
+Piper,PA-31-350,Approach,0.0,0.0,3.0,0.0,1983
+Cessna,421B,Approach,0.0,0.0,0.0,1.0,1983
+Cessna,180K,Taxi,0.0,0.0,0.0,1.0,1983
+Cessna,182R,Takeoff,4.0,0.0,0.0,0.0,1983
+Beech,58,Landing,0.0,0.0,0.0,3.0,1983
+Mooney,M-20-J-201,Cruise,1.0,0.0,0.0,0.0,1983
+Piper,PA-32-260,Go-around,0.0,0.0,0.0,3.0,1983
+Piper,PA-28R,Cruise,1.0,0.0,0.0,0.0,1983
+Piper,PA-18-150,Approach,0.0,0.0,0.0,2.0,1983
+Beech,BE60,Climb,0.0,0.0,0.0,3.0,1983
+Cessna,172P,Cruise,2.0,0.0,0.0,0.0,1983
+Piper,PA18-150,Landing,0.0,0.0,0.0,1.0,1983
+Enstrom,280C,Cruise,0.0,0.0,1.0,1.0,1983
+Fairchild Hiller,FH-1100,Takeoff,0.0,0.0,0.0,4.0,1983
+Cessna,195,Approach,0.0,0.0,0.0,1.0,1983
+Cessna,180B,Takeoff,0.0,0.0,0.0,2.0,1983
+Ultralight Engineering,ASTRA HS,Approach,1.0,0.0,0.0,0.0,1983
+Cessna,TU206,Landing,0.0,0.0,0.0,1.0,1983
+Cessna,TU206,Takeoff,0.0,0.0,2.0,0.0,1983
+Piper,PT 6A-28,Cruise,0.0,0.0,3.0,0.0,1983
+Boeing Vertol,234ER,Climb,0.0,0.0,0.0,19.0,1983
+Aero Commander,680FL,Cruise,2.0,0.0,0.0,0.0,1983
+Enstrom,280C,Takeoff,0.0,0.0,2.0,0.0,1983
+Piper,PA-34-200T,Landing,0.0,0.0,0.0,3.0,1983
+Cessna,206A,Landing,0.0,0.0,0.0,2.0,1983
+Piper,PA-28RT-201,Takeoff,0.0,0.0,1.0,0.0,1983
+Cessna,TU206G,Cruise,0.0,0.0,1.0,0.0,1983
+Robinson,R-22,Standing,0.0,1.0,0.0,0.0,1983
+Cessna,182,Landing,0.0,0.0,0.0,1.0,1983
+Cessna,C-188,Takeoff,0.0,0.0,0.0,1.0,1983
+Hughes,369D,Cruise,0.0,0.0,1.0,3.0,1983
+Piper,PA-23,Cruise,0.0,0.0,0.0,3.0,1983
+Cessna,195A,Takeoff,0.0,0.0,0.0,1.0,1983
+Cessna,172,Landing,0.0,0.0,2.0,0.0,1983
+Beech,95-B55,Approach,0.0,0.0,0.0,1.0,1983
+Cessna,421A,Climb,8.0,0.0,0.0,0.0,1983
+Cessna,182F,Takeoff,0.0,0.0,0.0,1.0,1983
+Boeing,A75,Taxi,0.0,0.0,0.0,4.0,1983
+Beech,C24R,Approach,0.0,2.0,0.0,0.0,1983
+Cessna,172,Landing,0.0,0.0,0.0,2.0,1983
+Piper,PA-24-250,Approach,0.0,0.0,1.0,0.0,1983
+Cessna,TU-206G,Taxi,0.0,0.0,1.0,2.0,1983
+Maule,M-5-235C,Cruise,0.0,2.0,1.0,0.0,1983
+Piper,PA-28-181,Go-around,0.0,0.0,1.0,0.0,1983
+Cessna,172RG,Landing,0.0,0.0,0.0,1.0,1983
+Cessna,206,Landing,0.0,0.0,0.0,1.0,1983
+Douglas,DC-7C,Takeoff,0.0,0.0,0.0,3.0,1983
+Clark,SUPER Q2,Takeoff,1.0,0.0,0.0,0.0,1983
+Fairchild,C-82A,Landing,0.0,0.0,0.0,2.0,1983
+Piper,PA-32RT-300T,Climb,0.0,2.0,0.0,0.0,1983
+Bellanca,17-31A,Cruise,0.0,0.0,0.0,1.0,1983
+Curtiss,C-46A,Landing,0.0,2.0,0.0,0.0,1983
+Piper,PA-18,Takeoff,0.0,0.0,0.0,2.0,1983
+Piper,PA-32R-300,Cruise,0.0,4.0,0.0,0.0,1983
+Bell,47J-2A,Cruise,0.0,0.0,0.0,3.0,1983
+Aero Commander,680,Approach,0.0,0.0,0.0,1.0,1983
+Bellanca,8GCBC,Landing,0.0,0.0,0.0,3.0,1983
+Piper,PA-32-300,Landing,0.0,0.0,3.0,0.0,1983
+Bellanca,17-30,Approach,1.0,0.0,0.0,0.0,1983
+Cessna,172,Cruise,0.0,0.0,0.0,2.0,1983
+Piper,PA-31P,Climb,4.0,0.0,0.0,0.0,1983
+Cessna,T210N,Climb,2.0,0.0,0.0,0.0,1983
+Helio,H-295,Landing,0.0,0.0,0.0,1.0,1983
+Cessna,TR 182,Descent,0.0,0.0,0.0,1.0,1983
+Cessna,T210N,Landing,0.0,0.0,3.0,0.0,1983
+Cessna,152,Cruise,0.0,1.0,0.0,0.0,1983
+Cessna,206,Takeoff,0.0,0.0,1.0,0.0,1983
+Mooney,M20C,Landing,0.0,0.0,0.0,1.0,1983
+Piper,PA-28-181,Landing,0.0,0.0,0.0,4.0,1983
+Piper,J3C-65,Taxi,0.0,0.0,0.0,2.0,1983
+Cessna,T210N,Taxi,0.0,0.0,0.0,2.0,1983
+Cessna,172 N,Landing,0.0,0.0,0.0,1.0,1983
+Piper,PA-32-300,Landing,0.0,0.0,0.0,1.0,1983
+Bell,206B,Landing,0.0,0.0,0.0,1.0,1983
+Piper,601P,Takeoff,0.0,0.0,0.0,6.0,1983
+Cessna,336,Landing,0.0,0.0,0.0,1.0,1983
+Hughes,369D,Cruise,0.0,0.0,0.0,1.0,1983
+Aerospatiale,SA-315B,Maneuvering,0.0,0.0,0.0,4.0,1983
+Beech,M35,Takeoff,0.0,0.0,0.0,1.0,1983
+Piper,PA-11,Cruise,0.0,0.0,0.0,1.0,1983
+Cessna,182Q,Takeoff,0.0,0.0,0.0,2.0,1983
+Beech,S35,Takeoff,0.0,0.0,0.0,3.0,1983
+Piper,PA-32R-301,Taxi,0.0,0.0,0.0,4.0,1983
+Cessna,172P,Landing,0.0,0.0,0.0,1.0,1983
+Piper,PA-28RT-201T,Takeoff,0.0,0.0,0.0,1.0,1983
+Piper,PA-28-181,Takeoff,2.0,0.0,0.0,0.0,1983
+Cessna,172M,Landing,0.0,0.0,0.0,3.0,1983
+Piper,PA-24-250,Approach,0.0,2.0,0.0,0.0,1983
+Cessna,421A,Climb,1.0,2.0,0.0,0.0,1983
+Enstrom,280C,Takeoff,0.0,0.0,0.0,2.0,1983
+Piper,PA-28-140,Landing,0.0,0.0,0.0,1.0,1983
+Cessna,140,Landing,0.0,0.0,0.0,1.0,1983
+"Smith, Ted Aerostar",600-A,Takeoff,0.0,0.0,0.0,1.0,1983
+Cessna,C-177RG,Landing,0.0,0.0,0.0,3.0,1983
+Hiller,UH-12E,Maneuvering,0.0,0.0,0.0,1.0,1983
+Piper,PA-31-350,Approach,0.0,1.0,1.0,0.0,1983
+Aeronca,7AC CHAMP,Takeoff,0.0,0.0,0.0,2.0,1983
+Cessna,P206C,Maneuvering,0.0,3.0,0.0,2.0,1983
+Hughes,369HS,Cruise,1.0,0.0,0.0,0.0,1983
+Cessna,T-210N,Climb,0.0,0.0,1.0,1.0,1983
+Cessna,R172K,Cruise,1.0,0.0,0.0,0.0,1983
+Beech,C35,Approach,0.0,1.0,0.0,0.0,1983
+Enstrom,F-28C,Landing,0.0,0.0,0.0,3.0,1983
+Beech,A36,Cruise,0.0,0.0,0.0,3.0,1983
+Eipper Quicksilver,MX II,Maneuvering,0.0,0.0,2.0,0.0,1983
+Piper,PA-31-350,Takeoff,0.0,0.0,0.0,1.0,1983
+Bellanca,7GCBC,Cruise,0.0,0.0,0.0,1.0,1983
+Hughes,369D,Maneuvering,0.0,0.0,1.0,0.0,1983
+Beech,D45(T-34),Landing,0.0,0.0,0.0,1.0,1983
+Piper,PA-32R-301,Approach,3.0,0.0,0.0,0.0,1983
+Mbb,BO-105S,Cruise,2.0,0.0,0.0,0.0,1983
+Bellanca,8KCAB,Approach,0.0,0.0,0.0,1.0,1983
+Piper,PA-18,Takeoff,0.0,0.0,1.0,1.0,1983
+Cessna,U206F,Cruise,0.0,0.0,0.0,1.0,1983
+Beech,M35,Approach,0.0,0.0,0.0,1.0,1983
+Aero Commander,100,Cruise,0.0,0.0,1.0,0.0,1983
+S.n.i.a.s.,AS350D,Cruise,0.0,0.0,0.0,1.0,1983
+Hughes,500C,Approach,0.0,0.0,0.0,3.0,1983
+Piper,PA-32R-300,Landing,0.0,0.0,0.0,1.0,1983
+Eipper,QUICKSILVER MX 11,Maneuvering,0.0,0.0,1.0,1.0,1983
+Aerotek,S-2A,Descent,0.0,0.0,0.0,1.0,1983
+Cessna,172,Taxi,0.0,0.0,0.0,1.0,1983
+Beech,60,Climb,0.0,0.0,0.0,2.0,1983
+Beech,58,Landing,0.0,0.0,0.0,1.0,1983
+De Havilland,DHC2,Takeoff,0.0,0.0,0.0,9.0,1983
+Cessna,TU206G,Landing,0.0,0.0,0.0,2.0,1983
+Cessna,172P,Approach,0.0,0.0,4.0,0.0,1983
+Cessna,310,Descent,0.0,0.0,0.0,2.0,1983
+Piper,PA-30,Landing,0.0,0.0,0.0,1.0,1983
+Piper,PA-20,Landing,0.0,0.0,0.0,1.0,1983
+Piper,PA-28R-201T,Landing,0.0,0.0,0.0,2.0,1983
+Beech,S35,Takeoff,0.0,0.0,0.0,3.0,1983
+Piper,PA-28R-180,Cruise,0.0,0.0,1.0,0.0,1983
+Piper,PA-28-236,Cruise,1.0,0.0,0.0,0.0,1983
+North American,SNJ-2,Taxi,0.0,0.0,0.0,2.0,1983
+North American,SNJ-2,Standing,0.0,0.0,0.0,2.0,1983
+Beech,58,Landing,0.0,0.0,0.0,1.0,1983
+Cessna,172M,Takeoff,0.0,0.0,0.0,2.0,1983
+Beech,A-36,Landing,0.0,0.0,0.0,1.0,1983
+Cessna,210-5 (205),Cruise,2.0,0.0,0.0,0.0,1983
+Piper,PA-38,Landing,0.0,0.0,0.0,1.0,1983
+Piper,PA-28R-200,Cruise,0.0,0.0,0.0,3.0,1983
+Piper,PA-28-180,Approach,0.0,0.0,0.0,1.0,1983
+Cessna,210B,Landing,0.0,0.0,0.0,1.0,1983
+Cessna,U206G,Takeoff,0.0,0.0,0.0,1.0,1983
+Piper,PA-31-350,Landing,0.0,0.0,1.0,4.0,1983
+Beech,58P,Takeoff,0.0,1.0,5.0,0.0,1983
+Cessna,TU206G,Approach,2.0,0.0,0.0,0.0,1983
+Mooney,M20F,Cruise,0.0,0.0,0.0,1.0,1983
+Bell,206L-3,Cruise,0.0,0.0,0.0,7.0,1983
+Bell,206-B,Maneuvering,0.0,1.0,2.0,0.0,1983
+Cessna,180,Takeoff,0.0,0.0,0.0,1.0,1983
+Beech,A36,Unknown,0.0,0.0,0.0,1.0,1983
+Cessna,T337E,Approach,0.0,0.0,2.0,0.0,1983
+Cessna,414A,Standing,0.0,0.0,0.0,5.0,1983
+Maule,M-4-210C,Approach,1.0,0.0,0.0,0.0,1983
+American,AA1,Cruise,0.0,0.0,0.0,2.0,1983
+Cessna,TR182,Landing,0.0,0.0,1.0,1.0,1983
+Aero Commander,100,Cruise,0.0,0.0,0.0,1.0,1983
+Piper,PA-28-180,Cruise,0.0,0.0,1.0,0.0,1983
+Cessna,180A,Takeoff,0.0,0.0,0.0,2.0,1983
+Mooney,M-20K,Approach,0.0,0.0,2.0,0.0,1983
+Cessna,T210N,Cruise,3.0,0.0,0.0,0.0,1983
+Cessna,421B,Landing,0.0,0.0,0.0,127.0,1983
+Hughes,369D,Takeoff,0.0,0.0,0.0,1.0,1983
+Piper,PA-28R-200,Taxi,0.0,0.0,0.0,1.0,1983
+Cessna,172RG,Descent,1.0,0.0,0.0,0.0,1983
+Piper,PA-18A 150,Landing,0.0,0.0,0.0,2.0,1983
+Bellanca,17-30A,Descent,2.0,0.0,0.0,0.0,1983
+Beech,A36,Approach,3.0,1.0,0.0,0.0,1983
+Bell,206B,Cruise,0.0,1.0,1.0,1.0,1983
+Beech,D18S,Unknown,1.0,0.0,0.0,0.0,1983
+Cessna,T210M,Takeoff,3.0,0.0,0.0,0.0,1983
+Cessna,21ON,Cruise,0.0,1.0,2.0,0.0,1983
+Beech,V35B,Landing,0.0,0.0,0.0,1.0,1983
+Bell,222U,Taxi,0.0,0.0,0.0,3.0,1983
+Cessna,425,Approach,1.0,0.0,0.0,0.0,1983
+Beech,A36,Standing,0.0,0.0,0.0,4.0,1983
+Beech,A-36,Cruise,0.0,0.0,0.0,4.0,1983
+Piper,PA-32-260,Cruise,0.0,0.0,0.0,1.0,1983
+Hiller,UH-12C,Cruise,0.0,0.0,0.0,2.0,1983
+Cessna,182P-SYLANE,Landing,0.0,0.0,0.0,1.0,1983
+Cessna,C-185-D,Takeoff,0.0,2.0,0.0,0.0,1983
+Piper,PA-28R-201T,Takeoff,2.0,0.0,0.0,0.0,1983
+Cessna,425,Landing,0.0,0.0,0.0,6.0,1983
+Beech,BE-36,Cruise,2.0,0.0,0.0,0.0,1983
+Piper,PA-23-250,Takeoff,0.0,0.0,0.0,2.0,1983
+Beech,C-45H,Takeoff,0.0,0.0,0.0,11.0,1984
+Piper,601P,Climb,0.0,0.0,0.0,1.0,1984
+Cessna,P206,Cruise,4.0,0.0,0.0,0.0,1984
+Cessna,320C,Approach,1.0,0.0,0.0,0.0,1984
+Cessna,172M,Landing,0.0,0.0,0.0,2.0,1984
+Beech,65-90,Landing,0.0,0.0,0.0,5.0,1984
+Cessna,120,Landing,0.0,0.0,0.0,1.0,1984
+Rockwell,690B,Approach,4.0,0.0,0.0,0.0,1984
+Piper,PA-34-220T,Takeoff,0.0,0.0,0.0,2.0,1984
+Beech,K35,Cruise,0.0,0.0,0.0,4.0,1984
+Bell,206L-1,Maneuvering,0.0,4.0,1.0,2.0,1984
+Cessna,P210N,Approach,3.0,0.0,0.0,0.0,1984
+Cessna,210D,Other,0.0,0.0,0.0,2.0,1984
+Piper,PA-22-150,Approach,0.0,1.0,0.0,0.0,1984
+Bell,206L-1,Landing,0.0,0.0,2.0,1.0,1984
+Beech,A-36,Takeoff,0.0,0.0,2.0,0.0,1984
+Swearingen,SA-226T,Landing,0.0,0.0,0.0,9.0,1984
+Learjet,24,Landing,6.0,0.0,0.0,0.0,1984
+Enstrom,F-28C,Maneuvering,1.0,0.0,0.0,0.0,1984
+Cessna,402,Cruise,2.0,0.0,0.0,0.0,1984
+Hughes,500C (369HS),Cruise,0.0,1.0,0.0,0.0,1984
+Piper,PA-30B,Takeoff,1.0,0.0,0.0,0.0,1984
+Piper,PA-31T,Climb,0.0,2.0,1.0,0.0,1984
+Bell,47G-2A,Maneuvering,0.0,0.0,1.0,1.0,1984
+Piper,PA-32RT-300T,Takeoff,4.0,2.0,0.0,0.0,1984
+Robinson,R-22,Taxi,0.0,0.0,0.0,2.0,1984
+Beech,F33A,Landing,0.0,0.0,0.0,2.0,1984
+Beech,A-36,Cruise,1.0,0.0,0.0,0.0,1984
+Bell,47G-2A,Cruise,0.0,0.0,0.0,2.0,1984
+Cessna,177RG,Takeoff,2.0,0.0,0.0,0.0,1984
+Beech,95-B55,Landing,0.0,0.0,0.0,4.0,1984
+Beech,B-58,Landing,0.0,0.0,0.0,2.0,1984
+Cessna,172N,Takeoff,0.0,2.0,0.0,0.0,1984
+Bell,47G4A,Maneuvering,0.0,0.0,1.0,0.0,1984
+Cessna,172,Approach,0.0,0.0,0.0,1.0,1984
+Cessna,185C,Cruise,0.0,0.0,0.0,2.0,1984
+Cessna,T-210N,Landing,0.0,0.0,2.0,0.0,1984
+Piper,PA-32RT-300,Takeoff,0.0,0.0,1.0,3.0,1984
+Cessna,425,Approach,0.0,0.0,2.0,0.0,1984
+Bell,UH-1B,Cruise,0.0,0.0,2.0,0.0,1984
+Cessna,182Q,Taxi,0.0,0.0,0.0,1.0,1984
+Cessna,500,Landing,0.0,0.0,0.0,7.0,1984
+Cessna,R172K,Landing,0.0,0.0,0.0,2.0,1984
+Cessna,U206,Cruise,2.0,0.0,0.0,0.0,1984
+Bell,206L-1,Maneuvering,0.0,2.0,1.0,0.0,1984
+Cessna,421B,Approach,6.0,0.0,0.0,0.0,1984
+Piper,PA-31T,Cruise,0.0,0.0,0.0,7.0,1984
+Cessna,172 M,Taxi,0.0,0.0,0.0,1.0,1984
+Cessna,150L,,2.0,0.0,0.0,0.0,1984
+Rockwell,112TCA,Climb,4.0,0.0,0.0,0.0,1984
+Beech,BE-90,Takeoff,0.0,0.0,0.0,7.0,1984
+Piper,PA-28RT-201T,Cruise,1.0,0.0,1.0,0.0,1984
+Cessna,337A,Cruise,0.0,0.0,2.0,4.0,1984
+Cessna,340,Landing,0.0,0.0,0.0,4.0,1984
+Hughes,269,Cruise,0.0,2.0,0.0,0.0,1984
+Piper,PA-34-200T,Takeoff,1.0,0.0,5.0,0.0,1984
+Piper,PA-24-180,Approach,0.0,1.0,2.0,1.0,1984
+Piper,PA-32-260,Maneuvering,0.0,0.0,1.0,0.0,1984
+Piper,PA-31-350,Maneuvering,5.0,0.0,0.0,0.0,1984
+Cessna,421C,Landing,0.0,0.0,0.0,4.0,1984
+Cessna,337E,Taxi,0.0,0.0,1.0,0.0,1984
+Piper,PA-32-301T,Cruise,0.0,0.0,0.0,1.0,1984
+Beech,C90,Descent,0.0,0.0,0.0,2.0,1984
+Bellanca,14-19-3,Landing,0.0,2.0,0.0,0.0,1984
+Beech,65-A90,Takeoff,0.0,0.0,0.0,1.0,1984
+Cessna,P210N,Landing,0.0,0.0,0.0,1.0,1984
+Cessna,150K,Approach,0.0,0.0,1.0,0.0,1984
+Beech,95-B55,Landing,0.0,0.0,0.0,1.0,1984
+Cessna,310I,Approach,2.0,0.0,0.0,0.0,1984
+Cessna,172N,Go-around,0.0,0.0,0.0,1.0,1984
+Beech,N35,Cruise,2.0,0.0,0.0,0.0,1984
+Piper,PA-34-200T,Takeoff,1.0,0.0,0.0,0.0,1984
+Cessna,182Q,Climb,2.0,0.0,0.0,0.0,1984
+Piper,PA-28R-201T,Unknown,2.0,0.0,0.0,0.0,1984
+Beech,BE-18D,Descent,0.0,0.0,0.0,2.0,1984
+Cessna,182Q,Landing,0.0,0.0,0.0,2.0,1984
+Mooney,M20C,Climb,1.0,0.0,0.0,0.0,1984
+Cessna,A185F,Takeoff,0.0,0.0,0.0,4.0,1984
+Piper,PA-28R-200,Approach,1.0,0.0,0.0,0.0,1984
+Piper,PA-28-161,Cruise,1.0,0.0,0.0,0.0,1984
+"Beasley, Gerald L.",VARIEZE,Cruise,0.0,1.0,0.0,0.0,1984
+Fairchild,C-119,Takeoff,0.0,0.0,0.0,4.0,1984
+Piper,PA-34-220T,Approach,6.0,0.0,0.0,0.0,1984
+Cessna,185,Landing,0.0,0.0,0.0,2.0,1984
+Piper,PA-32RT-300,Takeoff,1.0,0.0,0.0,0.0,1984
+Cessna,170B,Landing,1.0,1.0,0.0,0.0,1984
+Beech,F35,Takeoff,0.0,0.0,0.0,1.0,1984
+Beech,A36,Landing,0.0,0.0,0.0,4.0,1984
+Cessna,140,Approach,2.0,0.0,0.0,0.0,1984
+Beech,35,Approach,0.0,1.0,0.0,0.0,1984
+Piper,PA-28-235,Takeoff,0.0,0.0,0.0,1.0,1984
+Gulfstream American,AA5A,Cruise,0.0,0.0,1.0,0.0,1984
+Hughes,500D,Cruise,0.0,0.0,0.0,2.0,1984
+Stinson,108-3,Cruise,0.0,1.0,0.0,0.0,1984
+Cessna,150F,Unknown,1.0,0.0,0.0,0.0,1984
+Piper,PA-34-220T,Landing,0.0,0.0,0.0,1.0,1984
+Cessna,172,Landing,0.0,0.0,0.0,3.0,1984
+Cessna,180H,Takeoff,1.0,2.0,0.0,0.0,1984
+Beech,BE35G,Cruise,1.0,0.0,0.0,0.0,1984
+Robinson,R22,Standing,0.0,1.0,0.0,1.0,1984
+Cessna,172M,Landing,0.0,0.0,0.0,1.0,1984
+Pitts,S2A,Takeoff,0.0,0.0,1.0,1.0,1984
+Pitts,S2A,Takeoff,0.0,0.0,1.0,1.0,1984
+Beech,V35A,Cruise,0.0,0.0,0.0,2.0,1984
+Cessna,172P,Taxi,0.0,0.0,0.0,1.0,1984
+Bellanca,17-30A,Climb,0.0,0.0,1.0,0.0,1984
+Cessna,A188B,Landing,0.0,0.0,0.0,1.0,1984
+Cessna,150M,Takeoff,0.0,0.0,0.0,2.0,1984
+Maule,M-5,Maneuvering,0.0,0.0,0.0,1.0,1984
+Cessna,A185F,Landing,0.0,0.0,0.0,1.0,1984
+Cessna,172RG,Landing,0.0,0.0,0.0,2.0,1984
+Cessna,182P,Takeoff,0.0,3.0,0.0,0.0,1984
+Piper,PA-28-140,Landing,0.0,0.0,0.0,1.0,1984
+Bellanca,7GCBC,Approach,0.0,0.0,0.0,2.0,1984
+Mooney,M20J,Takeoff,2.0,0.0,0.0,0.0,1984
+Cessna,T210M,Takeoff,0.0,0.0,0.0,1.0,1984
+Cessna,177RG,Approach,0.0,0.0,0.0,3.0,1984
+Cessna,421B,Landing,0.0,0.0,0.0,8.0,1984
+North American,P-51 MUSTANG X,Landing,0.0,0.0,0.0,1.0,1984
+Hughes,269C,Approach,0.0,0.0,2.0,0.0,1984
+Beech,B55,Takeoff,1.0,0.0,0.0,0.0,1984
+Enstrom,F-28A,Maneuvering,0.0,0.0,0.0,2.0,1984
+Bell,47G2,Maneuvering,0.0,3.0,0.0,0.0,1984
+Cessna,A185F,Cruise,0.0,0.0,0.0,4.0,1984
+Cessna,172M,Maneuvering,2.0,0.0,0.0,2.0,1984
+Cessna,414A,Cruise,4.0,0.0,0.0,0.0,1984
+Cessna,337G,Landing,0.0,0.0,0.0,1.0,1984
+Piper,PA-28R-201,Takeoff,0.0,0.0,0.0,4.0,1984
+Bell,206B,Maneuvering,0.0,0.0,0.0,1.0,1984
+Piper,PA-25-235,Maneuvering,1.0,0.0,0.0,0.0,1984
+Beech,58 E,Landing,0.0,0.0,0.0,1.0,1984
+Beech,D-18S,Takeoff,0.0,0.0,0.0,2.0,1984
+Piper,PA-32-300,Cruise,3.0,0.0,0.0,0.0,1984
+Piper,PA-34-200T,Landing,0.0,0.0,0.0,2.0,1984
+Aerospatiale,SA-341G,Takeoff,0.0,0.0,1.0,2.0,1984
+Collins,FISHER FP-202,Approach,1.0,0.0,0.0,0.0,1984
+Grumman,AA-5,Takeoff,0.0,0.0,0.0,1.0,1984
+Piper,PA-34-200T,Landing,0.0,0.0,0.0,6.0,1984
+Rockwell,690B,Landing,0.0,0.0,0.0,1.0,1984
+Cessna,182-C,Takeoff,0.0,0.0,0.0,6.0,1984
+Piper,PA-32-260,Cruise,0.0,0.0,0.0,1.0,1984
+Cessna,414,Landing,0.0,0.0,0.0,6.0,1984
+Piper,L-21-A,Takeoff,2.0,0.0,0.0,0.0,1984
+Cessna,421C,Takeoff,4.0,0.0,0.0,0.0,1984
+Cessna,180,Cruise,0.0,0.0,0.0,1.0,1984
+Cessna,L-19E,Cruise,2.0,0.0,0.0,0.0,1984
+Piper,PA-31-350,Approach,0.0,0.0,0.0,4.0,1984
+Sikorsky,S-76A,Cruise,1.0,1.0,0.0,0.0,1984
+Piper,PA-31-350,Takeoff,0.0,0.0,0.0,5.0,1984
+Hughes,300/269C,Landing,0.0,0.0,3.0,0.0,1984
+Cessna,182RG,Takeoff,1.0,0.0,0.0,0.0,1984
+Cessna,210L,Approach,0.0,0.0,0.0,2.0,1984
+Cessna,182E,Cruise,3.0,0.0,0.0,0.0,1984
+Cessna,180J,Maneuvering,2.0,0.0,0.0,0.0,1984
+Bell,206B,Takeoff,0.0,0.0,1.0,0.0,1984
+Aerospatiale,AS-355E,Landing,0.0,0.0,0.0,1.0,1984
+Beech,V35B,Standing,0.0,0.0,0.0,1.0,1984
+Piper,PA-22-150,Takeoff,0.0,0.0,1.0,0.0,1984
+Piper,PA-28RT-201T,Cruise,0.0,0.0,1.0,0.0,1984
+Bellanca,7GCBC,Landing,0.0,0.0,0.0,1.0,1984
+Cessna,188,Landing,0.0,0.0,0.0,1.0,1984
+Helio,H-395A,Landing,0.0,0.0,0.0,1.0,1984
+Cessna,180,Taxi,2.0,0.0,0.0,2.0,1984
+Cessna,207A,Cruise,0.0,0.0,0.0,1.0,1984
+Cessna,177B,Cruise,2.0,0.0,0.0,0.0,1984
+Piper,PA-28RT-201,Takeoff,3.0,0.0,0.0,0.0,1984
+Cessna,402C,Approach,2.0,0.0,0.0,0.0,1984
+Beech,BE 58,Takeoff,0.0,0.0,0.0,3.0,1984
+Maule,M-6-235,Takeoff,0.0,0.0,0.0,5.0,1984
+Bell,222,Climb,0.0,1.0,4.0,0.0,1984
+Cessna,150L,Approach,0.0,0.0,0.0,1.0,1984
+Beech,58,Landing,0.0,0.0,0.0,2.0,1984
+Cessna,T210J,Maneuvering,2.0,0.0,0.0,0.0,1984
+Mooney,M20F,Cruise,0.0,0.0,0.0,2.0,1984
+Piper,PA-28-140,Takeoff,0.0,0.0,0.0,3.0,1984
+Dassault/sud,FAN JET FALCON,Cruise,0.0,0.0,0.0,5.0,1984
+Piper,PA-24,Landing,0.0,0.0,0.0,4.0,1984
+Cessna,A185F-II,Takeoff,0.0,0.0,0.0,2.0,1984
+Beech,95-B55,Landing,0.0,0.0,0.0,2.0,1984
+Cessna,T210M,Approach,0.0,0.0,0.0,2.0,1984
+Piper,PA-28-181,Taxi,0.0,0.0,0.0,2.0,1984
+Bell,206B,Cruise,0.0,0.0,1.0,1.0,1984
+Bell,206L-3,Maneuvering,0.0,2.0,1.0,0.0,1984
+Piper,602P,Approach,1.0,0.0,0.0,0.0,1984
+Cessna,T206,Cruise,0.0,0.0,0.0,1.0,1984
+Cessna,182P,Cruise,1.0,0.0,0.0,0.0,1984
+Bellanca,17-30A,Approach,0.0,1.0,0.0,0.0,1984
+Cessna,172K,Maneuvering,0.0,2.0,0.0,0.0,1984
+Mooney,M20J,Approach,2.0,0.0,0.0,0.0,1984
+Piper,PA-24-260,Landing,0.0,0.0,0.0,1.0,1984
+Cessna,185,Landing,0.0,0.0,0.0,2.0,1984
+Bell,47G-3B1,Cruise,0.0,0.0,0.0,3.0,1984
+Beech,A36TC,Descent,0.0,0.0,0.0,4.0,1984
+Cessna,U206G,Unknown,1.0,0.0,0.0,0.0,1984
+Cessna,T210N,Cruise,0.0,2.0,0.0,0.0,1984
+Beech,V35B,Cruise,1.0,0.0,0.0,0.0,1984
+Piper,PA-31-310,Maneuvering,1.0,0.0,0.0,0.0,1984
+Beech,C24R,Cruise,0.0,0.0,0.0,1.0,1984
+Bell,206L-1,Cruise,0.0,0.0,0.0,2.0,1984
+Hamburger Flugzeugbau (hfb),HANSA HFB-320,Takeoff,3.0,0.0,0.0,0.0,1984
+Cessna,172M,Approach,0.0,1.0,0.0,0.0,1984
+Piper,PA-28R-201T,Landing,0.0,0.0,0.0,1.0,1984
+Cessna,CITATION 550,Takeoff,0.0,0.0,0.0,44.0,1984
+Cessna,180,Landing,0.0,0.0,0.0,2.0,1984
+Bell,206B,Takeoff,0.0,0.0,0.0,2.0,1984
+Cessna,172N,Landing,0.0,0.0,1.0,2.0,1984
+Cessna,180,Takeoff,0.0,0.0,0.0,1.0,1984
+"Smith, Ted Aerostar",AEROSTAR 600,Landing,0.0,0.0,0.0,2.0,1984
+Piper,PA-23-170,Cruise,4.0,0.0,0.0,0.0,1984
+Cessna,172RG,Landing,0.0,0.0,0.0,1.0,1984
+Cessna,172P,Taxi,0.0,0.0,0.0,1.0,1984
+Beech,QU-22A 1074,Maneuvering,1.0,0.0,0.0,0.0,1984
+Hughes,369D,Maneuvering,3.0,0.0,0.0,0.0,1984
+Cessna,414-8,Takeoff,0.0,3.0,0.0,1.0,1984
+Cessna,TR182RG,Cruise,1.0,0.0,0.0,0.0,1984
+Cessna,414,Approach,0.0,1.0,0.0,0.0,1984
+Piper,PA32RT-300T,Approach,0.0,0.0,0.0,2.0,1984
+Beech,58P,Landing,1.0,1.0,1.0,0.0,1984
+Piper,PA-28-181,Descent,1.0,1.0,1.0,0.0,1984
+Piper,PA-23-250,Landing,0.0,0.0,0.0,5.0,1984
+De Havilland,OTTER DHC-3,Landing,0.0,0.0,0.0,1.0,1984
+Bell,206B,Cruise,2.0,1.0,0.0,0.0,1984
+Stinson,108,Go-around,0.0,0.0,0.0,1.0,1984
+Mooney,M20E,Cruise,3.0,0.0,0.0,0.0,1984
+Piper,PA-32R-300,Cruise,1.0,1.0,0.0,0.0,1984
+Gulfstream,690C,Approach,2.0,0.0,0.0,0.0,1984
+Cessna,310J,Landing,0.0,0.0,0.0,2.0,1984
+Cessna,172P,Cruise,0.0,0.0,0.0,2.0,1984
+Cessna,P210N,Cruise,0.0,0.0,0.0,1.0,1984
+Hiller,UH-12E,Takeoff,0.0,0.0,3.0,0.0,1984
+Beech,BE-55E,Approach,0.0,0.0,0.0,4.0,1984
+Gates Learjet,24F,Approach,2.0,1.0,1.0,0.0,1984
+Cessna,182RG,Landing,0.0,0.0,0.0,2.0,1984
+Mooney,231,Takeoff,0.0,0.0,0.0,2.0,1984
+Hughes,369D,Maneuvering,0.0,0.0,1.0,0.0,1984
+Cessna,182H,Landing,0.0,0.0,0.0,2.0,1984
+Piper,PA-28RT-201,Cruise,1.0,0.0,0.0,0.0,1984
+Cessna,172P,Approach,0.0,0.0,1.0,0.0,1984
+Mooney,M20J,Landing,0.0,0.0,0.0,1.0,1984
+Beech,A36,Descent,1.0,0.0,0.0,0.0,1984
+Rockwell,690A,Climb,0.0,0.0,0.0,2.0,1984
+Cessna,182H,Takeoff,0.0,0.0,1.0,0.0,1984
+Piper,PA-28-140,Go-around,0.0,1.0,0.0,0.0,1984
+Cessna,T303,Takeoff,0.0,0.0,0.0,2.0,1984
+Cessna,310R,Landing,0.0,0.0,0.0,3.0,1984
+Cessna,T310R,Approach,0.0,0.0,0.0,2.0,1984
+Gulfstream,690B,Landing,0.0,0.0,0.0,8.0,1984
+Cessna,T-210G,Cruise,1.0,0.0,0.0,0.0,1984
+Cessna,210M,Approach,0.0,0.0,1.0,0.0,1984
+Sikorsky,UH34J,Maneuvering,0.0,0.0,0.0,1.0,1984
+"Smith, Ted Aerostar",AEROSTAR 601A,Descent,1.0,0.0,0.0,0.0,1984
+Cessna,R172K,Cruise,3.0,0.0,0.0,0.0,1984
+Gulfstream,AEROCOMMANDER 695,Takeoff,0.0,0.0,0.0,7.0,1984
+Hughes,269C,Approach,0.0,0.0,2.0,0.0,1984
+Piper,PA-30-160,Cruise,3.0,0.0,0.0,0.0,1984
+Cessna,421C,Approach,0.0,0.0,0.0,4.0,1984
+Aerospatiale,SA341G,Landing,0.0,0.0,3.0,0.0,1984
+Aero Commander,690A,Approach,1.0,1.0,0.0,0.0,1984
+Cessna,150G,Cruise,0.0,0.0,0.0,2.0,1984
+Cessna,441,Maneuvering,1.0,0.0,0.0,0.0,1984
+Piper,PA-31,Cruise,0.0,0.0,0.0,2.0,1984
+Fuji,"LM-1 ""NIKKO""",Maneuvering,0.0,2.0,2.0,0.0,1985
+Hughes,500D,Standing,1.0,0.0,0.0,2.0,1985
+Beech,B36TC,Cruise,0.0,0.0,1.0,1.0,1985
+Raven,S-60A,Landing,0.0,1.0,0.0,4.0,1985
+Rockwell,SABRELINER/NA265-40,Landing,0.0,0.0,2.0,0.0,1985
+Beech,A36TC,Takeoff,1.0,0.0,0.0,0.0,1985
+Cessna,T210L,Landing,0.0,0.0,0.0,1.0,1985
+Bell,206BIII,Takeoff,0.0,1.0,1.0,0.0,1985
+Cessna,182A,Approach,0.0,0.0,2.0,0.0,1985
+Bell,205A-1,Maneuvering,1.0,1.0,0.0,0.0,1985
+Cessna,A185F,Cruise,2.0,0.0,0.0,0.0,1985
+Helio,H-250,Landing,0.0,0.0,0.0,3.0,1985
+Cessna,182H,Maneuvering,2.0,0.0,0.0,0.0,1985
+Swearingen,SA26-T,Takeoff,0.0,0.0,0.0,2.0,1985
+Beech,BE-35,Takeoff,0.0,0.0,0.0,1.0,1985
+Beech,B-80,Cruise,0.0,0.0,0.0,8.0,1985
+Swearingen,SA-226T,Landing,0.0,0.0,0.0,4.0,1985
+Cessna,182-F,Climb,4.0,0.0,0.0,0.0,1985
+Piper,PA-31,Landing,0.0,0.0,0.0,5.0,1985
+Beech,A36,Cruise,0.0,0.0,1.0,1.0,1985
+Beech,95-C55,Landing,0.0,0.0,0.0,2.0,1985
+Schweizer,G-164A,Landing,0.0,0.0,0.0,1.0,1985
+Mooney,M20J,Cruise,3.0,0.0,0.0,0.0,1985
+Piper,PA-32RT-300,Cruise,3.0,0.0,0.0,0.0,1985
+Beech,G90,Approach,2.0,0.0,0.0,0.0,1985
+Cessna,310G,Landing,0.0,0.0,0.0,2.0,1985
+Cessna,172P,Cruise,0.0,1.0,0.0,0.0,1985
+Piper,PA-34-200T,Approach,1.0,0.0,0.0,0.0,1985
+Bell,47G-2,Cruise,0.0,0.0,2.0,0.0,1985
+Piper,PA-601P,Climb,0.0,0.0,1.0,0.0,1985
+Cessna,210,Climb,0.0,0.0,0.0,2.0,1985
+Piper,PA-22-108,Taxi,0.0,0.0,0.0,1.0,1985
+Cessna,177B,Takeoff,0.0,0.0,0.0,3.0,1985
+Piper,PA-18-180,Takeoff,0.0,0.0,0.0,1.0,1985
+Cessna,152,Takeoff,1.0,0.0,0.0,0.0,1985
+Cessna,180,Takeoff,0.0,0.0,0.0,1.0,1985
+Piper,PA-32-300,Approach,0.0,1.0,0.0,0.0,1985
+"Smith, Ted Aerostar",601,Approach,1.0,0.0,0.0,0.0,1985
+Aero Commander,680V,Cruise,0.0,0.0,0.0,5.0,1985
+Bell,206B,Maneuvering,1.0,0.0,0.0,0.0,1985
+Cessna,172H,Landing,0.0,0.0,0.0,3.0,1985
+Beech,A36,Approach,0.0,0.0,0.0,3.0,1985
+Piper,PA-28,Takeoff,3.0,0.0,0.0,0.0,1985
+Curtiss,C-46R,Landing,0.0,0.0,0.0,2.0,1985
+Piper,PA-44-180,Approach,0.0,0.0,0.0,158.0,1985
+Mooney,M20F,Cruise,1.0,0.0,0.0,0.0,1985
+Piper,J3C-85,Taxi,1.0,0.0,0.0,2.0,1985
+Mooney,M20C,Standing,0.0,1.0,0.0,1.0,1985
+Piper,PA-28-180,Takeoff,0.0,0.0,0.0,1.0,1985
+Beech,B35D,Descent,3.0,0.0,0.0,0.0,1985
+Piper,PA-28-181,Maneuvering,2.0,0.0,0.0,0.0,1985
+Cessna,T210L,Cruise,1.0,0.0,0.0,1.0,1985
+Cessna,175,Descent,0.0,0.0,0.0,1.0,1985
+Cessna,206,Climb,0.0,0.0,0.0,1.0,1985
+Cessna,182G,Landing,0.0,0.0,0.0,2.0,1985
+Gulfstream,681,Descent,1.0,0.0,2.0,1.0,1985
+Piper,PA-30,Takeoff,0.0,0.0,0.0,1.0,1985
+Bellanca,17-30A,Cruise,0.0,1.0,0.0,0.0,1985
+Cessna,421B,Taxi,2.0,0.0,0.0,0.0,1985
+Cessna,310N,Takeoff,0.0,0.0,2.0,0.0,1985
+Cessna,185F,Landing,0.0,0.0,0.0,1.0,1985
+Piper,PA-34-200,Landing,0.0,0.0,0.0,5.0,1985
+Balloon Works,FIREFLY 7B,Landing,1.0,1.0,1.0,0.0,1985
+Bell,47G-2,Maneuvering,0.0,2.0,1.0,0.0,1985
+Cessna,T210N,Go-around,1.0,0.0,0.0,0.0,1985
+Cessna,172P,Approach,0.0,0.0,1.0,0.0,1985
+Cessna,195,Landing,0.0,0.0,0.0,1.0,1985
+Mitsubishi,MU2J,Landing,0.0,0.0,0.0,4.0,1985
+Cessna,177,Landing,0.0,0.0,0.0,1.0,1985
+Beech,58TC,Landing,0.0,0.0,0.0,2.0,1985
+Beech,35-B33,Takeoff,0.0,2.0,0.0,1.0,1985
+Cessna,177B,Takeoff,0.0,0.0,0.0,2.0,1985
+Cessna,T210N,Cruise,0.0,0.0,0.0,1.0,1985
+Piper,PA-32R-301,Takeoff,0.0,0.0,0.0,4.0,1985
+Bell,BH-206-B,Landing,0.0,0.0,0.0,1.0,1985
+Cessna,172P,Landing,0.0,0.0,1.0,0.0,1985
+Piper,PA32-301T,Takeoff,0.0,0.0,2.0,0.0,1985
+Piper,PA-24-260,Maneuvering,2.0,0.0,0.0,0.0,1985
+Partenavia,P68C,Descent,0.0,1.0,0.0,0.0,1985
+Beech,58,Landing,0.0,0.0,0.0,3.0,1985
+Cessna,TU-206G,Go-around,0.0,0.0,2.0,0.0,1985
+Cessna,172K,Maneuvering,0.0,0.0,0.0,1.0,1985
+Piper,PA-39,Landing,0.0,0.0,0.0,2.0,1985
+Piper,PA-28R-200,Landing,0.0,0.0,0.0,1.0,1985
+Piper,PA-32-300,Climb,0.0,0.0,0.0,2.0,1985
+Beech,B 55,Descent,2.0,0.0,0.0,0.0,1985
+Piper,PA-32RT-300T,Takeoff,3.0,0.0,0.0,0.0,1985
+Fairchild,SA226T,Approach,0.0,0.0,0.0,2.0,1985
+Piper,PA-28R-200,Cruise,0.0,0.0,0.0,2.0,1985
+Piper,PA-23,Takeoff,0.0,0.0,2.0,0.0,1985
+Beech,V35A,Taxi,0.0,0.0,0.0,3.0,1985
+Piper,PA-28-160,Landing,0.0,0.0,0.0,3.0,1985
+Piper,PA-18-150,Maneuvering,0.0,1.0,0.0,0.0,1985
+Piper,PA-28R-180,Takeoff,0.0,0.0,0.0,3.0,1985
+Bellanca,17-30A,Takeoff,0.0,0.0,0.0,2.0,1985
+Cessna,177RG,Cruise,2.0,0.0,0.0,0.0,1985
+Cessna,R182,Landing,0.0,0.0,1.0,0.0,1985
+Grumman American,AA-5A,Go-around,0.0,0.0,0.0,1.0,1985
+Piper,PA-34-200,Landing,0.0,0.0,0.0,3.0,1985
+Beech,58P,Landing,0.0,0.0,0.0,3.0,1985
+Cessna,172N,Cruise,0.0,0.0,2.0,0.0,1985
+Piper,PA-28-181,Cruise,2.0,1.0,0.0,0.0,1985
+Piper,PA-38-112,Takeoff,0.0,0.0,1.0,0.0,1985
+Beech,35-B33,Landing,0.0,0.0,1.0,0.0,1985
+Cessna,152,Approach,0.0,0.0,0.0,1.0,1985
+Piper,PA-24-250,Landing,0.0,0.0,0.0,2.0,1985
+Cessna,414,Approach,1.0,0.0,0.0,0.0,1985
+Cessna,U206F,Descent,0.0,0.0,1.0,0.0,1985
+Hughes,369E,Approach,0.0,1.0,0.0,0.0,1985
+Hiller,UH-12E,Takeoff,0.0,0.0,0.0,1.0,1985
+Luscombe,8A,Go-around,0.0,0.0,0.0,2.0,1985
+Cessna,182,Cruise,0.0,0.0,0.0,1.0,1985
+Cessna,172,Descent,0.0,0.0,0.0,1.0,1985
+Cessna,180K,Landing,0.0,3.0,0.0,0.0,1985
+Piper,PA-31-T,Landing,0.0,0.0,0.0,1.0,1985
+Hughes,369HS,Landing,0.0,0.0,0.0,2.0,1985
+Mooney,M20K,Landing,0.0,0.0,0.0,1.0,1985
+Piper,PA-31-350,Approach,0.0,0.0,0.0,10.0,1985
+Piper,PA-28R-200,Go-around,0.0,0.0,0.0,2.0,1985
+Piper,PA-28-181,Cruise,0.0,0.0,1.0,0.0,1985
+Cessna,210L,Climb,0.0,0.0,0.0,1.0,1985
+Cessna,402B,Cruise,8.0,0.0,0.0,0.0,1985
+Beech,V35B,Approach,0.0,0.0,0.0,1.0,1985
+Piper,PA-24-260,Takeoff,0.0,0.0,2.0,0.0,1985
+Bell,214B-1,Maneuvering,2.0,0.0,0.0,0.0,1985
+Piper,PA-28-180,Cruise,0.0,1.0,0.0,0.0,1985
+Grumman,G-44,Landing,0.0,0.0,3.0,0.0,1985
+De Havilland,DHC-2,Landing,0.0,0.0,0.0,1.0,1985
+Piper,PA-32RT-300T,Cruise,1.0,0.0,0.0,0.0,1985
+Helio,H-250,Landing,0.0,0.0,0.0,3.0,1985
+Beech,95-B55,Landing,0.0,0.0,0.0,1.0,1985
+Douglas,DC-3,Approach,0.0,0.0,0.0,4.0,1985
+Beech,95-B55,Descent,3.0,1.0,0.0,0.0,1985
+Cessna,421A,Landing,0.0,0.0,0.0,4.0,1985
+Cessna,310D,Landing,0.0,0.0,0.0,1.0,1985
+Cessna,A188B,Takeoff,0.0,0.0,0.0,2.0,1985
+Cessna,T-210,Landing,0.0,0.0,1.0,2.0,1985
+Douglas,DC-6A,Takeoff,0.0,0.0,3.0,0.0,1985
+Cessna,R182,Landing,0.0,0.0,1.0,0.0,1985
+Cessna,185F,Maneuvering,0.0,0.0,0.0,2.0,1985
+Robinson,R-22A,Maneuvering,0.0,0.0,0.0,2.0,1985
+Bell,206-B,Cruise,2.0,0.0,0.0,0.0,1985
+Cessna,A185F,Taxi,0.0,0.0,1.0,2.0,1985
+Cessna,T210N,Descent,0.0,0.0,0.0,4.0,1985
+Cessna,182,Climb,0.0,1.0,4.0,0.0,1985
+Cessna,320F,Go-around,1.0,1.0,0.0,0.0,1985
+Barnes,AX7,Landing,0.0,1.0,0.0,3.0,1985
+Cessna,150L,Cruise,2.0,0.0,0.0,0.0,1985
+Bell,206B,Maneuvering,0.0,2.0,0.0,0.0,1985
+Cessna,T210M,Descent,0.0,0.0,0.0,1.0,1985
+Cessna,172,Landing,0.0,0.0,0.0,1.0,1985
+Bell,206BII,Landing,0.0,0.0,0.0,2.0,1985
+Cessna,182P,Landing,0.0,0.0,0.0,1.0,1985
+Balloon Works,FIREFLY 7,Approach,0.0,3.0,0.0,0.0,1985
+Stinson,SR6,Cruise,2.0,0.0,0.0,0.0,1985
+Bellanca,14-19-3,Landing,0.0,0.0,0.0,1.0,1985
+Beech,H35,Climb,3.0,0.0,0.0,0.0,1985
+Beech,95-B55,Cruise,0.0,0.0,0.0,2.0,1985
+Aero Commander,680-FP,Takeoff,1.0,0.0,0.0,0.0,1985
+Piper,PA-28RT-201T,Cruise,0.0,0.0,0.0,2.0,1985
+Cessna,188,Approach,0.0,0.0,0.0,1.0,1985
+Bell,47G-2,Standing,0.0,0.0,0.0,1.0,1985
+Cessna,172 M,Landing,0.0,0.0,0.0,2.0,1985
+Cessna,172 M,Takeoff,0.0,0.0,0.0,2.0,1985
+Cessna,C-172M,Maneuvering,0.0,0.0,0.0,3.0,1985
+Hughes,369D,Cruise,0.0,0.0,0.0,2.0,1985
+Cessna,182Q,Standing,0.0,1.0,0.0,1.0,1985
+Cessna,R182,Landing,0.0,0.0,0.0,1.0,1985
+Cessna,U206F,Cruise,3.0,0.0,0.0,2.0,1985
+Bellanca,17-31A,Go-around,2.0,1.0,0.0,0.0,1985
+Beech,A36,Standing,0.0,0.0,1.0,2.0,1985
+Cessna,C-207,Maneuvering,0.0,0.0,0.0,1.0,1985
+Piper,PA-28-140,Cruise,0.0,0.0,0.0,1.0,1985
+Mooney,M20F,Takeoff,0.0,0.0,0.0,3.0,1985
+Cessna,441,Landing,0.0,0.0,0.0,4.0,1985
+Bell,BH206L-1,Takeoff,0.0,0.0,5.0,2.0,1985
+Cessna,172M,Maneuvering,4.0,0.0,0.0,0.0,1985
+Advanced Technology,PREDATOR 480,Takeoff,0.0,0.0,1.0,0.0,1985
+Bell,47D1,Takeoff,0.0,0.0,2.0,0.0,1985
+Piper,PA-31T,Cruise,5.0,0.0,0.0,0.0,1985
+Cessna,305A,Approach,0.0,1.0,0.0,0.0,1985
+"Smith, Ted Aerostar",AEROSTAR 601P,Climb,0.0,0.0,0.0,4.0,1985
+Beech,A36,Maneuvering,0.0,0.0,0.0,1.0,1985
+Cessna,310,Landing,0.0,0.0,0.0,2.0,1985
+Swearingen,226T,Approach,0.0,0.0,0.0,2.0,1985
+Piper,PA-24-250,Maneuvering,0.0,0.0,0.0,2.0,1985
+Cessna,A188B,Landing,0.0,1.0,0.0,0.0,1985
+Grumman,AA5,Maneuvering,0.0,0.0,3.0,0.0,1985
+Piper,PA-28-161,Cruise,0.0,0.0,0.0,1.0,1985
+Cessna,402A,Landing,0.0,0.0,0.0,1.0,1985
+Cessna,A185F,Takeoff,0.0,0.0,1.0,2.0,1985
+Cessna,180B,Landing,0.0,0.0,1.0,1.0,1985
+Cessna,172 M,Takeoff,0.0,3.0,0.0,0.0,1985
+Cessna,180,Takeoff,0.0,0.0,0.0,2.0,1985
+Bell,206B,Cruise,1.0,0.0,0.0,0.0,1985
+Cessna,C-206,Taxi,0.0,0.0,0.0,4.0,1985
+Cessna,A185F,Maneuvering,1.0,2.0,0.0,0.0,1985
+Gulfstream,500-S,Approach,1.0,0.0,0.0,0.0,1985
+Cessna,210N,Takeoff,0.0,0.0,0.0,2.0,1985
+Swearingen,SA-226T,Unknown,1.0,0.0,0.0,0.0,1985
+Cessna,425,Landing,0.0,0.0,0.0,3.0,1985
+Cessna,177RG,Cruise,0.0,0.0,0.0,1.0,1985
+Cessna,150L,Cruise,0.0,1.0,0.0,0.0,1985
+Cessna,150L,Maneuvering,1.0,0.0,0.0,0.0,1985
+Gates Learjet,35A,Approach,2.0,5.0,1.0,0.0,1985
+Cessna,P210N,Landing,0.0,0.0,0.0,2.0,1985
+Cessna,182G,Takeoff,0.0,0.0,0.0,2.0,1985
+Cessna,310R,Approach,0.0,0.0,0.0,1.0,1985
+Cessna,441,Descent,5.0,0.0,0.0,0.0,1985
+Champion,7GCAA,Cruise,0.0,0.0,0.0,2.0,1985
+Piper,PA-23-250,Unknown,2.0,0.0,0.0,0.0,1985
+Cessna,172,Cruise,0.0,0.0,2.0,0.0,1985
+Piper,PA-32RT-300T,Approach,1.0,0.0,0.0,0.0,1985
+Cessna,C-377A,Unknown,3.0,0.0,0.0,0.0,1985
+Cessna,182N,Landing,0.0,0.0,0.0,2.0,1985
+Piper,PA-18,Takeoff,0.0,0.0,0.0,1.0,1985
+Beech,35,Cruise,0.0,2.0,0.0,0.0,1985
+Gulfstream,690A,Maneuvering,2.0,0.0,0.0,0.0,1985
+Raven,S60A,Landing,0.0,1.0,1.0,3.0,1985
+Cessna,182P,Landing,0.0,0.0,0.0,1.0,1985
+Schweizer,269C,Landing,0.0,0.0,0.0,2.0,1985
+Piper,PA-32-300,Approach,0.0,0.0,0.0,2.0,1985
+Bell,206B,Maneuvering,0.0,0.0,0.0,1.0,1985
+Bell,222A,Cruise,0.0,0.0,0.0,5.0,1985
+Vickers,VISCOUNT VC-810,Landing,0.0,1.0,17.0,10.0,1985
+Hughes,269A,Maneuvering,0.0,0.0,0.0,2.0,1985
+Piper,PA-23-250,Maneuvering,1.0,0.0,0.0,0.0,1985
+Piper,PA-28RT-201T,Cruise,0.0,0.0,1.0,0.0,1985
+Gulfstream American,AA-5B,Maneuvering,1.0,0.0,0.0,0.0,1985
+Mooney,MK21,Cruise,0.0,0.0,1.0,0.0,1985
+Cessna,172N,Landing,0.0,0.0,0.0,1.0,1985
+Cessna,182P,Cruise,0.0,0.0,0.0,3.0,1985
+Cessna,T210NII,Cruise,0.0,0.0,0.0,2.0,1985
+Cessna,152,Cruise,0.0,0.0,0.0,1.0,1985
+Beech,A36TC,Takeoff,0.0,0.0,2.0,0.0,1985
+Mooney,M20K,Descent,0.0,0.0,0.0,1.0,1985
+Cessna,172 M,Approach,0.0,0.0,0.0,1.0,1985
+Hughes,269C,Maneuvering,0.0,0.0,1.0,1.0,1985
+Beech,BE-58,Landing,0.0,0.0,0.0,1.0,1985
+Cessna,T210N,Cruise,0.0,0.0,0.0,4.0,1985
+Hawker Siddeley,DH 125-400A,Landing,0.0,1.0,4.0,0.0,1985
+Mooney,MK20J,Landing,0.0,0.0,1.0,0.0,1985
+Beech,F33A,Takeoff,0.0,0.0,0.0,1.0,1985
+Cessna,T210N,Approach,0.0,0.0,0.0,5.0,1985
+Beech,S35,Approach,1.0,0.0,0.0,0.0,1985
+Cessna,182P,Takeoff,1.0,1.0,0.0,0.0,1985
+Cessna,182Q,Cruise,2.0,0.0,0.0,0.0,1985
+Cessna,185,Approach,0.0,0.0,0.0,2.0,1985
+Piper,PA-32-300,Taxi,0.0,0.0,0.0,1.0,1985
+Piper,PA-34,Go-around,0.0,0.0,0.0,3.0,1985
+Aero Commander,500,Landing,0.0,0.0,0.0,2.0,1985
+Beech,F33A,Go-around,1.0,0.0,0.0,0.0,1985
+Beech,35-B33,Takeoff,1.0,0.0,0.0,0.0,1985
+Cessna,177B,Cruise,0.0,0.0,0.0,2.0,1985
+Bell,47G,Maneuvering,0.0,0.0,0.0,2.0,1985
+Cessna,337F,Approach,0.0,0.0,0.0,2.0,1985
+Piper,PA-28R-201T,Taxi,0.0,0.0,0.0,4.0,1985
+Cessna,TR182,Cruise,2.0,0.0,0.0,0.0,1985
+Aerospatiale,SA365N,Cruise,2.0,1.0,0.0,0.0,1985
+Cessna,335,Approach,0.0,0.0,2.0,1.0,1985
+Piper,PA-30,Approach,1.0,0.0,0.0,0.0,1985
+Piper,PA-46-310P,Climb,0.0,0.0,0.0,2.0,1985
+Cessna,150,Takeoff,1.0,0.0,0.0,0.0,1985
+Cessna,414,Approach,0.0,0.0,0.0,2.0,1985
+Beech,BE-60,Landing,0.0,0.0,0.0,4.0,1985
+Piper,PA-31T,Landing,0.0,0.0,0.0,1.0,1985
+Beech,V-35B,Cruise,0.0,1.0,1.0,0.0,1985
+Cessna,TU-206G,Taxi,0.0,0.0,0.0,2.0,1985
+Robinson,R22A,Standing,1.0,0.0,0.0,1.0,1985
+Beech,M35,Climb,0.0,0.0,0.0,2.0,1985
+Cessna,T210N,Takeoff,0.0,0.0,0.0,2.0,1986
+Beech,E18S,Takeoff,0.0,0.0,0.0,1.0,1986
+Piper,PA-31P-350,Go-around,2.0,0.0,0.0,0.0,1986
+Cessna,177A,Takeoff,0.0,0.0,0.0,2.0,1986
+Cessna,R182,Landing,0.0,0.0,0.0,4.0,1986
+Piper,PA-28-181,Climb,2.0,0.0,0.0,0.0,1986
+Cessna,182H,Go-around,0.0,2.0,0.0,0.0,1986
+Cessna,425,Approach,5.0,1.0,0.0,0.0,1986
+Beech,F33A,Cruise,0.0,1.0,0.0,0.0,1986
+Cessna,441,Go-around,0.0,0.0,1.0,0.0,1986
+Cessna,501,Landing,0.0,0.0,0.0,3.0,1986
+Beech,M-35,Cruise,3.0,0.0,0.0,0.0,1986
+Cessna,210M,Cruise,0.0,1.0,0.0,0.0,1986
+Beech,A23A,Cruise,0.0,0.0,0.0,1.0,1986
+Cessna,177RG,Approach,0.0,0.0,2.0,0.0,1986
+Piper,PA-23-250,Go-around,0.0,1.0,1.0,0.0,1986
+Socata,MS RALLYE 235C,Approach,0.0,0.0,0.0,1.0,1986
+Cessna,150,Landing,0.0,0.0,0.0,1.0,1986
+Cessna,310J,Landing,0.0,0.0,0.0,1.0,1986
+Cessna,401,Takeoff,3.0,0.0,0.0,0.0,1986
+Cessna,P210N,Cruise,2.0,0.0,0.0,0.0,1986
+Cessna,421C,Takeoff,2.0,0.0,0.0,0.0,1986
+Champion,CITABRIA 7GCBC,Descent,0.0,0.0,2.0,0.0,1986
+Cessna,T210-H,Landing,0.0,0.0,0.0,1.0,1986
+Piper,PA-28-161,Cruise,2.0,0.0,0.0,0.0,1986
+Cessna,150M,Cruise,0.0,1.0,0.0,0.0,1986
+Cessna,180,Cruise,1.0,1.0,0.0,0.0,1986
+Cessna,T210M,Landing,0.0,0.0,0.0,1.0,1986
+Bell,206B,Maneuvering,1.0,0.0,1.0,0.0,1986
+Cessna,340R,Landing,0.0,0.0,0.0,5.0,1986
+Robinson,R-22,Maneuvering,0.0,0.0,0.0,1.0,1986
+Mcdonnell Douglas,369D,Cruise,3.0,0.0,0.0,0.0,1986
+Cessna,172M,Approach,1.0,0.0,0.0,0.0,1986
+Beech,N35,Landing,0.0,0.0,0.0,2.0,1986
+Cessna,206G,Cruise,0.0,0.0,0.0,1.0,1986
+Balloon Works,FIRE FLY 7,Landing,0.0,1.0,2.0,0.0,1986
+Piper,PA34-200T,Descent,2.0,0.0,0.0,0.0,1986
+Beech,V35-B,Approach,1.0,0.0,0.0,0.0,1986
+Cessna,172M,Takeoff,0.0,0.0,0.0,2.0,1986
+Beech,BE65,Approach,0.0,0.0,0.0,3.0,1986
+Cessna,172M,Descent,0.0,4.0,0.0,0.0,1986
+Cessna,182P,Cruise,1.0,0.0,0.0,0.0,1986
+Mitsubishi,MU-2B-60,Cruise,5.0,0.0,0.0,0.0,1986
+Robinson,R-22,Approach,0.0,0.0,0.0,2.0,1986
+Mooney,M-20C,Cruise,0.0,2.0,0.0,0.0,1986
+"Smith, Ted Aerostar",601P AEROSTAR,Approach,0.0,0.0,1.0,3.0,1986
+Piper,PA-24-250,Descent,1.0,0.0,0.0,0.0,1986
+Cessna,T210N,Cruise,0.0,0.0,0.0,3.0,1986
+Piper,PA-28-181,Approach,1.0,0.0,0.0,0.0,1986
+Beech,A36TC,Cruise,3.0,0.0,0.0,0.0,1986
+De Havilland,DHC-4A,Approach,2.0,0.0,0.0,0.0,1986
+Glen Davis,GLASAIR,Takeoff,1.0,0.0,0.0,0.0,1986
+Champion,7GCAA,Landing,0.0,0.0,0.0,2.0,1986
+Taylorcraft,BC12D,Landing,0.0,0.0,0.0,2.0,1986
+Cessna,T210C,Landing,0.0,0.0,0.0,1.0,1986
+Israel Aircraft Industries,1124A,Climb,7.0,0.0,0.0,0.0,1986
+Beech,65-90,Descent,0.0,2.0,0.0,0.0,1986
+Piper,PA-23-250,Cruise,0.0,5.0,0.0,0.0,1986
+Cessna,172-RG II,Climb,0.0,0.0,2.0,0.0,1986
+Piper,PA-28-180,Climb,1.0,0.0,0.0,0.0,1986
+Cessna,180K,Descent,0.0,0.0,0.0,1.0,1986
+Piper,PA-28R-180,Cruise,3.0,0.0,0.0,0.0,1986
+Piper,PA-32-301T,Climb,2.0,0.0,0.0,0.0,1986
+Cessna,172N,Approach,0.0,0.0,0.0,2.0,1986
+Cessna,207A,Descent,0.0,0.0,1.0,0.0,1986
+Beech,A-36,Maneuvering,0.0,1.0,1.0,1.0,1986
+Piper,PA-31,Takeoff,5.0,0.0,0.0,0.0,1986
+Bell,UH-1B,Takeoff,0.0,0.0,0.0,2.0,1986
+Cessna,182,Landing,0.0,0.0,0.0,1.0,1986
+Hughes,269,Maneuvering,0.0,0.0,1.0,2.0,1986
+Piper,PA-18,Cruise,0.0,0.0,0.0,1.0,1986
+Cessna,172D,Climb,0.0,1.0,0.0,0.0,1986
+Enstrom,F-28C,Takeoff,0.0,0.0,0.0,2.0,1986
+Cessna,182P,Landing,0.0,0.0,0.0,1.0,1986
+Cessna,182P,Takeoff,0.0,2.0,0.0,0.0,1986
+Consolidated-vultee,L-13,Takeoff,0.0,0.0,0.0,1.0,1986
+Mooney,M20C,Landing,0.0,0.0,1.0,0.0,1986
+Mooney,M20F,Cruise,3.0,0.0,0.0,0.0,1986
+Gulfstream,690D,Descent,6.0,0.0,0.0,0.0,1986
+Cessna,411A,Takeoff,6.0,0.0,0.0,0.0,1986
+Cessna,182P,Maneuvering,0.0,1.0,0.0,0.0,1986
+Cessna,P206A,Cruise,0.0,0.0,0.0,3.0,1986
+Cessna,A185E,Landing,0.0,0.0,0.0,1.0,1986
+Maule,M-6-235,Cruise,0.0,1.0,0.0,0.0,1986
+Beech,BE-F90,Climb,0.0,0.0,0.0,5.0,1986
+Piper,PA-34-200T,Takeoff,0.0,2.0,3.0,0.0,1986
+Mooney,M20K,Landing,0.0,0.0,0.0,1.0,1986
+Cessna,210M,Descent,2.0,0.0,0.0,0.0,1986
+Cessna,207,Descent,0.0,0.0,1.0,0.0,1986
+Cessna,T210N,Cruise,3.0,0.0,0.0,0.0,1986
+Cessna,180K,Takeoff,0.0,0.0,1.0,0.0,1986
+Cessna,185,Landing,0.0,0.0,0.0,2.0,1986
+Boeing,A75N1,Approach,0.0,2.0,0.0,0.0,1986
+Sikorsky,S-76B,Cruise,4.0,0.0,0.0,0.0,1986
+Taylorcraft,BCM-12D-85,Cruise,0.0,0.0,1.0,0.0,1986
+Cessna,411,Standing,0.0,0.0,0.0,3.0,1986
+Piper,PA-31-350,Cruise,2.0,0.0,0.0,0.0,1986
+Beech,A36,Maneuvering,1.0,0.0,0.0,0.0,1986
+Cessna,A185F,Cruise,0.0,0.0,1.0,0.0,1986
+Cessna,150,Cruise,0.0,0.0,0.0,2.0,1986
+Piper,PA-24-250,Cruise,0.0,0.0,0.0,1.0,1986
+Beech,95-C55,Landing,0.0,0.0,0.0,2.0,1986
+Cessna,P210N,Cruise,0.0,0.0,3.0,0.0,1986
+Cessna,182P,Landing,0.0,0.0,0.0,1.0,1986
+Piper,PA-18-150,Takeoff,0.0,0.0,0.0,2.0,1986
+Cessna,320D,Go-around,0.0,0.0,0.0,1.0,1986
+Swearingen,SA-26AT,Standing,0.0,0.0,1.0,5.0,1986
+Beech,C-45H,Maneuvering,0.0,0.0,0.0,1.0,1986
+Balloon Works,FF-7,Landing,0.0,1.0,0.0,2.0,1986
+Cessna,P-210N,Cruise,0.0,0.0,1.0,0.0,1986
+Bell,206B,Takeoff,1.0,1.0,0.0,0.0,1986
+Piper,PA-32RT-300T,Takeoff,0.0,0.0,0.0,3.0,1986
+Piper,PA-18-150,Landing,0.0,0.0,0.0,1.0,1986
+American Aviation Corp. (aac),AA-1A,Descent,1.0,0.0,0.0,0.0,1986
+Piper,PA-28R-201,Approach,0.0,0.0,0.0,2.0,1986
+Grumman,AA5B,Takeoff,0.0,3.0,0.0,0.0,1986
+Cessna,170B,Approach,0.0,0.0,0.0,1.0,1986
+Cessna,441,Approach,3.0,3.0,0.0,0.0,1986
+Cessna,172P,Cruise,0.0,0.0,0.0,2.0,1986
+Bellanca,7KCAB,Cruise,0.0,0.0,0.0,1.0,1986
+Cessna,150D,Maneuvering,1.0,0.0,0.0,0.0,1986
+Piper,PA-34-200T,Approach,0.0,0.0,0.0,3.0,1986
+Piper,PA-31T1,Landing,0.0,0.0,0.0,3.0,1986
+Cessna,185E,Landing,0.0,0.0,0.0,3.0,1986
+Cessna,210,Takeoff,0.0,0.0,0.0,3.0,1986
+Cessna,A185F,Cruise,0.0,0.0,1.0,0.0,1986
+Cessna,210,Approach,0.0,1.0,5.0,0.0,1986
+Piper,PA-46-310P,Climb,2.0,2.0,0.0,0.0,1986
+Hughes,369-500D,Cruise,0.0,0.0,0.0,3.0,1986
+Piper,PA-24-260,Cruise,3.0,0.0,0.0,0.0,1986
+Cessna,182U,Takeoff,0.0,0.0,0.0,3.0,1986
+Cessna,172A,Taxi,0.0,0.0,0.0,1.0,1986
+Cessna,340A,Cruise,2.0,0.0,0.0,0.0,1986
+Cessna,421C,Takeoff,0.0,0.0,0.0,4.0,1986
+Cessna,P210N,Descent,0.0,1.0,0.0,0.0,1986
+Piper,PA-18,Cruise,2.0,0.0,0.0,0.0,1986
+Sikorsky,SK-76,Climb,0.0,0.0,0.0,4.0,1986
+Piper,PA-28-180,Landing,0.0,0.0,0.0,1.0,1986
+Piper,PA-32RT-300T,Takeoff,0.0,0.0,0.0,1.0,1986
+Hiller,UH-12E,Maneuvering,0.0,0.0,0.0,1.0,1986
+Piper,PA28-151,Climb,2.0,0.0,0.0,0.0,1986
+Cessna,172M,Cruise,1.0,0.0,0.0,0.0,1986
+Piper,PA-28-161,Taxi,0.0,0.0,0.0,1.0,1986
+Bellanca,17-30A,Landing,0.0,0.0,0.0,1.0,1986
+Cessna,P-210,Cruise,0.0,0.0,0.0,4.0,1986
+Beech,B58,Landing,0.0,0.0,0.0,1.0,1986
+Piper,PA-28-180,Climb,2.0,0.0,0.0,0.0,1986
+Cessna,340A,Maneuvering,5.0,0.0,0.0,0.0,1986
+Mitsubishi,MU-300IA,Taxi,0.0,0.0,0.0,4.0,1986
+Hughes,269B,Cruise,0.0,0.0,0.0,2.0,1986
+Bellanca,8GCBC,Approach,0.0,0.0,0.0,1.0,1986
+Cessna,182R,Approach,3.0,0.0,0.0,0.0,1986
+Piper,PA-32R-301T,Takeoff,0.0,0.0,0.0,1.0,1986
+Mcdonnell Douglas,369E,Cruise,0.0,2.0,0.0,0.0,1986
+Beech,E-90,Landing,0.0,0.0,8.0,0.0,1986
+Boeing,727-22C,Landing,0.0,0.0,0.0,115.0,1986
+Cessna,182E,Takeoff,2.0,2.0,0.0,0.0,1986
+Cessna,421C,Landing,0.0,0.0,0.0,1.0,1986
+Beech,C23,Landing,0.0,0.0,0.0,1.0,1986
+Mooney,M20B,Climb,1.0,1.0,0.0,0.0,1986
+Piper,PA-24-250,Takeoff,4.0,0.0,0.0,0.0,1986
+Cessna,180K,Takeoff,0.0,0.0,0.0,1.0,1986
+Cessna,172,Cruise,0.0,0.0,0.0,1.0,1986
+Cessna,172M,Approach,0.0,1.0,2.0,0.0,1986
+Bell,206B,Descent,1.0,0.0,0.0,0.0,1986
+Cessna,U206F,Cruise,0.0,0.0,0.0,1.0,1986
+Cessna,182J,Landing,0.0,0.0,0.0,2.0,1986
+Raven,S-66A,Landing,0.0,1.0,0.0,6.0,1986
+Cessna,170B,Landing,0.0,0.0,0.0,1.0,1986
+"Smith, Ted Aerostar",601P,Cruise,0.0,0.0,2.0,0.0,1986
+Mooney,M20D,Landing,0.0,0.0,0.0,3.0,1986
+Cessna,421C,Approach,0.0,0.0,0.0,4.0,1986
+Beech,A100,Climb,0.0,0.0,1.0,0.0,1986
+Piper,PA-32R-300,Takeoff,0.0,0.0,0.0,2.0,1986
+Beech,D55,Takeoff,2.0,0.0,0.0,0.0,1986
+Piper,PA-30,Landing,0.0,0.0,0.0,3.0,1986
+Cessna,172N,Approach,0.0,2.0,0.0,0.0,1986
+Cessna,210L,Approach,2.0,0.0,0.0,0.0,1986
+Cessna,337,Go-around,0.0,1.0,1.0,0.0,1986
+Cessna,T210F,Takeoff,1.0,0.0,0.0,0.0,1986
+Cessna,152,Cruise,0.0,0.0,0.0,2.0,1986
+Cessna,177RG,Takeoff,1.0,0.0,0.0,0.0,1986
+Beech,A23-24,Landing,0.0,0.0,0.0,2.0,1986
+Piper,PA-32-300,Cruise,0.0,0.0,1.0,0.0,1986
+Mooney,M20F,Descent,0.0,0.0,0.0,1.0,1986
+Beech,95-B55,Maneuvering,0.0,0.0,0.0,5.0,1986
+Cessna,320,Approach,0.0,1.0,0.0,0.0,1986
+Cessna,T210L,Cruise,0.0,0.0,1.0,0.0,1986
+Mooney,M20C,Landing,0.0,0.0,0.0,2.0,1986
+Enstrom,280C,Cruise,1.0,0.0,0.0,0.0,1986
+Cessna,T303,Approach,0.0,0.0,0.0,2.0,1986
+Cessna,P210N,Approach,0.0,0.0,0.0,1.0,1986
+Cessna,T310Q,Taxi,0.0,0.0,0.0,4.0,1986
+Cessna,340A,Climb,1.0,0.0,0.0,0.0,1986
+Piper,PA-34-220T,Landing,0.0,0.0,0.0,2.0,1986
+Bellanca,14-19-3A,Approach,4.0,0.0,0.0,0.0,1986
+Cessna,414A,Approach,0.0,1.0,0.0,0.0,1986
+Bellanca,8GCBC,Climb,0.0,0.0,0.0,2.0,1986
+Cessna,T210N,Approach,1.0,0.0,0.0,0.0,1987
+Cessna,T210F,Climb,1.0,1.0,0.0,0.0,1987
+Cessna,182Q,Maneuvering,1.0,0.0,0.0,0.0,1987
+Intermountain Mfg. (imco),CALLAIR A-9,Takeoff,0.0,0.0,0.0,1.0,1987
+Beech,F33A,Takeoff,4.0,0.0,0.0,0.0,1987
+Beech,A-36,Approach,0.0,0.0,3.0,0.0,1987
+Rockwell,500S,Landing,0.0,0.0,0.0,4.0,1987
+Cessna,C-152,Approach,0.0,0.0,2.0,0.0,1987
+Hughes,369D,Approach,0.0,0.0,0.0,1.0,1987
+Cessna,T210L,Descent,4.0,0.0,0.0,0.0,1987
+Cessna,207,Approach,0.0,1.0,0.0,0.0,1987
+Cessna,C-180-H,Landing,0.0,0.0,0.0,3.0,1987
+Piper,PA-34-200,Landing,0.0,0.0,0.0,2.0,1987
+Cessna,170B,Maneuvering,0.0,2.0,0.0,0.0,1987
+Cessna,210,Landing,0.0,0.0,0.0,2.0,1987
+Cessna,172N,Takeoff,0.0,0.0,0.0,1.0,1987
+Piper,PA-42,Takeoff,0.0,1.0,0.0,0.0,1987
+Schweizer,2-32,Cruise,0.0,0.0,0.0,3.0,1987
+Cessna,T210L,Landing,0.0,0.0,0.0,1.0,1987
+Mooney,M20E,Approach,0.0,0.0,0.0,1.0,1987
+Piper,PA-28R-180,Landing,0.0,0.0,0.0,1.0,1987
+Cessna,185C,Descent,0.0,0.0,0.0,1.0,1987
+Cessna,310Q,Landing,0.0,0.0,0.0,3.0,1987
+Robinson,R22,Cruise,2.0,0.0,0.0,0.0,1987
+Cessna,182R,Landing,0.0,0.0,0.0,2.0,1987
+Cessna,T210N,Landing,0.0,1.0,1.0,1.0,1987
+Rockwell,NA265-65,Landing,0.0,0.0,0.0,2.0,1987
+Cessna,180,Landing,0.0,0.0,0.0,3.0,1987
+Mooney,M20J,Cruise,1.0,0.0,0.0,0.0,1987
+Cessna,210M,Landing,4.0,0.0,0.0,0.0,1987
+Beech,58,Cruise,0.0,0.0,0.0,3.0,1987
+Hughes,269D,Maneuvering,0.0,0.0,0.0,1.0,1987
+Piper,PA-32-300,Takeoff,0.0,0.0,0.0,3.0,1987
+Hughes,364HS,Landing,0.0,0.0,2.0,0.0,1987
+Cessna,P210R,Cruise,1.0,0.0,0.0,0.0,1987
+Cessna,P210N,Cruise,0.0,0.0,0.0,1.0,1987
+Balloon Works,BARNES FF-8-24,Cruise,0.0,1.0,0.0,5.0,1987
+Cessna,T210N,Approach,0.0,0.0,2.0,0.0,1987
+Beech,V35B,Descent,2.0,0.0,0.0,0.0,1987
+Beech,BE-58,Landing,0.0,0.0,0.0,2.0,1987
+Cessna,172M,Cruise,0.0,0.0,0.0,1.0,1987
+Cessna,A185F,Landing,0.0,0.0,0.0,1.0,1987
+Eagle Aircraft Co.,C-7,Approach,0.0,4.0,0.0,0.0,1987
+Balloon Works,FIREFLY 8-24,Takeoff,0.0,1.0,2.0,4.0,1987
+Bellanca,7GCBG,Takeoff,0.0,1.0,0.0,0.0,1987
+Beech,58,Cruise,0.0,0.0,0.0,1.0,1987
+Piper,PA-32-260,Cruise,0.0,0.0,1.0,0.0,1987
+Cessna,172,Landing,0.0,0.0,1.0,1.0,1987
+Cessna,T303,Approach,0.0,0.0,0.0,2.0,1987
+Maule,M-5-180,Landing,0.0,0.0,0.0,2.0,1987
+Piper,PA-28-181,Taxi,0.0,0.0,0.0,2.0,1987
+Devore Sunbird,100,Takeoff,0.0,0.0,0.0,1.0,1987
+Short Brothers,SC7,Taxi,0.0,0.0,2.0,0.0,1987
+Beech,D55,Takeoff,0.0,0.0,0.0,1.0,1987
+Cessna,182C,Landing,0.0,0.0,0.0,1.0,1987
+Beech,D-55,Descent,1.0,0.0,0.0,0.0,1987
+Cessna,TU206B,Descent,0.0,0.0,2.0,0.0,1987
+Piper,PA-28-180,Landing,0.0,0.0,0.0,1.0,1987
+Beech,95-55,Climb,0.0,1.0,2.0,1.0,1987
+Beech,95-B55,Landing,0.0,0.0,0.0,1.0,1987
+Rotorway,EXECUTIVE,Cruise,0.0,0.0,0.0,1.0,1987
+Hughes,369D,Maneuvering,2.0,0.0,0.0,0.0,1987
+Cessna,P206 S/N P206-0009,,6.0,0.0,0.0,0.0,1987
+North American,SNJ-4,Maneuvering,4.0,0.0,0.0,0.0,1987
+Beech,58P,Landing,0.0,0.0,0.0,1.0,1987
+Beech,A65,Takeoff,0.0,0.0,1.0,0.0,1987
+Cessna,182,Takeoff,0.0,0.0,1.0,1.0,1987
+Beech,C-24R,Takeoff,0.0,0.0,0.0,2.0,1987
+Fairchild,C-119L,Landing,0.0,0.0,0.0,5.0,1987
+Cessna,150K,Takeoff,0.0,0.0,1.0,0.0,1987
+Mooney,M20J,Takeoff,0.0,0.0,0.0,2.0,1987
+Cessna,T337G,Cruise,4.0,0.0,0.0,0.0,1987
+Air & Space,18A,Takeoff,0.0,0.0,1.0,0.0,1987
+Piper,PA-31T-620II,Approach,3.0,0.0,0.0,0.0,1987
+Cessna,P206,Cruise,4.0,0.0,0.0,0.0,1987
+Piper,PA-34-200T,Takeoff,0.0,0.0,0.0,2.0,1987
+Rockwell,114,Cruise,1.0,0.0,0.0,0.0,1987
+Beech,B-60,Cruise,0.0,2.0,0.0,0.0,1987
+Beech,A36-TC,Cruise,0.0,0.0,0.0,2.0,1987
+Cessna,180,Landing,0.0,0.0,0.0,1.0,1987
+Cessna,T210N,Climb,0.0,0.0,0.0,1.0,1987
+Cessna,185,Landing,0.0,0.0,1.0,0.0,1987
+Cessna,310Q,Takeoff,2.0,0.0,0.0,0.0,1987
+Cessna,P210R,Climb,1.0,0.0,0.0,0.0,1987
+Bell,47G,Cruise,2.0,0.0,0.0,0.0,1987
+Cessna,T210L,Landing,0.0,0.0,0.0,1.0,1987
+Cessna,172G,Landing,0.0,0.0,0.0,2.0,1987
+De Havilland,BEAVER U-6A,Landing,0.0,0.0,0.0,1.0,1987
+De Havilland,DHC-2,Takeoff,0.0,0.0,0.0,6.0,1987
+Grumman American,AA-5B,Cruise,0.0,0.0,0.0,1.0,1987
+Mooney,M20J,Takeoff,1.0,0.0,0.0,0.0,1987
+Beech,B36TC,Landing,0.0,0.0,0.0,2.0,1987
+Beech,B200,Approach,0.0,0.0,0.0,1.0,1987
+Piper,PA-32R-300,Approach,0.0,0.0,0.0,1.0,1987
+Douglas,DC3A,Takeoff,0.0,0.0,0.0,2.0,1987
+Piper,PA-28-181,Landing,0.0,0.0,0.0,2.0,1987
+Mooney,M-20,Landing,0.0,0.0,0.0,2.0,1987
+Cessna,182F,Approach,0.0,0.0,1.0,2.0,1987
+Cessna,185,Landing,0.0,0.0,0.0,4.0,1987
+Piper,PA-18,Maneuvering,0.0,1.0,2.0,0.0,1987
+Bellanca,17-30A,Climb,1.0,0.0,0.0,0.0,1987
+Cessna,182C,Cruise,0.0,0.0,0.0,2.0,1987
+Piper,PA-28RT,Takeoff,0.0,0.0,0.0,2.0,1987
+Raven,S77A,Landing,0.0,3.0,4.0,0.0,1987
+Stinson,108-3,Takeoff,0.0,0.0,2.0,0.0,1987
+Bell,206B,Cruise,0.0,0.0,0.0,1.0,1987
+Piper,PA-18A,Maneuvering,1.0,0.0,0.0,0.0,1987
+Bell,47D-1,Cruise,0.0,0.0,0.0,2.0,1987
+Cessna,TU206G,Approach,0.0,0.0,1.0,1.0,1987
+Curtiss,JN-4,Cruise,0.0,0.0,1.0,0.0,1987
+Piper,PA-28-161,Landing,0.0,0.0,0.0,1.0,1987
+Cessna,T210N,Approach,0.0,0.0,1.0,3.0,1987
+Piper,PA-32R-301T,Takeoff,0.0,0.0,0.0,1.0,1987
+Piper,PA-34-220T,Landing,0.0,0.0,0.0,1.0,1987
+Mooney,20K,Go-around,0.0,0.0,0.0,1.0,1987
+Cessna,185,Landing,0.0,0.0,0.0,1.0,1987
+Fairchild,PT-23,Takeoff,0.0,2.0,0.0,0.0,1987
+Bellanca,8GCBC,Maneuvering,1.0,0.0,0.0,0.0,1987
+Cessna,182,Landing,0.0,0.0,0.0,1.0,1987
+Beech,B23,Approach,0.0,0.0,0.0,4.0,1987
+Cessna,A185F,Landing,0.0,0.0,0.0,1.0,1987
+Piper,PA-34-200,Cruise,3.0,0.0,0.0,0.0,1987
+Piper,PA-28-140,Cruise,0.0,0.0,0.0,1.0,1987
+Aero Commander,112,Maneuvering,1.0,0.0,0.0,0.0,1987
+Beech,B-60,Landing,0.0,0.0,0.0,1.0,1987
+Piper,PA-23-160,Takeoff,3.0,0.0,0.0,0.0,1987
+Beech,V-35B,Cruise,2.0,0.0,0.0,0.0,1987
+Cessna,182,Maneuvering,1.0,0.0,0.0,0.0,1987
+Piper,PA-18,Maneuvering,1.0,0.0,0.0,0.0,1987
+Beech,100,Landing,0.0,0.0,0.0,1.0,1987
+Piper,AEROSTAR 601P,Climb,0.0,1.0,1.0,0.0,1987
+Beech,58,Landing,0.0,0.0,0.0,4.0,1987
+Piper,PA-12,Approach,3.0,0.0,0.0,0.0,1987
+Mooney,M20F,Takeoff,0.0,0.0,0.0,3.0,1987
+Cessna,180B,Maneuvering,0.0,0.0,0.0,1.0,1987
+Piper,PA-32-300,Cruise,2.0,0.0,0.0,0.0,1987
+Piper,PA-28-181,Takeoff,0.0,0.0,0.0,1.0,1987
+Beech,D95A,Takeoff,1.0,0.0,0.0,0.0,1987
+Piper,PA-18-125,Maneuvering,1.0,1.0,0.0,0.0,1987
+Piper,PA-23-250,Cruise,3.0,0.0,0.0,0.0,1987
+Bellanca,17-31ATC,Landing,0.0,0.0,0.0,2.0,1987
+Bellanca,17-30A,Takeoff,0.0,1.0,0.0,0.0,1987
+British Aerospace,BA-3101,Landing,0.0,0.0,0.0,11.0,1987
+Piper,PA-24-180,Landing,0.0,0.0,0.0,1.0,1987
+Piper,PA-28R-200,Cruise,0.0,0.0,0.0,4.0,1987
+Piper,PA-32RT-300T,Takeoff,2.0,1.0,0.0,0.0,1987
+Cessna,172RG,Cruise,3.0,0.0,0.0,0.0,1987
+Cessna,T210N,Landing,0.0,0.0,0.0,3.0,1987
+Cessna,182,Takeoff,0.0,0.0,0.0,1.0,1987
+Bell,47G-2,Maneuvering,0.0,0.0,0.0,3.0,1987
+National Balloon,752,Landing,0.0,1.0,0.0,2.0,1987
+Cessna,172RG,Cruise,2.0,0.0,0.0,0.0,1987
+Beech,35-A33,Approach,0.0,0.0,2.0,0.0,1987
+Cessna,172P,Descent,0.0,0.0,0.0,1.0,1987
+Piper,PA-23-250,Takeoff,0.0,1.0,1.0,0.0,1987
+Piper,PA-32R-300,Landing,0.0,0.0,0.0,1.0,1987
+Beech,C-55,Landing,1.0,0.0,0.0,0.0,1987
+Cessna,421C,,0.0,0.0,0.0,2.0,1987
+Grumman,AA-5B,Takeoff,0.0,0.0,0.0,4.0,1987
+Piper,PA-32-260,Climb,2.0,0.0,0.0,0.0,1987
+Cessna,T210N,Descent,0.0,0.0,0.0,2.0,1987
+Cessna,401A,Climb,0.0,0.0,0.0,4.0,1987
+North American,P-51D,Taxi,0.0,0.0,0.0,5.0,1987
+Robinson,R-22,Landing,0.0,0.0,0.0,1.0,1987
+Piper,PA-12,Cruise,0.0,0.0,0.0,1.0,1987
+Piper,PA-24-400,Approach,0.0,0.0,0.0,2.0,1987
+Cessna,210A,Descent,0.0,0.0,0.0,2.0,1987
+Cessna,180G,Cruise,2.0,0.0,0.0,0.0,1987
+Piper,PA-28-180,Takeoff,4.0,0.0,0.0,0.0,1987
+Beech,200,Descent,8.0,0.0,0.0,0.0,1987
+Piper,PA-32R,Approach,2.0,0.0,0.0,0.0,1987
+Cessna,310Q,Descent,1.0,0.0,0.0,0.0,1987
+Bellanca,8GCBC,Climb,0.0,0.0,1.0,0.0,1987
+Beech,V35B,Takeoff,0.0,2.0,0.0,0.0,1987
+Piper,PA-28-150,Taxi,0.0,0.0,0.0,1.0,1987
+Piper,PA-38-112,Cruise,0.0,0.0,1.0,0.0,1987
+Hawker Siddeley,HS-125-400A,Cruise,2.0,2.0,2.0,0.0,1987
+Cessna,177RG,Standing,0.0,1.0,0.0,0.0,1987
+Mitsubishi,MU-2B-20,Landing,0.0,0.0,0.0,1.0,1987
+Cessna,182Q,Standing,0.0,0.0,2.0,0.0,1987
+Texas Helicopter,WASP/M74L,Maneuvering,0.0,0.0,0.0,1.0,1987
+Piper,PA-18-150,Landing,0.0,0.0,0.0,2.0,1987
+Piper,PA-32R-300,Cruise,1.0,0.0,0.0,0.0,1987
+Hughes,269A-1,Approach,0.0,0.0,0.0,2.0,1987
+Cessna,195A,Taxi,0.0,0.0,0.0,3.0,1987
+Piper,PA-28-161,Taxi,0.0,0.0,0.0,3.0,1987
+Cessna,402,,1.0,0.0,0.0,0.0,1987
+Cessna,182,Takeoff,0.0,0.0,0.0,1.0,1987
+Balloon Works,FIREFLY 8-24,Landing,0.0,1.0,3.0,1.0,1988
+Hiller,UH-12E,Cruise,0.0,0.0,0.0,3.0,1988
+Cessna,414A,Climb,1.0,0.0,0.0,0.0,1988
+Beech,B36TC,Climb,0.0,2.0,0.0,0.0,1988
+Douglas,C-118A,Taxi,0.0,0.0,0.0,3.0,1988
+Piper,PA-24-250,Cruise,0.0,0.0,1.0,0.0,1988
+Cessna,T303,Cruise,2.0,0.0,0.0,0.0,1988
+Bellanca,8GCBC,Landing,0.0,2.0,0.0,0.0,1988
+Cessna,T210N,Takeoff,1.0,0.0,0.0,0.0,1988
+Hawker Siddeley,125-600A,Approach,1.0,3.0,4.0,0.0,1988
+Adams,A-60,Landing,0.0,3.0,0.0,1.0,1988
+Beech,V35B,Go-around,0.0,0.0,0.0,4.0,1988
+Cessna,206,Landing,0.0,0.0,0.0,1.0,1988
+Air Tractor,AT-301,Landing,0.0,1.0,0.0,0.0,1988
+Dassault-breguet,DA-10,Cruise,0.0,0.0,0.0,5.0,1988
+Cessna,TU206G,Cruise,2.0,0.0,0.0,0.0,1988
+Bellanca,17-30A,Climb,0.0,0.0,2.0,0.0,1988
+Dassault,DA-20,Landing,0.0,0.0,0.0,9.0,1988
+Piper,PA-28-161,Takeoff,0.0,0.0,0.0,1.0,1988
+Piper,PA-28-181,Cruise,3.0,0.0,0.0,0.0,1988
+Cessna,182RG,Standing,0.0,0.0,0.0,1.0,1988
+Cessna,425,Go-around,1.0,1.0,0.0,0.0,1988
+Waco,UPF-7,Approach,0.0,1.0,1.0,0.0,1988
+Cessna,441,Approach,0.0,0.0,0.0,16.0,1988
+Bell,206B,Cruise,0.0,2.0,0.0,1.0,1988
+Beech,S35,Approach,2.0,0.0,0.0,0.0,1988
+Piper,PA-23-250,Landing,0.0,0.0,0.0,4.0,1988
+Grumman American,AA-5A,Takeoff,2.0,0.0,0.0,0.0,1988
+Cessna,182,Takeoff,0.0,0.0,0.0,1.0,1988
+Beech,F35,Descent,0.0,0.0,0.0,1.0,1988
+Cessna,310Q,Landing,0.0,0.0,0.0,6.0,1988
+Cessna,T210N,Cruise,0.0,0.0,3.0,0.0,1988
+Beech,A36,Cruise,2.0,0.0,0.0,0.0,1988
+Cessna,182P,Cruise,0.0,0.0,3.0,0.0,1988
+Piper,PA-31T,Takeoff,0.0,0.0,0.0,17.0,1988
+Helio,HT-295,Cruise,0.0,0.0,0.0,1.0,1988
+Bell,206B,Takeoff,0.0,0.0,0.0,2.0,1988
+Mooney,M-20J,Approach,1.0,0.0,0.0,0.0,1988
+Gates Learjet,24E,Climb,0.0,0.0,0.0,123.0,1988
+Cessna,210N,Cruise,3.0,0.0,0.0,0.0,1988
+Bell,47G-3B1,Maneuvering,0.0,0.0,0.0,1.0,1988
+Bell,206B,Landing,0.0,0.0,2.0,0.0,1988
+Cessna,421A,Approach,2.0,0.0,0.0,0.0,1988
+Avian,MAGNUM IX,Descent,0.0,0.0,8.0,0.0,1988
+Beech,35-C33A,Cruise,2.0,0.0,0.0,0.0,1988
+Beech,D18S,,0.0,0.0,0.0,2.0,1988
+Mooney,M20G,Cruise,1.0,0.0,0.0,0.0,1988
+Cessna,310I,Approach,2.0,0.0,0.0,0.0,1988
+Aero Commander,560,Takeoff,0.0,0.0,1.0,0.0,1988
+Bell,47D1,Landing,0.0,0.0,0.0,2.0,1988
+Balloon Works,AX-8B,Takeoff,0.0,1.0,2.0,2.0,1988
+Aerospatiale,SA315B,Standing,0.0,0.0,2.0,0.0,1988
+Piper,PA-38-112,Cruise,0.0,0.0,0.0,1.0,1988
+Mcdonnell Douglas,DC-3,,2.0,1.0,0.0,0.0,1988
+Piper,PA-28-201T,Landing,0.0,0.0,0.0,2.0,1988
+Raven,S-55,Landing,0.0,2.0,1.0,0.0,1988
+Cessna,150F,Cruise,0.0,0.0,0.0,1.0,1988
+Bellanca,7ECA,Maneuvering,1.0,1.0,0.0,0.0,1988
+Beech,58,Cruise,0.0,0.0,0.0,3.0,1988
+Cessna,185F,Maneuvering,1.0,0.0,0.0,1.0,1988
+Piper,PA-18-150,Maneuvering,1.0,0.0,0.0,1.0,1988
+Hughes,269B,Takeoff,0.0,0.0,1.0,2.0,1988
+Piper,PA-42-720,Approach,0.0,0.0,0.0,274.0,1988
+Cessna,182P,Maneuvering,0.0,3.0,0.0,0.0,1988
+Piper,PA-34-200T,Taxi,0.0,0.0,0.0,2.0,1988
+Fairchild,M-62A-3,Cruise,0.0,0.0,1.0,1.0,1988
+Cessna,S550,Cruise,0.0,0.0,0.0,5.0,1988
+Piper,PA-38-112,Takeoff,0.0,0.0,0.0,1.0,1988
+Cessna,185E,Cruise,0.0,0.0,0.0,1.0,1988
+Hughes,369E,Takeoff,0.0,1.0,3.0,0.0,1988
+Cessna,170B,Cruise,0.0,0.0,0.0,1.0,1988
+Piper,PA-18,Takeoff,0.0,0.0,0.0,2.0,1988
+Cessna,152,Cruise,0.0,0.0,1.0,0.0,1988
+Cessna,310K,Landing,0.0,0.0,0.0,2.0,1988
+Piper,PA-28R-200,Climb,2.0,0.0,0.0,1.0,1988
+Cessna,172,Climb,2.0,0.0,0.0,1.0,1988
+Cessna,T210N,Climb,1.0,3.0,0.0,0.0,1988
+Hiller,FH-1100,Maneuvering,0.0,0.0,0.0,1.0,1988
+Cessna,T210N,Approach,0.0,0.0,1.0,0.0,1988
+Gulfstream American,AA-5A,Maneuvering,2.0,0.0,0.0,0.0,1988
+Piper,PA-60,Go-around,0.0,0.0,0.0,1.0,1988
+Cessna,180,Maneuvering,0.0,0.0,1.0,0.0,1988
+Rockwell,690C,Approach,0.0,0.0,0.0,2.0,1988
+Cessna,421B,Cruise,1.0,0.0,0.0,0.0,1988
+Cessna,205,Descent,4.0,0.0,0.0,0.0,1988
+Piper,PA-28R-200,Cruise,0.0,1.0,0.0,0.0,1988
+Cessna,U206,Landing,0.0,0.0,1.0,0.0,1988
+Piper,PA-28R-201,Takeoff,0.0,0.0,0.0,3.0,1988
+Beech,A33 A,,0.0,0.0,0.0,2.0,1988
+Piper,PA-16,Takeoff,0.0,0.0,0.0,1.0,1988
+Cessna,182R,Takeoff,0.0,0.0,0.0,4.0,1988
+Bell,47J2,Cruise,0.0,1.0,0.0,2.0,1988
+Northrop,C-125A,Takeoff,0.0,0.0,2.0,0.0,1988
+Piper,PA-32R-300,Cruise,0.0,0.0,0.0,2.0,1988
+Piper,PA-32,Landing,0.0,0.0,0.0,7.0,1988
+Piper,PA-32,Cruise,1.0,0.0,0.0,0.0,1988
+Cessna,206,Maneuvering,1.0,0.0,0.0,0.0,1988
+Cessna,TR182,Takeoff,0.0,0.0,0.0,1.0,1988
+Cessna,210L,Takeoff,0.0,2.0,0.0,0.0,1988
+Mbb,BK-117,Standing,0.0,0.0,0.0,1.0,1988
+Piper,PA-18,Landing,0.0,0.0,0.0,1.0,1988
+Piper,PA-22-150,Maneuvering,2.0,0.0,0.0,0.0,1988
+Bell,206B,Takeoff,0.0,0.0,0.0,5.0,1988
+Raven,S-60A,Descent,0.0,0.0,0.0,3.0,1988
+Boeing,A75N1,Landing,0.0,0.0,0.0,1.0,1988
+Enstrom,280FX,Landing,0.0,0.0,0.0,2.0,1988
+Balloon Works,FIREFLY 7,Cruise,0.0,0.0,0.0,3.0,1988
+Cessna,185,Maneuvering,0.0,0.0,0.0,1.0,1988
+Piper,PA-34-200T,Landing,0.0,0.0,0.0,1.0,1988
+Cessna,182E,Cruise,0.0,0.0,0.0,2.0,1988
+Piper,PA-60-700P,Cruise,1.0,0.0,0.0,0.0,1988
+Beech,35R,Landing,0.0,0.0,0.0,4.0,1988
+Cessna,182A,Descent,0.0,0.0,0.0,1.0,1988
+Bell,47G3B-1,Maneuvering,0.0,0.0,0.0,2.0,1988
+Piper,PA-28,Takeoff,2.0,0.0,0.0,0.0,1988
+Champion,7KCAB,Cruise,0.0,0.0,0.0,1.0,1988
+Cessna,172RG,Cruise,0.0,0.0,0.0,1.0,1988
+Beech,60,Approach,3.0,0.0,0.0,0.0,1988
+Cessna,172,Approach,1.0,0.0,0.0,0.0,1988
+Cessna,A185F,Landing,0.0,0.0,0.0,2.0,1988
+Cessna,T210N,Maneuvering,0.0,0.0,0.0,1.0,1988
+Bell,206L,Approach,0.0,0.0,0.0,1.0,1988
+Piper,PA-32-300E,Climb,0.0,0.0,1.0,0.0,1988
+Hughes,269B,Cruise,3.0,0.0,0.0,0.0,1988
+Aero Commander,100-180,Maneuvering,3.0,0.0,0.0,0.0,1988
+Piper,PA-28R-200,Cruise,0.0,0.0,1.0,0.0,1988
+Cessna,206,Landing,0.0,0.0,0.0,1.0,1988
+Helio,H-295,Takeoff,0.0,0.0,0.0,2.0,1988
+B??lkow,BO-105C,Maneuvering,0.0,0.0,0.0,3.0,1988
+Piper,PA-24-400,Go-around,0.0,0.0,0.0,1.0,1988
+Maule,M-5-235,Taxi,0.0,0.0,0.0,1.0,1988
+Cessna,207,Takeoff,0.0,0.0,0.0,2.0,1988
+Cessna,188B,Landing,0.0,1.0,0.0,0.0,1988
+Cessna,177,Cruise,0.0,0.0,0.0,1.0,1988
+Robinson,R-22,Maneuvering,0.0,0.0,0.0,1.0,1988
+Hughes,369HS,Cruise,0.0,0.0,0.0,1.0,1988
+Cessna,305A,Takeoff,1.0,1.0,0.0,0.0,1988
+Beech,C23,Cruise,1.0,0.0,0.0,0.0,1988
+Cessna,550,Landing,0.0,0.0,0.0,2.0,1988
+Cessna,210L,Landing,0.0,0.0,0.0,2.0,1988
+Bellanca,14-19-3,Maneuvering,2.0,0.0,0.0,0.0,1988
+Cessna,172M,Takeoff,0.0,0.0,0.0,2.0,1988
+Bell,212,Landing,0.0,0.0,0.0,1.0,1988
+Piper,PA-60-601P,Takeoff,1.0,0.0,0.0,0.0,1988
+Cessna,182A,Standing,0.0,0.0,0.0,2.0,1988
+Mooney,M20E,Cruise,3.0,0.0,0.0,0.0,1988
+Cessna,T210N,Cruise,0.0,0.0,1.0,0.0,1988
+Cessna,210N,Descent,1.0,0.0,0.0,0.0,1988
+Cessna,182,Landing,0.0,0.0,1.0,0.0,1988
+Hughes,500C,Approach,0.0,4.0,2.0,0.0,1988
+Cessna,172N,Landing,0.0,0.0,1.0,0.0,1988
+Beech,55B,Landing,0.0,0.0,0.0,2.0,1988
+Piper,PA-32-300,Approach,3.0,0.0,0.0,0.0,1988
+Cessna,P210,Approach,0.0,1.0,0.0,0.0,1988
+Cessna,U206,Taxi,0.0,0.0,0.0,2.0,1988
+Cessna,210E,Maneuvering,4.0,0.0,0.0,0.0,1988
+Cessna,150F,Landing,0.0,0.0,0.0,1.0,1988
+Piper,PA31P-350,Approach,2.0,0.0,0.0,0.0,1988
+Cessna,172N,Cruise,0.0,0.0,0.0,2.0,1988
+Cessna,182J,Landing,0.0,0.0,0.0,2.0,1988
+Cessna,180,Taxi,0.0,0.0,0.0,1.0,1988
+Cessna,421A,Cruise,1.0,0.0,0.0,0.0,1988
+Bell,47G2,Takeoff,1.0,0.0,0.0,0.0,1988
+Cessna,152,Maneuvering,0.0,2.0,0.0,0.0,1988
+Cessna,182H,Go-around,0.0,0.0,2.0,4.0,1988
+Cessna,U206G,Cruise,0.0,0.0,0.0,1.0,1988
+Piper,PA-31-350,Takeoff,0.0,0.0,0.0,4.0,1988
+Cessna,152F,Maneuvering,0.0,1.0,0.0,0.0,1988
+Beech,V35B,Cruise,0.0,0.0,0.0,1.0,1988
+Cessna,421,Cruise,2.0,0.0,0.0,0.0,1988
+Piper,PA-32-300,Cruise,1.0,0.0,0.0,0.0,1988
+Beech,P35,Cruise,3.0,0.0,0.0,0.0,1988
+Piper,PA-28,Approach,0.0,0.0,1.0,0.0,1988
+Cessna,335,Approach,2.0,0.0,0.0,0.0,1988
+Cessna,150L,Maneuvering,0.0,0.0,0.0,1.0,1988
+Hughes,369E,Maneuvering,0.0,0.0,0.0,5.0,1988
+Cessna,177RG,Landing,0.0,0.0,0.0,2.0,1988
+Piper,PA-11,Takeoff,0.0,0.0,0.0,2.0,1988
+Bell,206L-1,Cruise,1.0,0.0,0.0,0.0,1988
+Beech,A36,Cruise,0.0,0.0,2.0,0.0,1988
+Cessna,310L,Cruise,2.0,0.0,0.0,0.0,1988
+Mooney,M20C,Approach,0.0,0.0,1.0,0.0,1988
+Beech,A36,Approach,1.0,0.0,0.0,0.0,1988
+Cessna,TR182,Approach,0.0,0.0,0.0,2.0,1988
+Cessna,TU206D,Cruise,0.0,1.0,0.0,0.0,1988
+Navion,NA-1,Takeoff,0.0,0.0,0.0,1.0,1988
+Cessna,172,Taxi,0.0,0.0,0.0,1.0,1989
+Beech,B33,Cruise,2.0,0.0,0.0,0.0,1989
+Cessna,172,Takeoff,0.0,0.0,1.0,0.0,1989
+Beech,35-B33,Cruise,3.0,0.0,0.0,0.0,1989
+Piper,PA-28R-200,Approach,0.0,1.0,0.0,0.0,1989
+Cessna,T210N,Climb,0.0,0.0,0.0,2.0,1989
+Cessna,206,Approach,0.0,0.0,1.0,1.0,1989
+Beech,58,Landing,0.0,0.0,0.0,2.0,1989
+Robinson,R-22HP,Takeoff,0.0,1.0,0.0,0.0,1989
+Cessna,182Q,Landing,0.0,0.0,0.0,2.0,1989
+Robinson,R22A,Maneuvering,2.0,0.0,0.0,0.0,1989
+Cessna,172F,Cruise,0.0,1.0,1.0,0.0,1989
+Beech,A-36,Cruise,0.0,1.0,1.0,0.0,1989
+Cameron,A-140,Cruise,0.0,1.0,5.0,0.0,1989
+Cessna,207,Cruise,0.0,1.0,0.0,0.0,1989
+Cessna,340A,Cruise,1.0,0.0,0.0,0.0,1989
+Piper,PA-28-180,Cruise,0.0,0.0,2.0,0.0,1989
+Piper,J-5,Landing,0.0,0.0,0.0,1.0,1989
+Piper,PA-32R-300,Landing,0.0,0.0,0.0,3.0,1989
+Beech,95-A55,Approach,1.0,0.0,0.0,0.0,1989
+Piper,PA-22-135,Approach,0.0,0.0,1.0,0.0,1989
+Cessna,421B,Landing,0.0,0.0,0.0,2.0,1989
+Cessna,172,Maneuvering,0.0,0.0,0.0,1.0,1989
+Cessna,185,Cruise,0.0,0.0,0.0,2.0,1989
+Bellanca,17-31ATC,Landing,0.0,0.0,0.0,1.0,1989
+Cessna,172K,Cruise,4.0,0.0,0.0,0.0,1989
+Cessna,T210L,Approach,0.0,0.0,1.0,0.0,1989
+Hughes,269A,Standing,0.0,1.0,0.0,1.0,1989
+Cessna,T210L,Climb,1.0,0.0,0.0,0.0,1989
+Hughes,269C,Cruise,0.0,1.0,1.0,0.0,1989
+Cessna,177,Descent,0.0,1.0,0.0,0.0,1989
+Cessna,150J,Takeoff,0.0,0.0,1.0,0.0,1989
+Cessna,182P,Cruise,1.0,0.0,0.0,0.0,1989
+Cessna,182P,Cruise,0.0,0.0,1.0,0.0,1989
+Aero Commander,685,Cruise,0.0,0.0,1.0,3.0,1989
+Cessna,182,Maneuvering,1.0,0.0,0.0,0.0,1989
+Cessna,172RG,Landing,0.0,0.0,0.0,1.0,1989
+Beech,A60,Approach,0.0,0.0,0.0,1.0,1989
+Hiller,UH-12D,Maneuvering,0.0,0.0,0.0,1.0,1989
+Beech,A36,Cruise,0.0,0.0,0.0,2.0,1989
+Cessna,411,Landing,0.0,0.0,0.0,2.0,1989
+Adams,UNKNOWN,Landing,0.0,1.0,2.0,1.0,1989
+Bell,206A,Climb,0.0,0.0,1.0,1.0,1989
+Cessna,150H,Cruise,2.0,0.0,0.0,0.0,1989
+"Smith, Ted Aerostar",601,Takeoff,1.0,0.0,0.0,0.0,1989
+Piper,PA-28-181,Cruise,2.0,0.0,0.0,0.0,1989
+Piper,PA-24-250,Cruise,2.0,0.0,0.0,0.0,1989
+Piper,PA-32R-300,Cruise,0.0,0.0,1.0,0.0,1989
+Cessna,182H,Taxi,0.0,0.0,0.0,1.0,1989
+Piper,PA-31-350,Approach,0.0,0.0,0.0,1.0,1989
+Piper,PA-31,Landing,0.0,0.0,0.0,3.0,1989
+Piper,PA-28-181,Cruise,4.0,0.0,0.0,0.0,1989
+Beech,A36TC,Takeoff,0.0,0.0,0.0,4.0,1989
+Piper,PA-22-150,Approach,0.0,0.0,1.0,0.0,1989
+Cessna,180,Landing,0.0,0.0,0.0,1.0,1989
+Cessna,P210N,Landing,0.0,0.0,0.0,1.0,1989
+Piper,PA-46-310P,Descent,3.0,0.0,0.0,0.0,1989
+Bell,206L,Approach,0.0,0.0,0.0,1.0,1989
+Helio,H-295,Takeoff,0.0,0.0,0.0,1.0,1989
+Piper,PA-30,Cruise,0.0,0.0,1.0,0.0,1989
+De Havilland,DHC-2,Landing,0.0,0.0,0.0,1.0,1989
+Cessna,R172E,Landing,0.0,0.0,0.0,1.0,1989
+Maule,MX-7-235,Landing,0.0,0.0,0.0,1.0,1989
+De Havilland,DHC-3,Approach,0.0,0.0,0.0,2.0,1989
+Piper,PA-60-601P,Cruise,3.0,0.0,0.0,0.0,1989
+Bell,47G3B2A,Maneuvering,0.0,0.0,2.0,0.0,1989
+Cessna,210,Descent,0.0,0.0,1.0,0.0,1989
+De Havilland,DHC-2,Approach,0.0,2.0,0.0,0.0,1989
+Beech,A36,Takeoff,1.0,2.0,1.0,0.0,1989
+Cessna,206,Landing,0.0,0.0,1.0,0.0,1989
+Piper,PA-23-250,,0.0,0.0,5.0,0.0,1989
+Cessna,210H,Cruise,4.0,0.0,0.0,0.0,1989
+Cessna,310R,,0.0,2.0,4.0,0.0,1989
+Cessna,182A,Takeoff,0.0,0.0,1.0,4.0,1989
+Cessna,P210N,Descent,1.0,0.0,0.0,0.0,1989
+Cessna,152,Cruise,0.0,0.0,1.0,0.0,1989
+Beech,58,Takeoff,3.0,1.0,0.0,0.0,1989
+Hughes,500D,Takeoff,0.0,1.0,1.0,1.0,1989
+Aerospatiale,AS-350-D,Cruise,2.0,0.0,0.0,0.0,1989
+Cessna,172P,Cruise,0.0,0.0,1.0,0.0,1989
+Piper,PA-32RT-300T,Cruise,0.0,0.0,0.0,3.0,1989
+Aeronca,7AC,Cruise,0.0,0.0,0.0,1.0,1989
+Piper,PA-32R-301T,Takeoff,2.0,0.0,0.0,0.0,1989
+Piper,PA-32-300,Cruise,0.0,0.0,2.0,0.0,1989
+Beech,V35TC,Cruise,1.0,0.0,0.0,0.0,1989
+Cessna,320,Landing,0.0,0.0,0.0,3.0,1989
+Piper,PA-32R-300,Landing,0.0,0.0,0.0,1.0,1989
+Mooney,M22,Landing,0.0,0.0,0.0,1.0,1989
+Hughes,269C,Cruise,0.0,1.0,0.0,2.0,1989
+Cessna,206G,Takeoff,0.0,0.0,1.0,2.0,1989
+Beech,70,Takeoff,6.0,0.0,0.0,0.0,1989
+Cessna,172H,Maneuvering,1.0,0.0,0.0,0.0,1989
+Piper,PA-601P,Takeoff,1.0,0.0,0.0,0.0,1989
+Beech,E55,Climb,1.0,0.0,0.0,0.0,1989
+Cessna,177RG,Cruise,2.0,0.0,0.0,0.0,1989
+Cessna,182Q,Approach,1.0,0.0,0.0,0.0,1989
+Piper,PA-12,Landing,0.0,0.0,0.0,2.0,1989
+Cessna,182,Cruise,0.0,0.0,2.0,0.0,1989
+Piper,PA-18A,Landing,0.0,0.0,0.0,2.0,1989
+Cessna,172,Cruise,0.0,0.0,0.0,1.0,1989
+Piper,PA-28-180,Takeoff,0.0,0.0,0.0,2.0,1989
+De Havilland,DHC-2,Takeoff,0.0,0.0,0.0,4.0,1989
+Cessna,210P,Approach,0.0,0.0,0.0,2.0,1989
+Consolidated Aeronautics Inc.,LAKE-LA-4-200,Approach,0.0,1.0,2.0,0.0,1989
+Cessna,180,Landing,0.0,0.0,0.0,1.0,1989
+Aeronca,7AC,Landing,0.0,0.0,0.0,2.0,1989
+Piper,PA-34-220T,Landing,0.0,0.0,0.0,1.0,1989
+De Havilland,DHC-6,Landing,0.0,0.0,0.0,5.0,1989
+Piper,PA-32-260,Approach,0.0,1.0,0.0,0.0,1989
+Bell,206BII,Maneuvering,0.0,0.0,0.0,3.0,1989
+Piper,PA-32-300,Landing,0.0,0.0,0.0,1.0,1989
+Beech,36,Landing,0.0,0.0,0.0,2.0,1989
+Piper,PA-28-180,Landing,0.0,0.0,0.0,1.0,1989
+Piper,PA-18,Takeoff,0.0,0.0,0.0,2.0,1989
+Cessna,185,Takeoff,0.0,1.0,2.0,0.0,1989
+Cessna,550,Approach,2.0,0.0,0.0,0.0,1989
+Beech,35,Takeoff,0.0,0.0,0.0,2.0,1989
+Piper,PA-32RT-300T,Taxi,0.0,0.0,0.0,3.0,1989
+Beech,58P,Approach,0.0,0.0,0.0,1.0,1989
+Cessna,P210,Cruise,0.0,0.0,0.0,1.0,1989
+Cessna,T-337G-P,Descent,0.0,0.0,0.0,4.0,1989
+Cessna,170B,Cruise,0.0,0.0,0.0,2.0,1989
+Piper,PA-28-161,Takeoff,2.0,0.0,0.0,0.0,1989
+Wheeler Acft. Co.,EXPRESS 100,Cruise,0.0,0.0,2.0,0.0,1989
+Cessna,320,Maneuvering,2.0,0.0,0.0,0.0,1989
+Cessna,TR182,Cruise,2.0,0.0,0.0,0.0,1989
+Classic Aircraft Corp.,YMF-5,Taxi,0.0,0.0,0.0,3.0,1989
+Piper,PA-18-150,Maneuvering,0.0,0.0,2.0,0.0,1989
+Beech,C90,Takeoff,4.0,0.0,0.0,0.0,1989
+Cessna,320,Approach,0.0,0.0,0.0,3.0,1989
+Cessna,U206B,Taxi,0.0,0.0,0.0,1.0,1989
+Beech,A36,Approach,0.0,0.0,0.0,1.0,1989
+Piper,601P,Approach,0.0,0.0,0.0,2.0,1989
+Piper,PA-28,Approach,0.0,0.0,0.0,2.0,1989
+Beech,A24R,Cruise,0.0,0.0,0.0,1.0,1989
+Cessna,182P,Cruise,2.0,0.0,0.0,0.0,1989
+Beech,A36,Approach,3.0,0.0,0.0,0.0,1989
+Cessna,310K,,0.0,0.0,0.0,1.0,1989
+Piper,PA-32R-300,Approach,0.0,2.0,0.0,0.0,1989
+Piper,PA-28,Cruise,0.0,1.0,1.0,0.0,1989
+Piper,PA-46P-350,Descent,0.0,3.0,0.0,0.0,1989
+Piper,AEROSTAR 601P,Takeoff,2.0,0.0,0.0,0.0,1989
+Beech,A36,Descent,0.0,0.0,0.0,1.0,1989
+Cessna,T210N,Approach,3.0,0.0,0.0,0.0,1989
+Piper,PA-31-350,Cruise,6.0,0.0,0.0,0.0,1989
+Enstrom,F-28,Standing,1.0,0.0,1.0,1.0,1989
+Piper,PA-60-602P,Cruise,1.0,0.0,0.0,0.0,1989
+Beech,V35B,Descent,0.0,0.0,0.0,2.0,1989
+Cessna,340,Approach,0.0,0.0,0.0,5.0,1989
+Mcdonnell Douglas,369E,Takeoff,1.0,1.0,3.0,0.0,1989
+Champion,7ECA,Landing,0.0,0.0,0.0,1.0,1989
+Cessna,177B,Landing,0.0,0.0,0.0,1.0,1990
+Mitsubishi,MU-2B-25,Cruise,0.0,0.0,0.0,1.0,1990
+Stanger,AIRCOMMANDER 532,Maneuvering,1.0,0.0,0.0,0.0,1990
+Cessna,P210N,Cruise,0.0,1.0,1.0,0.0,1990
+Beech,400,Approach,0.0,0.0,0.0,3.0,1990
+Mitsubishi,MU-2B-25,Takeoff,0.0,0.0,0.0,2.0,1990
+Gulfstream-schweizer,G-164B,Landing,0.0,0.0,0.0,1.0,1990
+Piper,PA-23-250,,0.0,0.0,0.0,6.0,1990
+Aeronca,7DC,Takeoff,1.0,1.0,0.0,0.0,1990
+Cessna,425,Go-around,0.0,0.0,0.0,1.0,1990
+Robinson,R22,Takeoff,0.0,0.0,0.0,1.0,1990
+Piper,PA-46-350P,Cruise,2.0,0.0,0.0,0.0,1990
+Cessna,182P,Approach,3.0,0.0,0.0,0.0,1990
+Piper,PA-28-180,Cruise,2.0,0.0,0.0,0.0,1990
+Bell,206L,Takeoff,1.0,0.0,0.0,4.0,1990
+Mitsubishi,MU-2B-60,Cruise,5.0,0.0,0.0,0.0,1990
+Bell,47B3,Maneuvering,0.0,0.0,0.0,1.0,1990
+Piper,PA-34-200,Taxi,0.0,0.0,0.0,4.0,1990
+Piper,PA-32RT-300,Cruise,3.0,0.0,0.0,0.0,1990
+Piper,PA-32-260,Maneuvering,0.0,3.0,1.0,0.0,1990
+Piper,PA28-201T,Maneuvering,1.0,0.0,0.0,0.0,1990
+Cessna,150,Landing,0.0,1.0,0.0,0.0,1990
+Beech,B-60,Cruise,0.0,0.0,0.0,6.0,1990
+Cessna,172N,Approach,1.0,0.0,0.0,0.0,1990
+Cessna,CITATION SII,Cruise,0.0,0.0,0.0,4.0,1990
+Cessna,T210J,Takeoff,0.0,0.0,1.0,0.0,1990
+Cessna,150,Maneuvering,0.0,0.0,0.0,1.0,1990
+Beech,100,Approach,0.0,2.0,0.0,0.0,1990
+Piper,PA-28-140,Cruise,2.0,0.0,0.0,0.0,1990
+Mooney,M20F,Descent,0.0,0.0,0.0,1.0,1990
+Cessna,P210N,Landing,0.0,0.0,0.0,2.0,1990
+Hughes,H500C,Cruise,0.0,0.0,0.0,1.0,1990
+Piper,PA-32RT-300T,Landing,0.0,0.0,0.0,1.0,1990
+Aerospatiale,SA-315B,Cruise,0.0,0.0,4.0,1.0,1990
+Beech,A36,Approach,3.0,1.0,0.0,0.0,1990
+Cessna,210E,Cruise,1.0,0.0,0.0,0.0,1990
+Grumman,AA-5B,Cruise,0.0,0.0,0.0,1.0,1990
+Cessna,182,Approach,0.0,0.0,2.0,0.0,1990
+Cessna,207,Maneuvering,0.0,0.0,0.0,1.0,1990
+Airship Industries,AIRSHIP 600,Cruise,0.0,0.0,0.0,4.0,1990
+Piper,PA32RT-300,Cruise,2.0,0.0,0.0,0.0,1990
+Piper,PA-34-200T,Landing,0.0,0.0,0.0,1.0,1990
+Beech,F33A,Approach,0.0,0.0,3.0,0.0,1990
+Enstrom,280,Takeoff,0.0,0.0,0.0,2.0,1990
+Cessna,O337F,Takeoff,0.0,0.0,0.0,2.0,1990
+Learjet,25D,Cruise,0.0,0.0,0.0,9.0,1990
+Bellanca,17-30,Cruise,0.0,0.0,0.0,1.0,1990
+Beech,BARON 58,Takeoff,0.0,0.0,0.0,1.0,1990
+Mooney,M20C,Approach,0.0,1.0,0.0,0.0,1990
+Piper,PA30,Approach,0.0,0.0,0.0,3.0,1990
+Hiller,UH-12ET,Cruise,0.0,0.0,0.0,2.0,1990
+Beech,A36,Landing,0.0,0.0,0.0,6.0,1990
+Artic Aircraft Corp.,INTERSTATE S1B1,Climb,0.0,0.0,0.0,2.0,1990
+Piper,PA-31-350,Approach,0.0,0.0,0.0,4.0,1990
+Piper,PA-18,Takeoff,0.0,0.0,0.0,2.0,1990
+Piper,PA-18A,Approach,0.0,0.0,0.0,1.0,1990
+Cessna,210L,Takeoff,0.0,3.0,1.0,2.0,1990
+Piper,PA-32-300,Approach,0.0,0.0,0.0,3.0,1990
+Cessna,182RG,Landing,0.0,0.0,0.0,1.0,1990
+Adams,A60S,Takeoff,0.0,1.0,0.0,4.0,1990
+Cessna,401,Landing,0.0,0.0,0.0,1.0,1990
+Helio,H-250,Landing,0.0,0.0,0.0,3.0,1990
+Maule,M4,Cruise,0.0,0.0,0.0,1.0,1990
+Piper,PA-28-161,Climb,2.0,0.0,0.0,0.0,1990
+Cessna,205,Landing,0.0,0.0,0.0,1.0,1990
+Bell,B47G-5,Maneuvering,0.0,0.0,0.0,2.0,1990
+Piper,AEROSTAR 601P,Landing,0.0,0.0,0.0,1.0,1990
+Piper,PA-28-235,Landing,0.0,0.0,0.0,1.0,1990
+Piper,PA-25-260,Takeoff,0.0,0.0,0.0,1.0,1990
+Bell,TH13T,Cruise,0.0,0.0,0.0,1.0,1990
+Piper,PA31T,,1.0,0.0,0.0,0.0,1990
+Hughes,369HS,Approach,0.0,0.0,0.0,4.0,1990
+Maule,M-5,Landing,0.0,0.0,0.0,1.0,1990
+Bell,B-47G2A,Cruise,0.0,0.0,0.0,2.0,1990
+Bellanca,17-30A,Approach,2.0,0.0,0.0,0.0,1990
+Piper,PA-46-310P,Climb,1.0,0.0,0.0,0.0,1990
+Bell,BH-47G,Cruise,0.0,0.0,3.0,0.0,1990
+Piper,PA-18,Takeoff,0.0,2.0,0.0,0.0,1990
+Beech,95-C55,Takeoff,0.0,0.0,3.0,0.0,1990
+Piper,PA-28-180,Descent,1.0,1.0,0.0,0.0,1990
+Beech,C24R,Takeoff,0.0,0.0,0.0,1.0,1990
+Piper,PA-32RT-300T,Cruise,1.0,0.0,0.0,0.0,1990
+Mcdonnell Douglas,369HS,Cruise,0.0,0.0,4.0,0.0,1990
+Beech,A36,Landing,0.0,0.0,0.0,5.0,1990
+Bellanca,17-31ATC,Climb,0.0,2.0,0.0,0.0,1990
+Cessna,T210L,Approach,0.0,0.0,0.0,1.0,1990
+Cessna,177,Cruise,0.0,0.0,0.0,2.0,1990
+Cessna,421C,Takeoff,0.0,0.0,0.0,5.0,1990
+Bell,206A,Takeoff,0.0,0.0,0.0,4.0,1990
+Piper,PA-24,Cruise,0.0,0.0,0.0,1.0,1990
+Cessna,182,Cruise,0.0,0.0,0.0,1.0,1990
+"Wheeler Technology, Inc.",FT-210,Unknown,3.0,0.0,0.0,0.0,1990
+"Custom Aerotech, Inc.",WHITE LIGHTNING,Maneuvering,2.0,0.0,0.0,0.0,1990
+Cessna,172P,Taxi,0.0,0.0,0.0,1.0,1990
+Bell,TH-1L,Maneuvering,0.0,0.0,1.0,0.0,1990
+Piper,PA-28-140,Landing,0.0,0.0,1.0,0.0,1990
+Dassault,DA20F,Taxi,0.0,0.0,0.0,2.0,1990
+Helio,COURIER H-295,Cruise,3.0,0.0,0.0,0.0,1990
+Cessna,421B,Go-around,0.0,0.0,0.0,2.0,1990
+Cessna,T-207A,Takeoff,0.0,0.0,0.0,5.0,1990
+Cessna,421,Climb,0.0,0.0,0.0,2.0,1990
+Cessna,172RG,Cruise,2.0,0.0,0.0,0.0,1990
+Aerospatiale/socata,TB-10,Takeoff,4.0,0.0,0.0,0.0,1990
+De Havilland,DHC-6,Cruise,0.0,0.0,0.0,3.0,1990
+Piper,PA-32,Takeoff,0.0,0.0,0.0,1.0,1990
+Cessna,P206C,Cruise,5.0,0.0,0.0,0.0,1990
+Cessna,182P,Landing,0.0,0.0,0.0,1.0,1990
+Cessna,182P,Landing,0.0,0.0,3.0,1.0,1990
+Wsk,PZL-104,Approach,0.0,0.0,0.0,2.0,1990
+Beech,58,,0.0,0.0,0.0,5.0,1990
+Cessna,182R,Cruise,2.0,0.0,0.0,0.0,1990
+Bell,206B,Standing,0.0,1.0,0.0,4.0,1990
+Morane-saulnier,MS760,Takeoff,2.0,0.0,0.0,0.0,1990
+Beech,58,Landing,1.0,3.0,0.0,0.0,1990
+Mooney,M-10,Takeoff,0.0,0.0,0.0,1.0,1990
+Cessna,177B,Maneuvering,0.0,0.0,0.0,3.0,1990
+Cessna,185,Takeoff,0.0,1.0,2.0,0.0,1990
+Hughes,369E,Cruise,0.0,3.0,0.0,0.0,1990
+Piper,PA-18-160,Taxi,0.0,0.0,0.0,2.0,1990
+Piper,PA-601P,Approach,1.0,0.0,0.0,0.0,1990
+Cessna,150L,Standing,0.0,1.0,0.0,1.0,1990
+Ryan,ST3KR,Takeoff,0.0,0.0,3.0,0.0,1990
+Piper,PA-12,Cruise,0.0,0.0,2.0,1.0,1990
+Piper,PA-18,Approach,0.0,0.0,0.0,2.0,1990
+Grumman,AA5B,Approach,2.0,0.0,0.0,0.0,1990
+Maule,M-4-210C,Cruise,1.0,0.0,0.0,0.0,1990
+Mooney,M20K,Cruise,1.0,0.0,0.0,0.0,1990
+Gulfstream American,690B,Cruise,0.0,0.0,0.0,3.0,1990
+Balloon Works,AX9,Cruise,0.0,0.0,5.0,0.0,1990
+Beech,P35,Approach,0.0,1.0,0.0,0.0,1990
+Historical Aircraft Corp.,A-001,Takeoff,0.0,1.0,0.0,0.0,1990
+Piper,PA-28-235,Approach,2.0,1.0,0.0,0.0,1990
+Cessna,180,Landing,0.0,0.0,0.0,2.0,1990
+Bell,47G4,Cruise,0.0,1.0,0.0,0.0,1990
+Swearingen,SA-26AT,Cruise,0.0,0.0,0.0,1.0,1990
+Piper,PA-28-180,Cruise,1.0,0.0,0.0,0.0,1990
+Cessna,210,Landing,0.0,0.0,1.0,2.0,1990
+Beech,A36,Descent,2.0,0.0,0.0,0.0,1990
+Christen Industries,A-1,Cruise,0.0,0.0,0.0,1.0,1990
+Beech,A36,Cruise,2.0,0.0,0.0,0.0,1990
+Piper,601P,Approach,5.0,0.0,0.0,0.0,1990
+Cessna,152,Cruise,0.0,0.0,0.0,1.0,1990
+Cessna,210M,Climb,0.0,1.0,0.0,0.0,1990
+Cessna,150K,Approach,2.0,0.0,0.0,0.0,1990
+Cessna,172,Approach,0.0,0.0,1.0,0.0,1990
+Enstrom,F-28C,Cruise,0.0,0.0,0.0,1.0,1990
+Piper,PA-31T2,Approach,1.0,0.0,0.0,0.0,1990
+Cessna,172N,Taxi,0.0,0.0,0.0,1.0,1990
+Cessna,S550,Takeoff,0.0,0.0,0.0,5.0,1990
+Rockwell,690C,Landing,0.0,0.0,0.0,7.0,1990
+Beech,D-55,Go-around,0.0,1.0,0.0,0.0,1990
+Cessna,172N,Standing,0.0,0.0,0.0,1.0,1990
+Piper,PA 28R-200,Cruise,0.0,0.0,0.0,2.0,1990
+Cessna,401B,,0.0,2.0,3.0,0.0,1990
+Piper,PA-28-161,Cruise,1.0,0.0,0.0,0.0,1990
+Cessna,310Q,Landing,0.0,0.0,0.0,1.0,1990
+Cessna,T210M,Takeoff,1.0,0.0,0.0,0.0,1991
+Beech,58,,2.0,0.0,0.0,0.0,1991
+Folland,GNAT T-1,Go-around,2.0,0.0,0.0,0.0,1991
+Cessna,175,Landing,0.0,0.0,0.0,1.0,1991
+Cessna,U206F,,1.0,0.0,0.0,0.0,1991
+Cessna,172RG,Cruise,1.0,0.0,0.0,0.0,1991
+Mooney,M20K,Cruise,1.0,0.0,0.0,0.0,1991
+Beech,58P,Landing,0.0,0.0,0.0,3.0,1991
+Cessna,320,Landing,0.0,0.0,0.0,1.0,1991
+Piper,PA-24-180,Go-around,1.0,1.0,0.0,0.0,1991
+Beech,200,Descent,0.0,0.0,0.0,2.0,1991
+Cessna,340,Landing,0.0,0.0,0.0,1.0,1991
+Piper,PA-28R-200,Approach,1.0,0.0,0.0,0.0,1991
+Piper,PA-28-181,Approach,0.0,0.0,0.0,4.0,1991
+Piper,PA-23-250,Takeoff,1.0,0.0,0.0,0.0,1991
+Cessna,U206,Maneuvering,4.0,0.0,0.0,0.0,1991
+Gulfstream,G-1159,Landing,0.0,0.0,0.0,3.0,1991
+Avions Marcel Dassault,MISTERT FALCON 900,Climb,0.0,0.0,0.0,7.0,1991
+Hughes,269C,Maneuvering,0.0,2.0,1.0,0.0,1991
+Cessna,421C,Cruise,0.0,0.0,0.0,6.0,1991
+Cessna,180,Approach,0.0,0.0,0.0,2.0,1991
+Cessna,T210N,Cruise,0.0,0.0,0.0,2.0,1991
+Piper,PA-22-150,Landing,0.0,0.0,0.0,1.0,1991
+Beech,58P,Cruise,1.0,0.0,0.0,0.0,1991
+Beech,58,Maneuvering,2.0,0.0,0.0,0.0,1991
+Piper,PA-32RT-300T,Landing,0.0,0.0,0.0,1.0,1991
+Beech,55,Landing,0.0,0.0,0.0,2.0,1991
+Hughes,369D,Cruise,0.0,0.0,0.0,3.0,1991
+Beech,A36,Approach,0.0,2.0,0.0,0.0,1991
+Helio,H-295,Takeoff,0.0,0.0,0.0,4.0,1991
+Cessna,182Q,Landing,0.0,0.0,0.0,2.0,1991
+Beech,A36,Landing,0.0,0.0,0.0,1.0,1991
+Piper,PA-30,Approach,4.0,0.0,0.0,0.0,1991
+Piper,PA-28-201T,Cruise,2.0,0.0,0.0,0.0,1991
+Piper,PA-28R-201T,Cruise,2.0,0.0,0.0,0.0,1991
+Piper,PA-24-180,Approach,3.0,0.0,0.0,0.0,1991
+Beech,F33A,Taxi,0.0,0.0,0.0,2.0,1991
+Piper,PA-24-250,Cruise,1.0,1.0,0.0,0.0,1991
+Beech,P35,Cruise,0.0,0.0,0.0,2.0,1991
+Cessna,402A,Taxi,0.0,0.0,0.0,2.0,1991
+Hughes,369D,Landing,0.0,0.0,0.0,3.0,1991
+Aeronca,11AC,Cruise,0.0,1.0,1.0,0.0,1991
+Piper,PA-18-150,Maneuvering,0.0,2.0,0.0,0.0,1991
+Cessna,P210,Landing,0.0,0.0,0.0,3.0,1991
+Piper,PA-31B-310,Climb,1.0,0.0,0.0,0.0,1991
+Aerospace Tech. Of Australia,N22B,Cruise,0.0,0.0,0.0,2.0,1991
+Beech,A-36,Climb,1.0,0.0,0.0,0.0,1991
+Mitsubishi,MU-2B-20,Cruise,1.0,0.0,0.0,2.0,1991
+Cessna,182L,Takeoff,0.0,0.0,0.0,2.0,1991
+Piper,PA-34-220T,Landing,0.0,0.0,0.0,2.0,1991
+Beech,V35B,Descent,4.0,0.0,0.0,0.0,1991
+Pitts,S-2B,Taxi,0.0,0.0,0.0,2.0,1991
+Pitts,S-2B,Taxi,0.0,0.0,0.0,2.0,1991
+Cessna,172N,Cruise,1.0,0.0,0.0,0.0,1991
+Cessna,172M,Maneuvering,1.0,0.0,0.0,0.0,1991
+Beech,C23,Approach,0.0,2.0,1.0,0.0,1991
+Cameron,N120,Approach,0.0,1.0,0.0,4.0,1991
+Beech,BE-23-B24R,Cruise,0.0,0.0,0.0,3.0,1991
+Piper,PA-18-125,Maneuvering,2.0,0.0,0.0,0.0,1991
+Cessna,210M,Cruise,2.0,0.0,0.0,0.0,1991
+Cessna,C-172,Maneuvering,1.0,0.0,0.0,0.0,1991
+Piper,PA-28-151,Takeoff,0.0,0.0,0.0,1.0,1991
+Boeing,DHC-6-300,Standing,0.0,0.0,0.0,2.0,1991
+Piper,PA-18,Maneuvering,1.0,1.0,0.0,0.0,1991
+Sikorsky,58H,Cruise,0.0,0.0,0.0,6.0,1991
+Beech,95-B55,Cruise,1.0,0.0,0.0,0.0,1991
+Robinson,R-22 BETA,Maneuvering,0.0,0.0,2.0,0.0,1991
+Bellanca,7GCBC,Takeoff,0.0,0.0,0.0,1.0,1991
+Bell,UH-1B,Maneuvering,0.0,0.0,1.0,0.0,1991
+Piper,PA-34-200T,Landing,0.0,0.0,0.0,2.0,1991
+Cessna,185F,Landing,0.0,0.0,0.0,1.0,1991
+De Havilland,DHC-2,Cruise,0.0,0.0,0.0,6.0,1991
+Hughes,369D,Cruise,0.0,0.0,0.0,1.0,1991
+Cessna,150L,Descent,0.0,0.0,0.0,2.0,1991
+Bell,206B,Landing,0.0,0.0,0.0,2.0,1991
+Cessna,U206C,Landing,1.0,0.0,0.0,0.0,1991
+Helio,H-295,Cruise,0.0,0.0,3.0,1.0,1991
+"Airnew, Inc.",QUESTAIR,Landing,0.0,0.0,1.0,0.0,1991
+De Havilland,DHC2 MK1,Maneuvering,0.0,0.0,0.0,2.0,1991
+Piper,PA28R-200,Cruise,0.0,0.0,0.0,5.0,1991
+Piper,PA-25-235,Cruise,0.0,0.0,0.0,1.0,1991
+Piper,PA-24-260,Landing,0.0,0.0,1.0,2.0,1991
+Cessna,152,Maneuvering,0.0,0.0,0.0,2.0,1991
+Piper,PA32-300,Approach,2.0,0.0,0.0,0.0,1991
+Cessna,421B,Landing,0.0,0.0,0.0,2.0,1991
+Beech,B200,Cruise,0.0,0.0,0.0,8.0,1991
+Cessna,182P,Cruise,1.0,0.0,0.0,0.0,1991
+Cessna,185,Landing,0.0,0.0,0.0,4.0,1991
+Cessna,206,Landing,0.0,0.0,0.0,2.0,1991
+Cessna,177RG,Takeoff,0.0,0.0,0.0,2.0,1991
+Cessna,182C,Maneuvering,0.0,0.0,0.0,1.0,1991
+Pilatus,PORTER PC-6/350,Cruise,0.0,0.0,0.0,2.0,1991
+Piper,PA-31-325,Landing,0.0,0.0,0.0,1.0,1991
+Cessna,A185F,Maneuvering,2.0,0.0,0.0,0.0,1991
+Cessna,172M,Approach,2.0,0.0,0.0,0.0,1991
+Piper,PA-46-310P,Climb,0.0,0.0,0.0,2.0,1991
+Piper,PA-28RT-201T,Descent,1.0,0.0,0.0,0.0,1991
+Cessna,182E,Descent,0.0,0.0,1.0,1.0,1991
+Bell,47G,Takeoff,0.0,0.0,0.0,1.0,1991
+Piper,PA-18-150,Landing,0.0,0.0,0.0,2.0,1991
+Piper,PA-12,Maneuvering,0.0,0.0,0.0,3.0,1991
+Beech,35-C33,Cruise,3.0,0.0,0.0,0.0,1991
+Bellanca,17-30A,Descent,1.0,0.0,0.0,0.0,1991
+Beech,77,Takeoff,0.0,0.0,1.0,0.0,1991
+Cessna,180A,Takeoff,0.0,0.0,0.0,4.0,1991
+Maule,M-7-235,Takeoff,0.0,0.0,0.0,3.0,1991
+Cessna,T-207A,Maneuvering,0.0,0.0,0.0,1.0,1991
+Cessna,185-F,Landing,0.0,0.0,0.0,1.0,1991
+De Havilland,DHC-2,Landing,0.0,0.0,0.0,1.0,1991
+Boeing,A 75N1,Takeoff,0.0,0.0,0.0,2.0,1991
+Cessna,185,Takeoff,0.0,0.0,0.0,3.0,1991
+Bell,47G-3B-2,Approach,0.0,0.0,2.0,0.0,1991
+Hughes,369D,Cruise,0.0,0.0,0.0,1.0,1991
+Piper,PA-18-150,Takeoff,0.0,1.0,1.0,0.0,1991
+Bell,47G2,Landing,0.0,0.0,2.0,1.0,1991
+Piper,PA-31T-620,Taxi,0.0,0.0,0.0,4.0,1991
+Piper,PA-31-350,Takeoff,0.0,0.0,0.0,7.0,1991
+Maule,M-5,Landing,0.0,0.0,0.0,1.0,1991
+De Havilland,DHC-2 MKI,Landing,0.0,0.0,1.0,0.0,1991
+Cessna,177A,Takeoff,0.0,0.0,0.0,1.0,1991
+Beech,A36,Climb,2.0,0.0,0.0,0.0,1991
+Mooney,M20K,Cruise,0.0,0.0,0.0,2.0,1991
+Piper,PA-46-310P,Takeoff,0.0,1.0,4.0,0.0,1991
+Piper,PA-18,Cruise,0.0,0.0,1.0,0.0,1991
+Aerostar,RAVEN S-60,Landing,0.0,1.0,0.0,4.0,1991
+Mcdonnell Douglas,MD369D,Taxi,0.0,0.0,0.0,3.0,1991
+Bell,206B,Cruise,3.0,0.0,0.0,0.0,1991
+Cessna,152,Maneuvering,0.0,1.0,0.0,0.0,1991
+Schweizer,SGS 2-33A,Approach,0.0,0.0,2.0,0.0,1991
+Piper,PA-23-250,Approach,0.0,1.0,2.0,0.0,1991
+Maule,M5-235C,Maneuvering,0.0,0.0,0.0,1.0,1991
+Piper,PA-24,Takeoff,1.0,0.0,0.0,0.0,1991
+Piper,PA-20,Landing,0.0,0.0,0.0,2.0,1991
+Piper,PA-24-260,Approach,0.0,0.0,0.0,1.0,1991
+Cessna,340,Approach,5.0,0.0,0.0,0.0,1991
+Beech,C23,Descent,1.0,0.0,0.0,0.0,1991
+Bellanca,7ECA,Maneuvering,2.0,0.0,0.0,0.0,1991
+Beech,V35TC,Takeoff,1.0,0.0,0.0,0.0,1991
+Beech,B19,Cruise,0.0,0.0,0.0,4.0,1991
+Beech,B100,Approach,3.0,0.0,0.0,0.0,1991
+Cessna,210H,Cruise,0.0,0.0,1.0,0.0,1991
+Cessna,210N,Landing,0.0,0.0,0.0,1.0,1991
+Cessna,421,Landing,0.0,0.0,0.0,4.0,1991
+Beech,A36,Takeoff,1.0,3.0,0.0,0.0,1991
+Piper,PA-24-250,Cruise,1.0,2.0,0.0,0.0,1991
+Cessna,150,Takeoff,0.0,0.0,0.0,1.0,1991
+Cessna,150,Cruise,0.0,0.0,0.0,1.0,1991
+Aero Commander,690A,Landing,0.0,0.0,0.0,8.0,1991
+Beech,58P,Approach,2.0,0.0,0.0,0.0,1991
+Cessna,180K,Landing,0.0,0.0,0.0,2.0,1991
+Cessna,182Q,Approach,0.0,0.0,0.0,2.0,1992
+Piper,PA-31P,Maneuvering,1.0,0.0,0.0,0.0,1992
+Cessna,182,Landing,0.0,0.0,0.0,1.0,1992
+Piper,PA-46-350P,Takeoff,0.0,0.0,0.0,4.0,1992
+Cessna,205A,Cruise,0.0,0.0,0.0,2.0,1992
+Hughes,369D,Cruise,1.0,0.0,0.0,0.0,1992
+Cessna,177RG,Takeoff,0.0,0.0,0.0,1.0,1992
+Mooney,M20J,Landing,0.0,1.0,1.0,0.0,1992
+Cessna,182,Taxi,0.0,0.0,0.0,1.0,1992
+Cessna,170B,Maneuvering,1.0,0.0,0.0,0.0,1992
+Bellanca,17-30,Takeoff,1.0,2.0,0.0,0.0,1992
+Cessna,182,Descent,2.0,0.0,0.0,0.0,1992
+Piper,PA-31T,Takeoff,3.0,0.0,0.0,0.0,1992
+Beech,99,Taxi,0.0,0.0,0.0,2.0,1992
+Cessna,172RG,Approach,0.0,0.0,0.0,2.0,1992
+Stinson,108-2,Approach,1.0,0.0,0.0,0.0,1992
+Piper,PA-32-301,Maneuvering,3.0,0.0,0.0,0.0,1992
+Piper,PA60-700P,Landing,0.0,0.0,0.0,6.0,1992
+Robinson,R-22M,Landing,0.0,0.0,0.0,2.0,1992
+Piper,PA-28R-200,Approach,2.0,0.0,0.0,0.0,1992
+Cessna,182N,Maneuvering,0.0,0.0,0.0,2.0,1992
+Cessna,340,Landing,0.0,0.0,0.0,1.0,1992
+Mooney,M20C,Cruise,0.0,0.0,0.0,1.0,1992
+Piper,PA-18A-150,Maneuvering,0.0,2.0,0.0,0.0,1992
+Piper,46-310P,Approach,0.0,0.0,0.0,2.0,1992
+Piper,PA-32-300,Takeoff,1.0,0.0,0.0,0.0,1992
+Bellanca,17-31A,Approach,0.0,0.0,1.0,1.0,1992
+Bellanca,7 GCBC,Approach,0.0,0.0,1.0,0.0,1992
+Piper,PA 28-236,Cruise,1.0,0.0,0.0,0.0,1992
+Cessna,A185F,Landing,0.0,0.0,0.0,2.0,1992
+Cessna,T210N,Descent,1.0,3.0,0.0,0.0,1992
+Cessna,172N,Landing,0.0,0.0,0.0,1.0,1992
+Robinson,R-22B,Cruise,1.0,0.0,0.0,0.0,1992
+Cessna,172M,Landing,0.0,0.0,0.0,2.0,1992
+Aerostar,AX-9 - S-66A,Landing,0.0,1.0,0.0,5.0,1992
+Piper,PA-12,Cruise,0.0,0.0,0.0,1.0,1992
+Enstrom,F28A,Cruise,0.0,0.0,0.0,1.0,1992
+North American,NAVION,Landing,0.0,0.0,0.0,1.0,1992
+Cessna,TR182,Landing,0.0,0.0,1.0,1.0,1992
+Cessna,421C,,0.0,0.0,0.0,1.0,1992
+Mooney,M20J,Approach,1.0,0.0,0.0,0.0,1992
+Fantasy Sky Promotions,AX-7,Standing,0.0,2.0,0.0,0.0,1992
+Champion,7GCAA,Maneuvering,1.0,0.0,0.0,0.0,1992
+Beech,BE-200,Approach,4.0,0.0,0.0,0.0,1992
+Piper,PA-28R-180,Approach,1.0,0.0,0.0,0.0,1992
+North American,NA-265-50,Landing,0.0,0.0,0.0,4.0,1992
+Cessna,T210N,Cruise,0.0,0.0,2.0,0.0,1992
+Bell,47-2A-1,Landing,0.0,0.0,0.0,1.0,1992
+Beech,A36,Cruise,0.0,0.0,0.0,1.0,1992
+Cessna,185F,Landing,0.0,0.0,0.0,1.0,1992
+Piper,PA32R-300,,0.0,0.0,0.0,6.0,1992
+Cessna,182Q,Landing,0.0,0.0,0.0,1.0,1992
+Piper,PA-28-181,Descent,0.0,1.0,2.0,0.0,1992
+Cessna,T210N,Cruise,1.0,0.0,0.0,0.0,1992
+Cessna,U206F,Cruise,1.0,0.0,1.0,0.0,1992
+Piper,PA-32R-301T,Cruise,0.0,0.0,1.0,1.0,1992
+Piper,PA-28R-201T,Maneuvering,1.0,0.0,0.0,0.0,1992
+Beech,23,Go-around,3.0,0.0,0.0,0.0,1992
+Beech,D55,Takeoff,0.0,0.0,0.0,2.0,1992
+Aero Commander,560-F,Cruise,4.0,0.0,0.0,0.0,1992
+Cessna,172,Takeoff,0.0,0.0,0.0,3.0,1992
+De Havilland,DHC-2 MARK 1,Maneuvering,6.0,1.0,0.0,0.0,1992
+Aeronca,7AC,Takeoff,0.0,0.0,0.0,2.0,1992
+Piper,PA-18-150,Approach,0.0,0.0,1.0,0.0,1992
+Mbb,BO-105,Maneuvering,0.0,0.0,3.0,0.0,1992
+Cessna,T-210N,Takeoff,0.0,1.0,0.0,0.0,1992
+Cessna,A185F,Landing,0.0,0.0,0.0,4.0,1992
+Piper,PA-28R-180,Descent,3.0,0.0,0.0,0.0,1992
+Piper,PA-18,Landing,1.0,0.0,0.0,0.0,1992
+Beech,A36TC,Approach,0.0,1.0,3.0,0.0,1992
+Cessna,T210L,Approach,0.0,0.0,0.0,2.0,1992
+Hughes,269A,Maneuvering,0.0,1.0,0.0,1.0,1992
+Cessna,206,Landing,0.0,0.0,0.0,1.0,1992
+Piper,PA-12,Takeoff,0.0,0.0,0.0,2.0,1992
+Cessna,206,Cruise,0.0,1.0,1.0,1.0,1992
+Piper,PA-46-310P,Descent,0.0,0.0,0.0,1.0,1992
+Sikorsky,S-58G,Cruise,0.0,0.0,0.0,1.0,1992
+Piper,PA-32-260,Cruise,0.0,3.0,0.0,0.0,1992
+Piper,PA-18-180,Maneuvering,0.0,0.0,0.0,2.0,1992
+Piper,PA-18-150,Go-around,0.0,0.0,2.0,0.0,1992
+Hughes,369D,Cruise,0.0,2.0,0.0,0.0,1992
+Beech,G35,Cruise,2.0,0.0,0.0,0.0,1992
+Piper,PA-44-180T,Descent,0.0,0.0,0.0,2.0,1992
+Piper,PA-18,Cruise,0.0,0.0,0.0,1.0,1992
+De Havilland,DHC-2,Takeoff,0.0,0.0,0.0,5.0,1992
+Piper,PA-28-180,Landing,0.0,0.0,0.0,1.0,1992
+Cessna,206U,Takeoff,0.0,0.0,0.0,1.0,1992
+Aero Commander,680,Taxi,1.0,1.0,0.0,0.0,1992
+Cessna,210G,Cruise,0.0,0.0,0.0,1.0,1992
+Piper,PA-32-260,Descent,2.0,0.0,0.0,0.0,1992
+Mooney,M20J,Takeoff,0.0,0.0,2.0,2.0,1992
+Beech,55,Approach,2.0,0.0,0.0,0.0,1992
+Piper,PA-28-181,Cruise,0.0,0.0,0.0,4.0,1992
+Cessna,206,Landing,0.0,0.0,0.0,1.0,1992
+Beech,K35,Takeoff,0.0,0.0,0.0,2.0,1992
+"Smith, Ted Aerostar",AEROSTAR 601,Takeoff,0.0,0.0,1.0,2.0,1992
+Beech,B100,Landing,0.0,0.0,0.0,9.0,1992
+Mitsubishi,MU-2B-25,Takeoff,0.0,0.0,0.0,4.0,1992
+Beech,A36,Approach,0.0,0.0,0.0,3.0,1992
+De Havilland,DHC2,Landing,0.0,0.0,0.0,1.0,1992
+Cessna,310R-II,Go-around,0.0,0.0,1.0,5.0,1993
+Piper,PA-32R-301,Cruise,0.0,0.0,0.0,2.0,1993
+Piper,PA-32-300,Cruise,2.0,0.0,0.0,0.0,1993
+Swearingen,SA-226T(B),Landing,0.0,0.0,0.0,7.0,1993
+Beech,V35B,Descent,3.0,0.0,0.0,0.0,1993
+Beech,58P,Landing,0.0,0.0,0.0,2.0,1993
+Eagle Aircraft Co.,C-7,Landing,0.0,2.0,0.0,1.0,1993
+Cessna,182C,Landing,0.0,0.0,0.0,1.0,1993
+Piper,PA-31,Approach,0.0,0.0,0.0,3.0,1993
+Robinson,R22 BETA,Maneuvering,0.0,0.0,2.0,0.0,1993
+Cessna,172RG,Landing,0.0,0.0,0.0,2.0,1993
+Beech,D35,Takeoff,0.0,0.0,3.0,0.0,1993
+Cessna,T210N,Cruise,0.0,0.0,0.0,2.0,1993
+Beech,200,Landing,0.0,0.0,0.0,6.0,1993
+Cessna,335,Landing,0.0,0.0,0.0,2.0,1993
+Beech,A36,Approach,2.0,3.0,0.0,0.0,1993
+Hiller,UH-12E,Takeoff,3.0,0.0,0.0,0.0,1993
+Piper,PA-12-150,Cruise,0.0,0.0,0.0,1.0,1993
+Piper,PA-31,Approach,0.0,0.0,2.0,2.0,1993
+Cessna,T210,Cruise,0.0,0.0,0.0,1.0,1993
+Piper,PA-28-161,Cruise,0.0,0.0,0.0,2.0,1993
+Piper,PA-28R-200,Climb,0.0,0.0,0.0,1.0,1993
+Cessna,177B,Maneuvering,2.0,0.0,0.0,0.0,1993
+Cessna,172,Landing,0.0,0.0,0.0,1.0,1993
+Beech,V-35B,Takeoff,0.0,0.0,0.0,2.0,1993
+Mooney,M20E,Cruise,0.0,1.0,0.0,0.0,1993
+Cessna,320C,Landing,0.0,0.0,0.0,2.0,1993
+Piper,PA-18-150,Maneuvering,2.0,0.0,0.0,0.0,1993
+Piper,PA-18,Maneuvering,1.0,1.0,0.0,0.0,1993
+Cessna,U206F,Approach,0.0,0.0,2.0,0.0,1993
+Piper,PA-18,Landing,0.0,0.0,0.0,1.0,1993
+Beech,B100,Taxi,0.0,0.0,0.0,1.0,1993
+Robinson,R-22,Takeoff,0.0,0.0,0.0,2.0,1993
+Cessna,182N,Approach,0.0,2.0,2.0,0.0,1993
+Cessna,305A,Landing,0.0,0.0,0.0,2.0,1993
+Bell,206L-1,Maneuvering,0.0,0.0,2.0,5.0,1993
+Cessna,170B,Landing,0.0,0.0,0.0,1.0,1993
+Mooney,M20E,Cruise,2.0,0.0,0.0,0.0,1993
+Cessna,TU206G,Landing,0.0,0.0,0.0,3.0,1993
+Cessna,185,Landing,0.0,0.0,0.0,3.0,1993
+Cessna,320,Cruise,0.0,0.0,0.0,1.0,1993
+Cessna,A185E,Takeoff,0.0,0.0,1.0,0.0,1993
+Convair,440,Cruise,0.0,0.0,0.0,15.0,1993
+Cessna,421B,Takeoff,0.0,0.0,0.0,1.0,1993
+Beech,200,Landing,0.0,1.0,0.0,5.0,1993
+Pzl Warzawa-okecie,PZL-104 WILGA 80,Taxi,0.0,0.0,0.0,1.0,1993
+Piper,PA-18-150,Landing,0.0,0.0,0.0,1.0,1993
+Enstrom,F28C,Cruise,1.0,0.0,0.0,0.0,1993
+Gritter,QUEST AIR 20,Landing,0.0,0.0,0.0,1.0,1993
+Bell,B-3,Landing,0.0,0.0,0.0,4.0,1993
+Cessna,182F,Landing,0.0,0.0,0.0,2.0,1993
+Beech,B19,Descent,0.0,0.0,0.0,1.0,1993
+Douglas,B-26B,Takeoff,0.0,0.0,2.0,0.0,1993
+Beech,58,Maneuvering,3.0,0.0,0.0,0.0,1993
+Us/lta,138S AIRSHIP,Cruise,0.0,1.0,1.0,0.0,1993
+Cessna,210,Descent,0.0,0.0,2.0,0.0,1993
+Helio,H295,Landing,0.0,0.0,0.0,2.0,1993
+Beech,95-A55,Takeoff,1.0,0.0,0.0,0.0,1993
+Beech,60,Landing,0.0,2.0,1.0,0.0,1993
+Beech,D18S,Takeoff,0.0,0.0,1.0,0.0,1993
+Bell,B206BII,Maneuvering,0.0,0.0,0.0,3.0,1993
+Commander,114B,Taxi,0.0,0.0,0.0,5.0,1993
+Cessna,170B,Takeoff,0.0,1.0,0.0,0.0,1993
+Rockwell,690-A,Approach,5.0,0.0,0.0,0.0,1993
+Cessna,170,Unknown,2.0,0.0,0.0,0.0,1993
+Cessna,180,Taxi,0.0,0.0,0.0,3.0,1993
+Artic Aircraft Corp.,S-1B2,Unknown,2.0,0.0,0.0,0.0,1993
+Piper,PA-32-300,Cruise,6.0,0.0,0.0,0.0,1993
+Cessna,T210N,Approach,0.0,0.0,1.0,2.0,1993
+Piper,PA-31-350,Cruise,0.0,0.0,0.0,7.0,1993
+Enstrom,F-28C,Cruise,0.0,0.0,0.0,1.0,1993
+Piper,AEROSTAR 601P,Landing,0.0,0.0,0.0,6.0,1993
+Cessna,T210N,Approach,0.0,0.0,0.0,1.0,1993
+Piper,PA-18,Takeoff,0.0,0.0,0.0,2.0,1993
+Mitsubishi,MU-2B-40,Cruise,0.0,0.0,3.0,0.0,1993
+Cessna,185,Cruise,1.0,0.0,0.0,0.0,1993
+Fairchild,SA-227-AC,Maneuvering,0.0,0.0,0.0,2.0,1993
+Cessna,414A,Taxi,0.0,0.0,0.0,5.0,1993
+Cessna,T210N,Climb,0.0,0.0,0.0,2.0,1993
+Piper,PA-18,Landing,0.0,0.0,1.0,0.0,1993
+Piper,PA-34-200T,Takeoff,0.0,0.0,0.0,1.0,1993
+Piper,PA-32RT-300T,Climb,2.0,0.0,0.0,0.0,1993
+Piper,PA-18,Maneuvering,0.0,0.0,0.0,1.0,1993
+Cessna,206,Takeoff,1.0,0.0,4.0,0.0,1993
+Piper,PA-18-150,Approach,0.0,0.0,0.0,1.0,1993
+Piper,PA-34-200,Go-around,0.0,0.0,1.0,3.0,1993
+Hiller,H-23C,,0.0,0.0,1.0,0.0,1993
+Piper,PA-23-250,Approach,0.0,0.0,0.0,1.0,1993
+Mooney,M20C,Takeoff,0.0,1.0,0.0,0.0,1993
+Piper,PA-14,Landing,0.0,0.0,0.0,4.0,1993
+Piper,PA-18,Takeoff,0.0,0.0,0.0,2.0,1993
+Cessna,150H,Climb,0.0,0.0,0.0,1.0,1993
+Schweizer,269C,Cruise,0.0,0.0,0.0,1.0,1993
+Maule,M-6-235,Maneuvering,1.0,0.0,0.0,0.0,1993
+Cessna,T182RG,Landing,0.0,0.0,0.0,1.0,1993
+Piper,PA-18,Takeoff,0.0,0.0,0.0,2.0,1993
+Piper,PA-18-160,Landing,0.0,0.0,0.0,2.0,1993
+Douglas,C-54GDC,Landing,0.0,0.0,0.0,3.0,1993
+Cessna,172P,Maneuvering,2.0,0.0,0.0,0.0,1993
+Mcdonnell Douglas,369E,Cruise,1.0,1.0,1.0,0.0,1993
+Cessna,182N,Landing,0.0,0.0,0.0,2.0,1993
+Beech,F33A,Cruise,0.0,0.0,1.0,2.0,1993
+Bell,206B,Maneuvering,1.0,0.0,2.0,0.0,1993
+Piper,PA-32RT-300T,Cruise,5.0,0.0,0.0,0.0,1993
+Mooney,M20L,Descent,2.0,0.0,0.0,0.0,1993
+Cessna,T210F,Taxi,0.0,0.0,0.0,1.0,1993
+Rockwell,114,Cruise,0.0,0.0,4.0,0.0,1993
+Cessna,182P,Climb,3.0,0.0,0.0,0.0,1993
+Mooney,MO-20J,Cruise,2.0,0.0,0.0,0.0,1993
+Cessna,206,Takeoff,0.0,0.0,0.0,4.0,1993
+Cessna,A185F,Landing,0.0,0.0,0.0,1.0,1993
+Aerospatiale,TB-21,Takeoff,2.0,1.0,0.0,0.0,1993
+Piper,PA-44-180,Approach,0.0,0.0,0.0,3.0,1993
+Cessna,550,Takeoff,0.0,0.0,0.0,2.0,1993
+Cessna,T210,Cruise,0.0,2.0,1.0,0.0,1993
+Piper,PA-32R-300,Approach,2.0,0.0,0.0,0.0,1993
+Bellanca,17-30A,Approach,1.0,0.0,0.0,0.0,1993
+Beech,B36TC,Descent,2.0,0.0,0.0,0.0,1993
+Swearingen,SA-226T,Landing,0.0,0.0,0.0,1.0,1994
+Piper,PA-28-236,Cruise,0.0,0.0,0.0,1.0,1994
+Cessna,T210N,Cruise,0.0,0.0,0.0,2.0,1994
+Cessna,T210H,Approach,0.0,0.0,1.0,0.0,1994
+Cessna,340A,Landing,0.0,0.0,0.0,1.0,1994
+Cessna,320F,Approach,1.0,1.0,0.0,0.0,1994
+Beech,G18S,Climb,0.0,0.0,1.0,0.0,1994
+Piper,PA-34-200,Landing,0.0,0.0,0.0,1.0,1994
+Piper,PA-39,Approach,1.0,0.0,0.0,0.0,1994
+Beech,2000 (STARSHIP),,0.0,0.0,0.0,6.0,1994
+Beech,400,Landing,0.0,0.0,0.0,6.0,1994
+Cessna,P337H,Approach,1.0,0.0,0.0,0.0,1994
+Cessna,P210R,Cruise,4.0,0.0,0.0,0.0,1994
+Cessna,TU206F,Cruise,0.0,0.0,0.0,1.0,1994
+Piper,PA-18-150,Landing,0.0,0.0,0.0,1.0,1994
+Mooney,M20C,Cruise,0.0,0.0,0.0,2.0,1994
+Piper,PA-28RT-201T,Cruise,0.0,0.0,0.0,4.0,1994
+Cessna,172RG,Climb,4.0,0.0,0.0,0.0,1994
+Beech,BE200,Cruise,0.0,0.0,0.0,5.0,1994
+Piper,PA-24-250,Cruise,0.0,0.0,2.0,0.0,1994
+Cessna,182A,Takeoff,0.0,2.0,3.0,0.0,1994
+Piper,PA-23-250,Go-around,2.0,0.0,0.0,0.0,1994
+Learjet,55,,0.0,0.0,0.0,10.0,1994
+Abc,ABC 60 PLUS,,0.0,0.0,0.0,2.0,1994
+Cessna,172N,Landing,0.0,0.0,0.0,3.0,1994
+Cessna,A185F,Takeoff,0.0,0.0,0.0,1.0,1994
+Piper,J3,Landing,0.0,0.0,0.0,1.0,1994
+Cessna,172,Takeoff,0.0,0.0,0.0,2.0,1994
+Piper,PA-32R-300,Landing,0.0,0.0,0.0,2.0,1994
+Remote Sensing,CIRRUS VK-30,Approach,2.0,0.0,0.0,0.0,1994
+Piper,PA-32-260,Cruise,1.0,0.0,0.0,0.0,1994
+Cameron,ET-90,Approach,0.0,0.0,3.0,0.0,1994
+Cessna,P210N,Landing,0.0,0.0,0.0,1.0,1994
+Beech,23-C23,Landing,0.0,0.0,0.0,1.0,1994
+Bell,206B,Maneuvering,0.0,0.0,0.0,2.0,1994
+Cessna,172N,Cruise,0.0,0.0,1.0,0.0,1994
+Schweizer,269C,Cruise,0.0,1.0,0.0,0.0,1994
+Mooney,M20K,Descent,2.0,0.0,0.0,0.0,1994
+Piper,PA-18-150,Takeoff,0.0,0.0,0.0,1.0,1994
+Mooney,M20J,Cruise,0.0,0.0,0.0,1.0,1994
+Piper,PA-28-181,Landing,0.0,0.0,0.0,2.0,1994
+Cessna,152,Landing,0.0,0.0,0.0,2.0,1994
+Piper,PA-18,Takeoff,0.0,0.0,0.0,1.0,1994
+Rockwell,AC-690,Landing,0.0,0.0,0.0,2.0,1994
+Mooney,M20C,Climb,1.0,0.0,0.0,0.0,1994
+Cessna,172H,Taxi,2.0,1.0,0.0,0.0,1994
+Hughes,369D,Maneuvering,0.0,0.0,0.0,2.0,1994
+Cessna,421C,Takeoff,2.0,1.0,0.0,0.0,1994
+Robinson,R-22,Cruise,0.0,0.0,0.0,1.0,1994
+Piper,PA-28,Cruise,0.0,0.0,0.0,1.0,1994
+Classic Aircraft Corp.,WACO YMF5,Cruise,0.0,0.0,1.0,2.0,1994
+Cessna,180,Landing,0.0,0.0,0.0,2.0,1994
+Piper,PA-31-350,Landing,0.0,0.0,0.0,1.0,1994
+Beech,58TC,Cruise,3.0,0.0,0.0,0.0,1994
+Cessna,441,Takeoff,0.0,0.0,0.0,1.0,1994
+Beech,H-35,Cruise,2.0,0.0,0.0,0.0,1994
+Cessna,172,Takeoff,0.0,0.0,0.0,2.0,1994
+Cessna,T210M,Takeoff,2.0,0.0,0.0,0.0,1994
+North American,F-100F,,1.0,0.0,0.0,0.0,1994
+Piper,PA-60-700P,Takeoff,0.0,0.0,1.0,4.0,1994
+Piper,PA-46-350P,Takeoff,0.0,0.0,2.0,3.0,1994
+De Havilland,DHC-2,Takeoff,0.0,0.0,0.0,3.0,1994
+Cessna,140,Takeoff,0.0,0.0,0.0,1.0,1994
+Boeing,A75N1,Landing,0.0,0.0,0.0,2.0,1994
+Maule,M-5-210TC,Landing,0.0,1.0,0.0,0.0,1994
+Piper,PA-32-300,Cruise,0.0,2.0,2.0,0.0,1994
+Beech,B33,Takeoff,0.0,1.0,1.0,0.0,1994
+Cessna,206,Takeoff,0.0,0.0,0.0,4.0,1994
+Cessna,182P,Approach,0.0,0.0,0.0,1.0,1994
+Bell,206B,Maneuvering,0.0,0.0,0.0,5.0,1994
+Piper,PA-28R-201T,Approach,0.0,0.0,2.0,0.0,1994
+Cessna,310,Approach,3.0,1.0,0.0,0.0,1994
+Cessna,172XP,Cruise,0.0,0.0,0.0,1.0,1994
+Helio,H295,Landing,0.0,0.0,0.0,1.0,1994
+Piper,PA-12,Landing,0.0,0.0,0.0,2.0,1994
+Bede Aircraft,BD-10,Takeoff,0.0,0.0,0.0,2.0,1994
+Bell,UH-1B,Maneuvering,0.0,0.0,0.0,1.0,1994
+Cessna,170B,Landing,0.0,0.0,0.0,1.0,1994
+Cessna,310L,Go-around,0.0,0.0,2.0,3.0,1994
+Piper,PA-12,Landing,0.0,0.0,0.0,2.0,1994
+Eurocopter,AS-350-B2,Takeoff,0.0,0.0,2.0,1.0,1994
+Cessna,T210M,Cruise,0.0,0.0,0.0,2.0,1994
+Beech,D18S,Cruise,0.0,0.0,0.0,2.0,1994
+Piper,PA-32R-300,Cruise,3.0,1.0,0.0,0.0,1994
+Piper,PA-60-602P,Cruise,0.0,4.0,0.0,0.0,1994
+Cessna,152,Maneuvering,0.0,0.0,0.0,1.0,1994
+Cessna,210L,Landing,0.0,0.0,0.0,1.0,1994
+Piper,PA-28-236,Climb,2.0,0.0,0.0,0.0,1994
+Beech,A36,Landing,1.0,0.0,0.0,0.0,1994
+Piper,PA-18-150,Cruise,0.0,1.0,0.0,0.0,1994
+Piper,PA-32-301,Landing,0.0,0.0,0.0,2.0,1994
+Beech,M35,Landing,0.0,0.0,0.0,2.0,1994
+Cessna,A185E,Maneuvering,2.0,0.0,0.0,0.0,1994
+Cessna,150G,Takeoff,0.0,0.0,0.0,1.0,1994
+Beech,C35,,1.0,0.0,0.0,0.0,1994
+Robinson,R-22B,Climb,1.0,0.0,0.0,0.0,1994
+Piper,PA-39,Landing,0.0,0.0,0.0,2.0,1994
+Piper,PA-24-250,Approach,1.0,0.0,0.0,0.0,1994
+Cessna,185,Takeoff,0.0,0.0,0.0,3.0,1994
+Piper,PA-28R-201T,Standing,0.0,0.0,0.0,6.0,1994
+Hughes,269C,Cruise,0.0,0.0,0.0,2.0,1994
+Canadair,CL 600,Descent,0.0,0.0,0.0,4.0,1994
+Mooney,M-20J,Takeoff,0.0,1.0,0.0,0.0,1994
+Beech,58,Takeoff,0.0,1.0,0.0,1.0,1994
+Aeronca,SEDAN AR-15,Cruise,0.0,0.0,0.0,1.0,1994
+Lake,LA-250,Descent,0.0,0.0,1.0,0.0,1994
+Cessna,172N,Cruise,4.0,0.0,0.0,0.0,1994
+Cessna,421A,Approach,0.0,2.0,4.0,0.0,1994
+Cessna,205A,Landing,0.0,0.0,0.0,1.0,1994
+Piper,PA-28-140,Takeoff,2.0,0.0,0.0,0.0,1994
+Beech,A36,Approach,0.0,1.0,0.0,0.0,1994
+Cessna,172N,Cruise,1.0,1.0,0.0,0.0,1994
+Beech,58P,Maneuvering,4.0,0.0,0.0,0.0,1994
+Piper,PA-601P,Landing,0.0,0.0,0.0,2.0,1994
+Piper,PA-32-300,Climb,2.0,0.0,0.0,0.0,1994
+Cessna,T210H,Takeoff,0.0,0.0,4.0,0.0,1994
+Piper,PA-31T1,Cruise,2.0,0.0,0.0,0.0,1994
+Douglas,DC-3C,,2.0,0.0,0.0,0.0,1994
+Intermountain Mfg. (imco),CALLAIR A-9,Standing,0.0,0.0,0.0,3.0,1994
+Piper,PA-28-140,Go-around,2.0,0.0,0.0,0.0,1994
+Cessna,310Q,Takeoff,2.0,0.0,0.0,0.0,1994
+Cessna,182M,Landing,0.0,0.0,0.0,1.0,1994
+Beech,A60,Climb,3.0,0.0,0.0,0.0,1995
+Cessna,501,,0.0,0.0,0.0,1.0,1995
+Beech,B95,Go-around,3.0,0.0,0.0,0.0,1995
+Cessna,P210R,Approach,0.0,1.0,0.0,0.0,1995
+Cessna,414,Climb,4.0,2.0,0.0,0.0,1995
+Piper,PA-31-350,Approach,0.0,0.0,1.0,0.0,1995
+Bacon,QUESTAIR-VENTURE,Descent,2.0,0.0,0.0,0.0,1995
+Beech,A36,Cruise,1.0,1.0,0.0,0.0,1995
+Piper,PA-32R-300,Landing,0.0,2.0,0.0,0.0,1995
+Cessna,152,Climb,0.0,0.0,0.0,1.0,1995
+Cessna,177RG,Cruise,1.0,0.0,0.0,0.0,1995
+Piper,PA-46-310P,Approach,2.0,2.0,0.0,0.0,1995
+Israel Aircraft Industries,1124,Standing,0.0,0.0,0.0,2.0,1995
+Beech,60,Climb,0.0,0.0,0.0,3.0,1995
+Cessna,T210M,Approach,1.0,0.0,0.0,0.0,1995
+Thunder And Colt,GA42,Approach,1.0,0.0,0.0,1.0,1995
+Bell,206L,Takeoff,0.0,0.0,0.0,5.0,1995
+Beech,58P,Approach,0.0,2.0,0.0,0.0,1995
+Cessna,R182,Landing,0.0,0.0,0.0,3.0,1995
+Bell,47,Approach,0.0,0.0,0.0,2.0,1995
+Cessna,152,Cruise,0.0,0.0,0.0,2.0,1995
+Cessna,180B,Cruise,2.0,0.0,0.0,0.0,1995
+Douglas,C54GDC,Landing,0.0,0.0,0.0,2.0,1995
+Cessna,402B,,1.0,0.0,0.0,0.0,1995
+Bell,206L-1,Maneuvering,0.0,0.0,0.0,2.0,1995
+Cessna,172D,Maneuvering,4.0,0.0,0.0,0.0,1995
+Grumman,G-1159,,7.0,0.0,0.0,0.0,1995
+Beech,BE60,Approach,2.0,0.0,0.0,0.0,1995
+Cessna,310J,Cruise,0.0,0.0,0.0,3.0,1995
+Beech,A36,Descent,0.0,1.0,1.0,0.0,1995
+Piper,PA-23-250,Takeoff,2.0,0.0,0.0,0.0,1995
+Piper,PA-34-200,Cruise,0.0,0.0,0.0,1.0,1995
+De Havilland,DHC-2,Landing,0.0,0.0,0.0,1.0,1995
+Cessna,402B,Taxi,0.0,0.0,0.0,4.0,1995
+Piper,PA-31P-350,Cruise,3.0,0.0,0.0,0.0,1995
+De Havilland,DHC-2,Cruise,5.0,0.0,0.0,0.0,1995
+Piper,PA-28-235,Takeoff,0.0,0.0,0.0,1.0,1995
+Cessna,182,Landing,0.0,0.0,0.0,1.0,1995
+Cessna,310D,Approach,0.0,1.0,1.0,0.0,1995
+Raven,S-60A,Descent,0.0,1.0,2.0,0.0,1995
+Cessna,182C,Descent,0.0,0.0,0.0,1.0,1995
+Cessna,206,Takeoff,0.0,0.0,0.0,6.0,1995
+Gulfstream,GV-1,Landing,0.0,0.0,0.0,9.0,1995
+Piper,PA-28-151,Taxi,0.0,0.0,0.0,1.0,1995
+Aerostar,S-81-A,Landing,0.0,2.0,6.0,0.0,1995
+De Havilland,DHC-2,Go-around,0.0,0.0,0.0,8.0,1995
+Piper,PA-28,Takeoff,0.0,3.0,0.0,0.0,1995
+Cessna,172,Takeoff,0.0,0.0,0.0,3.0,1995
+Mooney,M20A,Takeoff,0.0,0.0,0.0,2.0,1995
+Bell,47,Landing,0.0,0.0,2.0,0.0,1995
+Beech,58,Climb,1.0,0.0,0.0,0.0,1995
+Cessna,185A,Landing,0.0,0.0,0.0,4.0,1995
+Wsk Pzl Mielec,M-26,Cruise,1.0,1.0,0.0,0.0,1995
+Piper,PA-18A,Landing,0.0,0.0,0.0,1.0,1995
+Piper,PA-31-350,Cruise,2.0,0.0,0.0,0.0,1995
+Cessna,421,Landing,0.0,0.0,0.0,4.0,1995
+Beech,P-35,Cruise,0.0,0.0,0.0,1.0,1995
+Piper,PA-28-235,Cruise,0.0,3.0,0.0,0.0,1995
+Piper,PA-31T,Landing,0.0,0.0,0.0,8.0,1995
+Piper,PA-18,Landing,0.0,0.0,0.0,2.0,1995
+Piper,PA-60-601P,Taxi,0.0,0.0,0.0,2.0,1995
+Cessna,180,Takeoff,0.0,0.0,0.0,4.0,1995
+Enstrom,F-28C,Cruise,1.0,2.0,0.0,0.0,1995
+Piper,PA-18-150,Takeoff,0.0,0.0,1.0,0.0,1995
+Cessna,150,Landing,0.0,0.0,0.0,1.0,1995
+Eurocopter,AS350BA,Maneuvering,2.0,0.0,0.0,0.0,1995
+Aerotek,PITTS - S2S,Cruise,1.0,0.0,0.0,0.0,1995
+Cessna,T210R,Approach,1.0,1.0,1.0,0.0,1995
+Cessna,T210M,Approach,0.0,0.0,0.0,1.0,1995
+Beech,A36,Takeoff,0.0,0.0,0.0,5.0,1995
+Enstrom,F28-280C,Maneuvering,0.0,0.0,0.0,1.0,1995
+Cessna,150M,Landing,0.0,0.0,1.0,1.0,1995
+Cessna,172F,Cruise,0.0,0.0,0.0,1.0,1995
+Cessna,182E,Approach,0.0,0.0,0.0,3.0,1995
+Grumman American,G-1159,Landing,0.0,0.0,0.0,9.0,1995
+Cessna,182A,Approach,0.0,0.0,0.0,1.0,1995
+Piper,PA-28-140,Cruise,0.0,2.0,0.0,0.0,1995
+Cessna,182H,Cruise,0.0,0.0,4.0,0.0,1995
+Beech,A-36,Approach,0.0,3.0,0.0,0.0,1995
+Cessna,TR182,Cruise,0.0,0.0,0.0,2.0,1995
+Cessna,172,Landing,0.0,0.0,0.0,1.0,1995
+Cessna,206,Approach,0.0,0.0,0.0,1.0,1995
+Helio,HT-295,Takeoff,0.0,1.0,1.0,2.0,1995
+Boeing,B-17G,Taxi,0.0,0.0,0.0,3.0,1995
+Piper,PA-24-180,Climb,3.0,0.0,0.0,0.0,1995
+Cessna,421,Landing,0.0,0.0,0.0,1.0,1995
+Cessna,210D,Maneuvering,3.0,0.0,0.0,0.0,1995
+Beech,M35,Cruise,0.0,0.0,2.0,1.0,1995
+Hughes,369HS,Takeoff,0.0,0.0,1.0,0.0,1995
+Rockwell,AC-700,,5.0,0.0,0.0,0.0,1995
+Cessna,414,Takeoff,0.0,1.0,4.0,1.0,1995
+Cessna,182Q,Cruise,0.0,0.0,1.0,0.0,1995
+Piper,PA-28,Approach,1.0,0.0,0.0,0.0,1995
+Aerospatiale,TB-20,Approach,3.0,0.0,0.0,0.0,1995
+Piper,PA-28-180,Cruise,0.0,2.0,0.0,0.0,1995
+Cessna,340A,Cruise,1.0,0.0,0.0,0.0,1995
+Mooney,M20J,Cruise,2.0,0.0,0.0,0.0,1995
+Cessna,182,Descent,0.0,0.0,0.0,1.0,1995
+Cessna,P210N,Takeoff,0.0,0.0,0.0,2.0,1995
+Cessna,337G,Landing,0.0,0.0,0.0,2.0,1995
+Cessna,560,Approach,2.0,0.0,0.0,0.0,1995
+Learjet,60,Landing,0.0,0.0,0.0,2.0,1996
+Piper,PA-28-181,Approach,0.0,0.0,0.0,2.0,1996
+Beech,35,Climb,2.0,0.0,0.0,0.0,1996
+Piper,PA-46-350P,Approach,2.0,0.0,0.0,0.0,1996
+Piper,PA-32,Cruise,1.0,0.0,0.0,0.0,1996
+Mitsubishi,MU-2B-6,Go-around,0.0,0.0,1.0,2.0,1996
+Piper,PA-46-350P,Cruise,1.0,0.0,0.0,0.0,1996
+Cessna,210,Landing,0.0,0.0,0.0,2.0,1996
+Cessna,172P,Landing,0.0,1.0,1.0,0.0,1996
+Beech,35,Descent,0.0,0.0,0.0,2.0,1996
+Beech,F35,Takeoff,0.0,0.0,0.0,1.0,1996
+Cessna,P210N,Cruise,0.0,0.0,1.0,0.0,1996
+Rockwell,S-2R,Maneuvering,0.0,0.0,1.0,0.0,1996
+Bell,206L4,Cruise,0.0,0.0,0.0,1.0,1996
+Cessna,172,Taxi,0.0,0.0,0.0,1.0,1996
+Cessna,172,Cruise,0.0,0.0,0.0,1.0,1996
+Beech,C24R,Cruise,0.0,1.0,0.0,0.0,1996
+Piper,PA-24,Cruise,0.0,0.0,0.0,1.0,1996
+Cessna,310R,Cruise,1.0,0.0,0.0,0.0,1996
+Cessna,172,Cruise,0.0,0.0,0.0,2.0,1996
+Thunder And Colt,180A,Landing,0.0,1.0,3.0,6.0,1996
+Socata,TBM-700,Climb,0.0,0.0,0.0,2.0,1996
+Cessna,500,Takeoff,0.0,0.0,0.0,7.0,1996
+Cessna,P210N,Descent,2.0,0.0,0.0,0.0,1996
+Cessna,402C,Landing,0.0,0.0,0.0,1.0,1996
+Rockwell,112TCA,Approach,0.0,0.0,0.0,1.0,1996
+Schweizer,269C,Maneuvering,0.0,0.0,0.0,2.0,1996
+Beech,B55B,Landing,0.0,0.0,0.0,1.0,1996
+Cessna,172,Taxi,0.0,0.0,0.0,1.0,1996
+Bell,206B,Cruise,0.0,0.0,0.0,3.0,1996
+Cessna,210,Approach,0.0,0.0,0.0,3.0,1996
+Piper,PA-18,Landing,0.0,0.0,0.0,2.0,1996
+Beech,B55,Landing,0.0,0.0,0.0,3.0,1996
+Cessna,170B,Landing,0.0,0.0,2.0,0.0,1996
+Cessna,170,Taxi,0.0,0.0,0.0,2.0,1996
+Aviat,A-1,Takeoff,0.0,0.0,0.0,2.0,1996
+Beech,A36,Approach,0.0,0.0,5.0,0.0,1996
+Mitsubishi,MU-2B-40,Takeoff,0.0,0.0,1.0,3.0,1996
+Cessna,150,Landing,0.0,0.0,0.0,2.0,1996
+Cessna,401,Cruise,0.0,0.0,0.0,1.0,1996
+Cessna,310C,Descent,0.0,0.0,0.0,1.0,1996
+"Smith, Ted Aerostar",AEROSTAR 601P,Takeoff,0.0,0.0,0.0,2.0,1996
+Hiller,UH-12,Cruise,0.0,0.0,0.0,2.0,1996
+Hughes,369HS,Cruise,0.0,0.0,0.0,1.0,1996
+Robinson,R-22 MARINER,Unknown,1.0,0.0,0.0,0.0,1996
+Piper,PA-28-180,Descent,1.0,0.0,0.0,0.0,1996
+Piper,PA-18-150,Maneuvering,1.0,0.0,0.0,0.0,1996
+Piper,PA-23-250,Cruise,5.0,0.0,0.0,0.0,1996
+Cessna,152,Cruise,2.0,0.0,0.0,0.0,1996
+Hiller,UH12,Cruise,0.0,0.0,0.0,1.0,1996
+Beech,76,Cruise,0.0,0.0,0.0,3.0,1996
+Mitsubishi,MU-2B,Takeoff,0.0,0.0,0.0,1.0,1996
+Beech,95-B55B,Landing,0.0,0.0,0.0,1.0,1996
+Cessna,182,Takeoff,0.0,0.0,0.0,5.0,1996
+Piper,PA-18,Landing,0.0,0.0,0.0,1.0,1996
+Bell,UH-1B,,8.0,0.0,0.0,0.0,1996
+Beech,V35,Takeoff,0.0,0.0,1.0,0.0,1996
+Cessna,A185F,Takeoff,0.0,1.0,0.0,0.0,1996
+Bell,47-G4A,Cruise,1.0,0.0,0.0,0.0,1996
+Cessna,525,Climb,0.0,0.0,0.0,3.0,1996
+Mankovich,SONERAI,Descent,1.0,0.0,0.0,0.0,1996
+Cessna,425,Landing,0.0,0.0,0.0,2.0,1996
+Cessna,206F,Landing,0.0,0.0,0.0,2.0,1996
+Cessna,320C,Approach,1.0,0.0,0.0,0.0,1996
+Aero Commander,690,Climb,0.0,0.0,0.0,2.0,1996
+Beech,A23,Cruise,0.0,0.0,0.0,2.0,1996
+Bell,206B,Maneuvering,0.0,0.0,0.0,3.0,1996
+Piper,PA-18,Landing,0.0,0.0,0.0,1.0,1996
+Cessna,182,Cruise,0.0,0.0,0.0,2.0,1996
+Enstrom,F-28C,Takeoff,0.0,0.0,0.0,2.0,1996
+Cessna,310Q,Approach,0.0,1.0,0.0,0.0,1996
+Mooney,M20J,Landing,0.0,0.0,2.0,1.0,1996
+Cessna,182Q,Approach,0.0,0.0,1.0,0.0,1996
+Piper,PA-28C-180,Standing,0.0,1.0,0.0,2.0,1996
+Bell,206B-3,Takeoff,0.0,0.0,0.0,1.0,1996
+Bell,206L-3,Maneuvering,0.0,0.0,0.0,2.0,1996
+Galaxy,AX8,Landing,0.0,2.0,0.0,3.0,1996
+Cessna,421,,8.0,0.0,0.0,0.0,1996
+Cessna,182Q,Cruise,1.0,0.0,0.0,0.0,1996
+Piper,PA-23-250,Approach,0.0,0.0,1.0,0.0,1996
+Cessna,170B,Landing,0.0,0.0,0.0,1.0,1996
+Beech,A90,Takeoff,14.0,0.0,0.0,0.0,1996
+Cessna,421B,Climb,0.0,0.0,0.0,3.0,1996
+Cessna,414,Cruise,2.0,0.0,0.0,0.0,1996
+Lake,LA-4-200,Approach,0.0,1.0,0.0,0.0,1996
+Piper,PA18-135,Maneuvering,2.0,0.0,0.0,0.0,1996
+Beech,B55,Landing,0.0,0.0,0.0,2.0,1996
+Piper,PA-24-400,Landing,0.0,0.0,0.0,1.0,1996
+Cessna,340,Landing,0.0,0.0,0.0,1.0,1996
+Cessna,182,,0.0,0.0,0.0,3.0,1996
+Beech,BE-24R,Approach,0.0,0.0,0.0,1.0,1996
+Cessna,425,Approach,3.0,0.0,0.0,0.0,1996
+Cessna,172B,Cruise,0.0,1.0,0.0,0.0,1996
+Cessna,P210N,Cruise,0.0,1.0,0.0,0.0,1996
+Piper,PA-46,Descent,0.0,0.0,0.0,1.0,1996
+Stinson,108-2,Climb,0.0,0.0,0.0,1.0,1996
+Cessna,T210M,Cruise,0.0,0.0,1.0,4.0,1996
+Beech,C90A,Approach,0.0,0.0,0.0,1.0,1997
+Piper,PA-24-260,Cruise,3.0,0.0,0.0,0.0,1997
+Piper,PA-34,Go-around,0.0,0.0,0.0,2.0,1997
+Waco,UPF-7,Cruise,0.0,0.0,0.0,3.0,1997
+Cessna,172P,Taxi,0.0,0.0,0.0,2.0,1997
+Cessna,210N,Cruise,2.0,0.0,0.0,0.0,1997
+Beech,95-B55,Cruise,3.0,0.0,0.0,0.0,1997
+Cessna,414,Landing,0.0,0.0,0.0,2.0,1997
+Beech,B200,Landing,0.0,0.0,0.0,5.0,1997
+Cessna,421C,Approach,0.0,0.0,0.0,2.0,1997
+Hughes,369HS,Cruise,0.0,0.0,0.0,1.0,1997
+Cessna,337C,Cruise,0.0,0.0,0.0,1.0,1997
+Bellanca,17-30,Cruise,0.0,0.0,1.0,0.0,1997
+Cessna,441,Landing,0.0,0.0,0.0,5.0,1997
+North American,NA-265-40,Landing,0.0,0.0,0.0,3.0,1997
+Cessna,337D,Climb,1.0,0.0,1.0,0.0,1997
+Aeronca,7CCM,Maneuvering,0.0,1.0,1.0,0.0,1997
+Cessna,414,,10.0,0.0,0.0,0.0,1997
+Cessna,T210N,Go-around,2.0,1.0,0.0,0.0,1997
+Aerostar,RXS-8,Landing,0.0,1.0,0.0,5.0,1997
+Socata,TB-20,Cruise,1.0,0.0,0.0,0.0,1997
+Beech,D35,Cruise,0.0,0.0,0.0,2.0,1997
+Mooney,M20K,Landing,0.0,0.0,1.0,0.0,1997
+Rockwell,1121B,,4.0,0.0,0.0,0.0,1997
+Cessna,180F,Approach,0.0,0.0,1.0,0.0,1997
+Piper,PA-28-151,Cruise,0.0,0.0,0.0,1.0,1997
+Beech,60,Cruise,0.0,0.0,0.0,3.0,1997
+Grumman,G-164,Landing,0.0,0.0,0.0,1.0,1997
+Piper,PA-32-300T,Descent,0.0,0.0,0.0,1.0,1997
+Aviat,A-1,,0.0,0.0,0.0,2.0,1997
+Beech,D18S,Takeoff,0.0,0.0,0.0,1.0,1997
+Cessna,305A,Maneuvering,0.0,0.0,0.0,1.0,1997
+Piper,PA-32R-301,Takeoff,3.0,1.0,1.0,0.0,1997
+Cessna,182R,Approach,0.0,0.0,1.0,0.0,1997
+Beech,55,Landing,0.0,0.0,0.0,2.0,1997
+Cessna,180K,Climb,0.0,0.0,1.0,0.0,1997
+Bell,206L-1,Takeoff,0.0,0.0,0.0,2.0,1997
+Mooney,M20J,Approach,2.0,0.0,0.0,0.0,1997
+Hughes,269C,Maneuvering,0.0,0.0,1.0,1.0,1997
+Navion,G,Cruise,2.0,0.0,0.0,0.0,1997
+Beech,58P,Go-around,2.0,0.0,0.0,0.0,1997
+Beech,BE-65-A90,Maneuvering,4.0,0.0,0.0,0.0,1997
+Beech,H35,Approach,0.0,0.0,0.0,2.0,1997
+Cessna,172M,Takeoff,0.0,0.0,2.0,1.0,1997
+Piper,PA-34-200T,Approach,1.0,0.0,0.0,0.0,1997
+Cessna,185F,Landing,0.0,0.0,0.0,2.0,1997
+Beech,95-A55,Landing,0.0,0.0,0.0,3.0,1997
+Beech,35-C33A,Takeoff,0.0,0.0,0.0,4.0,1997
+Mooney,M20F,Climb,1.0,1.0,0.0,0.0,1997
+Maule,M-7-235,Takeoff,0.0,0.0,0.0,2.0,1997
+Cessna,177RG,Cruise,2.0,0.0,0.0,0.0,1997
+American General Aircraft,AG5B,Approach,0.0,2.0,0.0,0.0,1997
+Cessna,180,Takeoff,0.0,0.0,0.0,2.0,1997
+Cessna,T210L,Cruise,0.0,2.0,0.0,0.0,1997
+Hughes,269A,Cruise,0.0,0.0,0.0,2.0,1997
+Piper,PA-32-260,Cruise,3.0,0.0,0.0,0.0,1997
+Pilatus,PC-6,Landing,0.0,0.0,0.0,2.0,1997
+Beech,BE 58,Cruise,6.0,0.0,0.0,0.0,1997
+Piper,PA-24-180,,0.0,0.0,0.0,2.0,1997
+Aerostar,PA-60-700P,Takeoff,0.0,0.0,0.0,2.0,1997
+Beech,C90A,Taxi,0.0,0.0,2.0,4.0,1997
+Waco,YMF-5,Cruise,0.0,1.0,2.0,0.0,1997
+Beech,B100,Approach,1.0,0.0,0.0,0.0,1997
+Schramm,HELICYCLE,Maneuvering,0.0,0.0,1.0,0.0,1997
+Piper,PA-24,Cruise,0.0,0.0,1.0,0.0,1997
+Socata,TB-20 TRINIDAD,Climb,1.0,0.0,0.0,0.0,1997
+Beech,A100,Approach,1.0,1.0,0.0,0.0,1997
+Cessna,207,Descent,0.0,0.0,2.0,0.0,1997
+Piper,PA-28R-200,Cruise,0.0,1.0,0.0,0.0,1997
+Mooney,M20F,Maneuvering,0.0,2.0,0.0,0.0,1997
+Learjet,24,,3.0,1.0,0.0,0.0,1998
+Cessna,500,Landing,0.0,1.0,2.0,0.0,1998
+Beech,95-55,Approach,1.0,0.0,0.0,0.0,1998
+Boeing,737-205,Standing,0.0,0.0,0.0,81.0,1998
+Boeing,A75N1,Landing,0.0,0.0,2.0,0.0,1998
+Beech,A-36,Cruise,4.0,0.0,0.0,0.0,1998
+Cessna,P210N,Maneuvering,3.0,0.0,0.0,0.0,1998
+Cessna,172N,Cruise,5.0,0.0,0.0,0.0,1998
+Cessna,525,Climb,5.0,0.0,0.0,0.0,1998
+Cessna,TR182,Landing,0.0,0.0,0.0,2.0,1998
+Piper,PA-46-350P,Unknown,2.0,0.0,0.0,0.0,1998
+American Blimp Corp.,A-1-50,Taxi,0.0,0.0,0.0,2.0,1998
+Beech,58,Landing,0.0,0.0,0.0,2.0,1998
+Bellanca,8GCBC,Landing,0.0,0.0,0.0,1.0,1998
+Mooney,M20K,Descent,1.0,0.0,0.0,0.0,1998
+Piper,PA-18-160,Takeoff,0.0,0.0,0.0,2.0,1998
+Grumman,G-44,Landing,0.0,0.0,0.0,1.0,1998
+Great Lakes,2T-1A-2,Climb,0.0,0.0,0.0,2.0,1998
+Bell,206L-1,Maneuvering,4.0,0.0,0.0,0.0,1998
+Cessna,182,Descent,0.0,0.0,0.0,1.0,1998
+Vans Aircraft,RV-8,Cruise,2.0,0.0,0.0,0.0,1998
+Gulfstream American,690C,Approach,0.0,0.0,0.0,4.0,1998
+Cessna,188B,Taxi,0.0,0.0,0.0,1.0,1998
+Cessna,340,Cruise,1.0,0.0,0.0,0.0,1998
+Robinson,R-44,Descent,0.0,0.0,2.0,0.0,1998
+Cameron,A105,Descent,0.0,1.0,0.0,4.0,1998
+Piper,PA28-151,Landing,0.0,2.0,0.0,0.0,1998
+Piper,PA-28-181,Cruise,0.0,0.0,4.0,0.0,1998
+Robinson,R22,Landing,0.0,0.0,2.0,0.0,1998
+De Havilland,DHC-2,Taxi,1.0,0.0,0.0,6.0,1998
+Cessna,A185F,Cruise,2.0,0.0,0.0,0.0,1998
+Enstrom,F-28F,Takeoff,0.0,0.0,0.0,3.0,1998
+Cessna,185F,Taxi,0.0,0.0,0.0,2.0,1998
+Hiller,FH-1100,Cruise,1.0,0.0,0.0,0.0,1998
+Cessna,152,Cruise,0.0,0.0,0.0,2.0,1998
+Cessna,182N,Takeoff,1.0,0.0,0.0,0.0,1998
+Aerospatiale,SA315B,Maneuvering,0.0,0.0,1.0,0.0,1998
+Beech,V35B,Cruise,0.0,0.0,0.0,2.0,1998
+Piper,PA-31-350,Takeoff,0.0,0.0,0.0,1.0,1998
+Piper,PA-18,Landing,0.0,0.0,0.0,1.0,1998
+Cessna,150E,Climb,0.0,0.0,0.0,2.0,1998
+Cessna,185F,Takeoff,0.0,0.0,0.0,1.0,1998
+Beech,58,Cruise,3.0,0.0,0.0,0.0,1998
+De Havilland,DHC-2,Takeoff,0.0,0.0,0.0,1.0,1998
+Cessna,182K,Takeoff,0.0,0.0,0.0,5.0,1998
+Piper,PA-18,Landing,0.0,0.0,0.0,1.0,1998
+Maule,ML-7,Approach,0.0,1.0,0.0,0.0,1998
+Cessna,402,,9.0,0.0,0.0,0.0,1998
+Cessna,182Q,Cruise,0.0,0.0,1.0,2.0,1998
+Piper,PA-28R-201,Go-around,0.0,0.0,0.0,2.0,1998
+Hiller,UH-12C,Cruise,0.0,0.0,0.0,2.0,1998
+Cessna,182Q,Standing,1.0,0.0,0.0,1.0,1998
+Aerospatiale,ALOUETTE 3,,6.0,0.0,0.0,0.0,1998
+Douglas,DC3C,,11.0,7.0,0.0,0.0,1998
+Piper,PA-28-140,Takeoff,1.0,0.0,0.0,0.0,1998
+Cessna,414,Takeoff,0.0,2.0,0.0,0.0,1998
+Lockheed,L-1329,Landing,0.0,0.0,0.0,3.0,1998
+Beech,65-A90,Cruise,0.0,0.0,1.0,0.0,1998
+Cessna,501,Cruise,1.0,0.0,0.0,0.0,1998
+Cessna,P210N,Landing,0.0,0.0,0.0,4.0,1998
+Beech,58P,Maneuvering,4.0,0.0,0.0,0.0,1999
+Cessna,550,,0.0,0.0,0.0,4.0,1999
+Beech,95-C55,Approach,3.0,0.0,0.0,0.0,1999
+Beech,BE-55,Approach,2.0,1.0,0.0,0.0,1999
+Beech,A36,Climb,0.0,0.0,0.0,1.0,1999
+Beech,95-B55,Approach,2.0,0.0,0.0,0.0,1999
+Champion,7GCAA,Landing,0.0,0.0,0.0,1.0,1999
+Piper,PA-32-260,Climb,0.0,2.0,0.0,0.0,1999
+Cessna,150M,Cruise,0.0,0.0,1.0,0.0,1999
+Cessna,172M,,0.0,0.0,0.0,3.0,1999
+Robinson,R22-B2,Maneuvering,0.0,0.0,0.0,2.0,1999
+Mitsubishi,300,Landing,0.0,0.0,0.0,8.0,1999
+Cessna,T210R,Descent,0.0,0.0,0.0,3.0,1999
+Cessna,182E,Taxi,0.0,0.0,0.0,5.0,1999
+Bell,407,,2.0,1.0,0.0,0.0,1999
+Eurocopter,COLIBRI EC120B,Cruise,0.0,0.0,1.0,0.0,1999
+Robinson,R-44,,0.0,0.0,0.0,2.0,1999
+Piper,PA-32-260,Cruise,0.0,0.0,0.0,1.0,1999
+Piper,PA-60-601P,Landing,0.0,0.0,1.0,2.0,1999
+Piper,PA-28-235,Takeoff,0.0,1.0,1.0,3.0,1999
+Schweizer,HUGHES 269C,Maneuvering,0.0,0.0,0.0,2.0,1999
+Mooney,M20K,Cruise,1.0,0.0,0.0,0.0,1999
+Cessna,172M,Takeoff,0.0,0.0,0.0,1.0,1999
+Extra Flugzeugbau,300S,Maneuvering,0.0,0.0,0.0,1.0,1999
+"Smith, Ted Aerostar",AEROSTAR 601P,Cruise,2.0,0.0,0.0,0.0,1999
+Piper,PA-46-350P,Cruise,1.0,0.0,0.0,0.0,1999
+Cessna,210A,Approach,0.0,0.0,0.0,2.0,1999
+Beech,A36,Taxi,0.0,0.0,0.0,1.0,1999
+Piper,PA-28-180,Takeoff,0.0,0.0,0.0,1.0,1999
+Beech,BE-100,Landing,0.0,0.0,0.0,4.0,1999
+Piper,PA-23E-250,Cruise,2.0,0.0,0.0,0.0,1999
+Piper,PA-18-150,Landing,0.0,0.0,0.0,1.0,1999
+Beech,C18S,Cruise,1.0,0.0,0.0,0.0,1999
+Gulfstream American,690C,Landing,0.0,0.0,0.0,3.0,1999
+Cessna,421B,Approach,4.0,0.0,0.0,0.0,1999
+Piper,PA-32R-300,Cruise,0.0,0.0,0.0,1.0,1999
+Cessna,182Q,Approach,0.0,0.0,2.0,0.0,1999
+Aero Commander,500,Landing,0.0,0.0,0.0,1.0,1999
+Piper,PA-18,Landing,0.0,0.0,0.0,2.0,1999
+Cessna,A185F,Landing,1.0,0.0,0.0,3.0,1999
+Rockwell,690B,Landing,0.0,0.0,0.0,5.0,1999
+Bell,BH-206B,Approach,0.0,2.0,3.0,0.0,1999
+Hughes,369D,Landing,0.0,0.0,0.0,1.0,1999
+Cessna,T210L,Approach,2.0,0.0,0.0,0.0,1999
+Robinson,R22 BETA,Cruise,0.0,0.0,0.0,2.0,1999
+Cessna,182E,Landing,1.0,0.0,0.0,0.0,1999
+Piper,PA-25-235,Maneuvering,0.0,0.0,0.0,1.0,1999
+Piper,PA-25-235,Maneuvering,0.0,0.0,0.0,1.0,1999
+Hughes,269A,Approach,0.0,0.0,2.0,0.0,1999
+Piper,PA32R-300,Takeoff,0.0,0.0,0.0,2.0,1999
+Piper,PA-12,Cruise,0.0,0.0,0.0,1.0,1999
+Helio,H-395,Takeoff,0.0,0.0,0.0,1.0,1999
+Beech,77,Approach,0.0,0.0,0.0,1.0,1999
+Cessna,206,Landing,0.0,0.0,0.0,1.0,1999
+Piper,PA-18,Landing,0.0,0.0,0.0,1.0,1999
+Piper,PA-32-260,,5.0,0.0,0.0,0.0,1999
+Beech,C90A,Taxi,0.0,0.0,0.0,22.0,1999
+Piper,PA-18-150,Maneuvering,2.0,0.0,0.0,0.0,1999
+Cessna,177,Cruise,0.0,0.0,0.0,2.0,1999
+Bell,206L,Takeoff,0.0,0.0,0.0,1.0,1999
+Piper,PA-18,Landing,0.0,0.0,0.0,1.0,1999
+Piper,PA-28-181,Climb,4.0,0.0,0.0,0.0,1999
+Cessna,206A,Takeoff,0.0,0.0,0.0,1.0,1999
+Beech,F33A,Takeoff,1.0,3.0,0.0,0.0,1999
+Piper,PA-18,Takeoff,0.0,0.0,1.0,1.0,1999
+Cessna,180,Landing,0.0,0.0,0.0,1.0,1999
+Beech,D-35,Approach,1.0,0.0,0.0,0.0,1999
+Aerospatiale,AS350B3,Taxi,0.0,0.0,0.0,2.0,1999
+Cessna,206,,4.0,0.0,0.0,0.0,1999
+Cessna,414,Takeoff,0.0,0.0,1.0,3.0,1999
+Cessna,T210M,Descent,3.0,0.0,0.0,0.0,1999
+Cessna,172M,Landing,0.0,0.0,0.0,1.0,1999
+Robinson,R22A,Takeoff,0.0,0.0,0.0,1.0,1999
+Cessna,177,Cruise,0.0,0.0,0.0,2.0,1999
+Cessna,172,Descent,0.0,0.0,1.0,2.0,1999
+Cessna,180,Landing,0.0,0.0,0.0,1.0,1999
+Piper,PA-18-135,Taxi,0.0,0.0,0.0,1.0,1999
+Cessna,207,,4.0,4.0,0.0,0.0,1999
+Bell,206L-1,,2.0,0.0,0.0,0.0,1999
+Cessna,182P,,3.0,2.0,0.0,0.0,1999
+British Aerospace,HS 125-700A,Unknown,0.0,0.0,0.0,3.0,1999
+Cessna,TU206A,Approach,0.0,0.0,0.0,1.0,1999
+American,AA-1B,Landing,0.0,0.0,0.0,2.0,1999
+Hughes,369D,,2.0,0.0,0.0,0.0,1999
+Aerostar,RAVEN S57-A,Landing,0.0,1.0,0.0,2.0,1999
+Beech,200,Takeoff,3.0,0.0,0.0,0.0,1999
+Bell,206B,Cruise,0.0,0.0,1.0,2.0,1999
+Bell,206L-3,Cruise,0.0,0.0,1.0,2.0,1999
+Hawker Siddeley,HUNTER T MK 7,Takeoff,0.0,1.0,1.0,0.0,1999
+Cessna,150M,Approach,0.0,0.0,0.0,1.0,1999
+Hughes,369HS,Cruise,2.0,0.0,0.0,0.0,1999
+Rockwell,NA-265-65,Standing,0.0,0.0,0.0,8.0,1999
+Piper,PA-31T1,Taxi,0.0,0.0,0.0,8.0,1999
+Bell,212,,10.0,0.0,0.0,0.0,1999
+Piper,PA31-350,,10.0,0.0,0.0,0.0,1999
+Cessna,525,Approach,6.0,0.0,0.0,0.0,1999
+Piper,PA-32RT-300,Takeoff,2.0,1.0,1.0,0.0,1999
+Beech,95-B55,Takeoff,2.0,0.0,0.0,0.0,1999
+Israel Aircraft Industries,1124A,Taxi,0.0,0.0,0.0,6.0,1999
+Mooney,M20K,Climb,1.0,0.0,0.0,0.0,1999
+Beech,K35,Takeoff,0.0,0.0,0.0,4.0,2000
+Cessna,T310R,Takeoff,0.0,0.0,0.0,2.0,2000
+Mitsubishi,MU-300,Approach,0.0,0.0,0.0,6.0,2000
+Siai-marchetti,SF260,Approach,0.0,0.0,0.0,2.0,2000
+Beech,F90,Taxi,0.0,0.0,0.0,1.0,2000
+Beech,58,Climb,4.0,0.0,0.0,0.0,2000
+Cessna,TR182,Approach,0.0,0.0,0.0,3.0,2000
+Beech,95-B55,Go-around,3.0,0.0,0.0,0.0,2000
+Hughes,369D,Maneuvering,0.0,0.0,0.0,2.0,2000
+Beech,58,Landing,0.0,0.0,0.0,1.0,2000
+Mckinnis,STEEN SKYBOLT,Climb,0.0,0.0,0.0,2.0,2000
+Piper,PA-32RT-300T,,0.0,0.0,1.0,0.0,2000
+Birx,VANS RV-6,Descent,2.0,0.0,0.0,0.0,2000
+Cessna,177RG,Cruise,0.0,1.0,0.0,0.0,2000
+Piper,J-3C,Maneuvering,0.0,0.0,0.0,2.0,2000
+Beech,A36,Takeoff,0.0,0.0,0.0,5.0,2000
+Hawkins & Powers,UH-1B,Maneuvering,0.0,0.0,1.0,0.0,2000
+Vans Aircraft,RV-6T,Cruise,2.0,0.0,0.0,0.0,2000
+Cessna,U206F,Landing,0.0,0.0,0.0,1.0,2000
+Cessna,172H,Descent,1.0,0.0,0.0,0.0,2000
+New Standard,D-25,Landing,0.0,0.0,0.0,6.0,2000
+Bell,206L-3,Descent,0.0,0.0,0.0,2.0,2000
+Piper,PA-31-350,Unknown,0.0,0.0,0.0,2.0,2000
+Robinson,R-44,,0.0,0.0,0.0,4.0,2000
+Bell,206L3,Approach,0.0,0.0,0.0,2.0,2000
+Bell,206A,,0.0,0.0,4.0,0.0,2000
+Piper,PA-23-250F,,3.0,0.0,0.0,0.0,2000
+Cessna,414,Climb,3.0,0.0,0.0,0.0,2000
+Piper,PA-36-200,Taxi,0.0,0.0,0.0,1.0,2000
+Cessna,T210N,Landing,0.0,0.0,0.0,1.0,2000
+De Havilland,DHC-2,Takeoff,0.0,0.0,0.0,7.0,2000
+Cessna,210,Descent,0.0,0.0,2.0,0.0,2000
+Cessna,172K,Takeoff,0.0,0.0,0.0,1.0,2000
+Cessna,310C,Approach,0.0,0.0,0.0,1.0,2000
+Cessna,182K,Climb,0.0,0.0,1.0,0.0,2000
+Cessna,172G,Cruise,0.0,2.0,0.0,0.0,2000
+Aero Commander,685,Landing,0.0,0.0,0.0,2.0,2000
+Aerostar,S-77A,Landing,0.0,3.0,0.0,6.0,2000
+Cessna,172M,Takeoff,0.0,0.0,1.0,0.0,2000
+Cessna,210N,Cruise,0.0,0.0,0.0,1.0,2000
+Schweizer,269C,Approach,0.0,0.0,1.0,1.0,2000
+De Havilland,DHC-2,Takeoff,0.0,0.0,0.0,5.0,2000
+Piper,PA-46-350P,Takeoff,3.0,0.0,0.0,0.0,2000
+Cessna,210L,,3.0,3.0,0.0,0.0,2000
+Piper,PA-31-325,Landing,0.0,0.0,0.0,4.0,2000
+Cessna,172N,Climb,1.0,1.0,0.0,0.0,2000
+Beech,A36,Cruise,0.0,0.0,0.0,1.0,2000
+Cessna,T210L,Approach,0.0,0.0,0.0,1.0,2000
+Piper,PA-18,Maneuvering,0.0,1.0,0.0,0.0,2000
+North American,NA-265-80,Climb,2.0,2.0,0.0,0.0,2000
+Bellanca,8GCBC,Landing,0.0,0.0,0.0,1.0,2000
+Douglas,DC-3,Taxi,0.0,0.0,0.0,2.0,2000
+Bell,206BII,Standing,0.0,0.0,0.0,1.0,2000
+Cessna,180,Cruise,3.0,1.0,0.0,0.0,2000
+Cessna,340A,Climb,3.0,0.0,0.0,0.0,2000
+Cessna,206H,Cruise,0.0,1.0,0.0,0.0,2000
+Piper,PA-18,Landing,0.0,0.0,0.0,1.0,2000
+Cessna,340A,Takeoff,0.0,0.0,0.0,4.0,2000
+Piper,PA-18,Approach,0.0,1.0,1.0,0.0,2000
+Piper,PA-18,Takeoff,0.0,1.0,0.0,1.0,2000
+Aerostar,S-81A,Standing,0.0,1.0,0.0,11.0,2000
+Bellanca,17-30A,Takeoff,0.0,0.0,2.0,1.0,2000
+Piper,PA-18,Takeoff,0.0,0.0,0.0,2.0,2000
+Piper,PA-31-325,Landing,0.0,0.0,1.0,0.0,2000
+Boeing,707-312B,,0.0,0.0,10.0,0.0,2000
+Maule,M-7-235B,Landing,0.0,0.0,0.0,4.0,2000
+Cessna,182S,Climb,1.0,0.0,0.0,0.0,2000
+Piper,PA-23-160,Cruise,1.0,1.0,0.0,0.0,2000
+Piper,PA-32RT,Takeoff,1.0,3.0,1.0,0.0,2000
+Cessna,335,Cruise,3.0,0.0,0.0,0.0,2000
+Cessna,185F,Landing,0.0,0.0,0.0,2.0,2000
+Cessna,414,,0.0,1.0,0.0,2.0,2000
+Cessna,172P,Go-around,0.0,0.0,2.0,1.0,2000
+Piper,PA-28R-200,Approach,2.0,0.0,0.0,0.0,2000
+Cessna,210,Takeoff,1.0,0.0,0.0,0.0,2000
+Cessna,340A,Cruise,2.0,0.0,0.0,0.0,2000
+Piper,PA-32R-301,Approach,0.0,0.0,0.0,2.0,2000
+Cessna,425,Unknown,2.0,0.0,0.0,0.0,2000
+Beech,BE-23-A24R,Landing,0.0,0.0,0.0,2.0,2000
+Robinson,R-44A,Cruise,3.0,0.0,0.0,0.0,2000
+Socata,TBM 700,Approach,0.0,0.0,2.0,2.0,2000
+Beech,BE-23,Cruise,1.0,0.0,0.0,0.0,2000
+Bell,206B,Maneuvering,1.0,0.0,0.0,0.0,2001
+De Havilland,DHC-6-300,Approach,0.0,0.0,0.0,3.0,2001
+Cessna,310,Standing,0.0,0.0,0.0,3.0,2001
+Cessna,T210L,Taxi,0.0,0.0,0.0,3.0,2001
+Piper,PA 46-350P,Takeoff,0.0,0.0,0.0,3.0,2001
+Bell,206L-1,Standing,0.0,1.0,0.0,2.0,2001
+Hughes,369D,Cruise,0.0,0.0,0.0,4.0,2001
+Beech,F90-42,Takeoff,4.0,0.0,0.0,0.0,2001
+Beech,200,Descent,10.0,0.0,0.0,0.0,2001
+British Aerospace,HS.125-700A,Descent,0.0,0.0,0.0,3.0,2001
+Piper,PA-30,Takeoff,1.0,0.0,0.0,0.0,2001
+Piper,PA-28-140,Cruise,0.0,0.0,1.0,2.0,2001
+Cessna,441,Landing,0.0,0.0,0.0,2.0,2001
+Cessna,421,Approach,5.0,0.0,0.0,0.0,2001
+Learjet,35A,Landing,0.0,0.0,0.0,5.0,2001
+Piper,J5A,Maneuvering,0.0,0.0,0.0,1.0,2001
+Hughes,369D,Maneuvering,0.0,0.0,0.0,3.0,2001
+Cessna,340,Approach,0.0,0.0,0.0,6.0,2001
+Socata,TBM 700,Takeoff,1.0,0.0,0.0,0.0,2001
+Cessna,172P,Landing,0.0,0.0,3.0,0.0,2001
+Piper,PA-25-235,Approach,0.0,0.0,0.0,1.0,2001
+Schweizer,2-33A,Takeoff,0.0,0.0,1.0,1.0,2001
+Piper,PA-32-300,Standing,4.0,1.0,0.0,0.0,2001
+Cessna,421C,Landing,0.0,0.0,1.0,3.0,2001
+Piper,PA-32RT-300T,Cruise,0.0,0.0,0.0,1.0,2001
+Eurocopter,AS-350-B2,Approach,0.0,0.0,1.0,0.0,2001
+Bell Helicopter,407,Standing,1.0,0.0,0.0,2.0,2001
+Helio,H-391B,Takeoff,0.0,0.0,0.0,1.0,2001
+Cessna,210M,Approach,0.0,1.0,0.0,0.0,2001
+Cessna,R182,Maneuvering,0.0,0.0,0.0,1.0,2001
+Potez-air Fouga,CM 170,Maneuvering,2.0,0.0,0.0,0.0,2001
+Piper,PA-32R-301,Go-around,1.0,0.0,0.0,0.0,2001
+American Champion (acac),8GCBC,Takeoff,0.0,0.0,0.0,2.0,2001
+Grumman,G-164,Takeoff,0.0,0.0,0.0,1.0,2001
+Pilatus,PC-12/45,,0.0,0.0,1.0,3.0,2001
+Piper,PA-34-200T,Climb,0.0,0.0,12.0,2.0,2001
+Bell,206B,Cruise,0.0,0.0,0.0,4.0,2001
+Schweizer,269C,Takeoff,0.0,0.0,3.0,0.0,2001
+Piper,PA-46-310P,Go-around,0.0,1.0,0.0,0.0,2001
+Piper,PA-32-260,Takeoff,2.0,0.0,0.0,0.0,2001
+Cessna,172M,Landing,0.0,0.0,1.0,0.0,2001
+Taylorcraft,BC12-D,Landing,0.0,0.0,0.0,1.0,2001
+Cessna,U206,Takeoff,0.0,0.0,0.0,4.0,2001
+Dassault Aviation,Falcon 20,,3.0,0.0,0.0,0.0,2001
+Piper,PA-18,Landing,0.0,0.0,0.0,1.0,2001
+Piper,PA-32-260,Cruise,2.0,0.0,0.0,1.0,2001
+Beech,BE-200,Approach,0.0,1.0,5.0,0.0,2001
+Piper,PA-46-310P,Takeoff,0.0,0.0,1.0,0.0,2001
+Piper,PA-60-602P,Takeoff,0.0,0.0,0.0,1.0,2001
+"Md Helicopters, Inc.",600N,Maneuvering,0.0,0.0,3.0,1.0,2001
+Cameron Balloons,Shuttle 90,Descent,0.0,0.0,2.0,0.0,2001
+Swearingen,SA226-T,Takeoff,0.0,0.0,0.0,3.0,2001
+Bell,TH-1F,,0.0,0.0,0.0,1.0,2001
+De Havilland,DHC-3,Cruise,0.0,0.0,1.0,8.0,2001
+Piper,PA-32R-301,Cruise,2.0,0.0,0.0,0.0,2001
+Boeing,A75N1 (PT17),Go-around,0.0,0.0,1.0,1.0,2001
+Eurocopter,AS 350 BA,Landing,0.0,0.0,0.0,1.0,2001
+Beech,200,Approach,0.0,0.0,0.0,9.0,2001
+Piper,PA-18,Takeoff,0.0,0.0,1.0,0.0,2001
+Cessna,182,Approach,0.0,0.0,0.0,1.0,2001
+Cessna,206,Takeoff,0.0,0.0,0.0,2.0,2001
+Bell,206B-III,Maneuvering,0.0,0.0,4.0,0.0,2001
+Beech,C90,Approach,0.0,1.0,0.0,0.0,2001
+Beech,200,Landing,0.0,0.0,0.0,1.0,2001
+Cessna,P210N,Cruise,1.0,0.0,0.0,0.0,2001
+Cessna,310Q,Takeoff,1.0,0.0,0.0,0.0,2001
+Agusta,A119,Approach,0.0,0.0,3.0,0.0,2001
+Cessna,T310R,Landing,0.0,0.0,0.0,1.0,2001
+Piper,PA-24-250,Cruise,0.0,0.0,1.0,0.0,2001
+Mitsubishi,MU-2B-40,Approach,0.0,0.0,0.0,4.0,2001
+Maule,M-7-235,Landing,0.0,0.0,0.0,2.0,2001
+Cessna,T210K,Approach,0.0,0.0,0.0,2.0,2001
+Mooney,M20C,Unknown,2.0,0.0,0.0,0.0,2001
+Piper,PA-32-260,Go-around,4.0,0.0,0.0,0.0,2001
+Piper,PA-46-350P,Go-around,3.0,0.0,0.0,0.0,2001
+Piper,PA-34,Cruise,0.0,0.0,2.0,1.0,2001
+Cessna,337D,,3.0,0.0,0.0,0.0,2001
+Cessna,210L,Maneuvering,0.0,0.0,0.0,1.0,2002
+Piper,PA-28-180,Takeoff,0.0,0.0,1.0,0.0,2002
+Cessna,340A,Cruise,3.0,2.0,0.0,0.0,2002
+Cessna,177,Approach,1.0,1.0,0.0,0.0,2002
+Cessna,T210N,Takeoff,0.0,0.0,0.0,4.0,2002
+Socata,TB-9,Landing,0.0,0.0,0.0,1.0,2002
+Beech,V35B,Maneuvering,1.0,0.0,0.0,0.0,2002
+Piper,PA-42-720,Approach,0.0,0.0,0.0,7.0,2002
+Piper,Aerostar 601P,Cruise,1.0,0.0,0.0,0.0,2002
+Cessna,441,Cruise,2.0,0.0,0.0,0.0,2002
+Beech,V35B,Approach,2.0,0.0,0.0,0.0,2002
+Piper,PA-32-300,Cruise,4.0,0.0,0.0,0.0,2002
+"Smith, Ted Aerostar",601P,Maneuvering,0.0,1.0,0.0,0.0,2002
+Rockwell,500S,Approach,1.0,0.0,0.0,0.0,2002
+Thunder And Colt,Colt 120 A,Landing,0.0,1.0,3.0,6.0,2002
+Cessna,182H,Cruise,0.0,0.0,0.0,1.0,2002
+Skystar Aircraft Corp,Kitfox Lite Squared,Taxi,0.0,0.0,0.0,1.0,2002
+Piper,PA-28-235,Cruise,1.0,0.0,0.0,0.0,2002
+Cessna,177,Landing,0.0,0.0,0.0,3.0,2002
+Bellanca,7GCBC,Landing,0.0,0.0,0.0,2.0,2002
+Cessna,550,Takeoff,0.0,0.0,1.0,5.0,2002
+Cessna,175,Cruise,0.0,0.0,0.0,2.0,2002
+Aero Commander,500-S,Landing,0.0,0.0,0.0,3.0,2002
+Mitsubishi,MU2B-20,Landing,0.0,0.0,0.0,1.0,2002
+Cessna,A185F,Cruise,2.0,0.0,0.0,0.0,2002
+Robinson,R-22,Maneuvering,0.0,0.0,0.0,1.0,2002
+De Havilland,DHC-2,Taxi,0.0,0.0,0.0,4.0,2002
+Robinson,R22 Beta,Maneuvering,0.0,0.0,0.0,2.0,2002
+Enstrom,F-28C,Maneuvering,0.0,1.0,1.0,0.0,2002
+Cessna,441,Climb,0.0,0.0,0.0,4.0,2002
+Beech,C23,Cruise,0.0,0.0,0.0,2.0,2002
+Cessna,U206F,Takeoff,0.0,0.0,0.0,4.0,2002
+Robinson,R44,,0.0,0.0,2.0,0.0,2002
+Rockwell International,690A,Landing,0.0,0.0,0.0,1.0,2002
+Cessna,C180A,Takeoff,0.0,0.0,0.0,2.0,2002
+Aerostar International,S-77A,Landing,0.0,1.0,1.0,7.0,2002
+Beech,A-36,Takeoff,0.0,0.0,0.0,1.0,2002
+Helio,H-295,Landing,0.0,0.0,0.0,1.0,2002
+Bell,412,Takeoff,1.0,0.0,0.0,10.0,2002
+Cessna,500,Takeoff,0.0,0.0,0.0,2.0,2002
+Cessna,210L,Landing,0.0,0.0,0.0,2.0,2002
+Cessna,172N,,0.0,1.0,2.0,0.0,2002
+Piper,PA-32-260,Takeoff,0.0,0.0,3.0,0.0,2002
+Helio,H-295,Takeoff,0.0,0.0,0.0,4.0,2002
+Cessna,172P,Takeoff,0.0,0.0,0.0,1.0,2002
+Robinson,R22 Beta,Approach,0.0,0.0,0.0,1.0,2002
+Piper,PA-34-200T,Landing,0.0,0.0,0.0,2.0,2002
+De Havilland,DHC-2 MK3,Landing,1.0,0.0,1.0,1.0,2002
+Piper,PA-28R-180,Climb,3.0,0.0,0.0,0.0,2002
+Eurocopter,AS350B3,Cruise,0.0,0.0,0.0,1.0,2002
+Cessna,TR182,Maneuvering,2.0,0.0,0.0,0.0,2002
+Cessna,180,Takeoff,0.0,0.0,0.0,1.0,2002
+Cessna,185,Takeoff,0.0,0.0,0.0,1.0,2002
+Pilatus,PC-12/45,Climb,2.0,0.0,0.0,0.0,2002
+Smith,Aerostar 601P,Approach,0.0,0.0,0.0,2.0,2002
+Stinson,108-3,Landing,0.0,0.0,0.0,2.0,2002
+Cessna,310L,Maneuvering,1.0,0.0,0.0,0.0,2002
+Mooney,M20J,Landing,0.0,0.0,0.0,2.0,2002
+Cessna,T210M,Maneuvering,1.0,0.0,0.0,0.0,2002
+Curtiss-wright,Travel Air 4000,Landing,0.0,0.0,0.0,3.0,2002
+Cessna,525A,Landing,0.0,2.0,2.0,0.0,2002
+Iv Inc.,LANCAIR IV,Landing,2.0,1.0,0.0,0.0,2002
+Aero Commander,500-B,Maneuvering,3.0,0.0,0.0,0.0,2002
+Aerospatiale,AS350B,Maneuvering,0.0,0.0,2.0,1.0,2002
+Cessna,210L,Approach,1.0,0.0,0.0,0.0,2002
+Socata,TB-20,Cruise,1.0,1.0,0.0,0.0,2002
+Cessna,210L,Climb,1.0,1.0,0.0,0.0,2002
+Aaa Aircraft Leasing,192,Cruise,2.0,0.0,0.0,0.0,2002
+Piper,PA28-181,Takeoff,0.0,0.0,1.0,0.0,2002
+Hawker Siddeley,DH-125,Landing,0.0,0.0,0.0,3.0,2002
+Hughes,369E,Cruise,0.0,0.0,0.0,2.0,2002
+Cessna,CJ525,,0.0,0.0,0.0,4.0,2003
+Piper,PA-23-250,Cruise,0.0,0.0,0.0,1.0,2003
+Cessna,T210N,Cruise,3.0,0.0,0.0,0.0,2003
+Robinson,R44,,0.0,0.0,0.0,1.0,2003
+Cessna,182G,Cruise,1.0,0.0,0.0,0.0,2003
+Socata,TBM 700,Approach,3.0,0.0,0.0,0.0,2003
+Aero Commander,690A,Takeoff,0.0,1.0,0.0,3.0,2003
+Eurocopter,AS350B2,Cruise,0.0,0.0,5.0,0.0,2003
+Cessna,R172K,Standing,1.0,0.0,0.0,1.0,2003
+Beech,A36,Cruise,3.0,0.0,0.0,0.0,2003
+Piper,PA-18,Approach,0.0,0.0,0.0,2.0,2003
+Beech,B-60,Cruise,0.0,1.0,0.0,0.0,2003
+Hughes,369D,Maneuvering,0.0,0.0,0.0,2.0,2003
+Raytheon,V35A,Approach,2.0,0.0,0.0,0.0,2003
+Cessna,T207 A,Cruise,2.0,0.0,0.0,0.0,2003
+Piper,PA-32RT-300T,Landing,0.0,0.0,0.0,4.0,2003
+Piper,PA-31T1,Approach,0.0,0.0,0.0,2.0,2003
+Cessna,340A,Taxi,0.0,0.0,0.0,3.0,2003
+Cessna,P206,Taxi,0.0,0.0,0.0,1.0,2003
+Cessna,TR182,Cruise,2.0,0.0,0.0,0.0,2003
+Bell,206-L4,Landing,0.0,0.0,1.0,2.0,2003
+Aerostar International,S66A-3060,Landing,0.0,1.0,1.0,4.0,2003
+Dassault Aviation,DA-50,Taxi,0.0,0.0,1.0,17.0,2003
+Cessna,182E,Takeoff,0.0,0.0,0.0,5.0,2003
+Cessna,172B,Unknown,1.0,0.0,0.0,0.0,2003
+Cessna,320,Landing,0.0,0.0,0.0,1.0,2003
+Cessna,172N,Descent,0.0,0.0,0.0,1.0,2003
+Mooney,M20S,Landing,0.0,0.0,0.0,3.0,2003
+Beech,58P,Approach,0.0,0.0,0.0,3.0,2003
+Aerostar,S-77A,Landing,0.0,1.0,0.0,8.0,2003
+Bell,206B,Maneuvering,0.0,0.0,2.0,1.0,2003
+De Havilland,DHC-2,Takeoff,0.0,0.0,0.0,1.0,2003
+Robinson,R44 II,Cruise,3.0,0.0,0.0,0.0,2003
+Bell,47G-5A,Cruise,0.0,0.0,0.0,3.0,2003
+Piper,PA-28-161,Takeoff,0.0,0.0,0.0,4.0,2003
+Bell,206B3,Landing,0.0,0.0,0.0,1.0,2003
+Piper,PA-46-310P,Takeoff,0.0,0.0,0.0,3.0,2003
+Casa,2.111,Approach,2.0,0.0,0.0,0.0,2003
+Mikoyan,MIG-15BIS,Takeoff,0.0,0.0,0.0,1.0,2003
+Piper,PA-34-220T,Landing,0.0,0.0,0.0,1.0,2003
+Vans Aircraft,RV-6T,Taxi,0.0,0.0,0.0,3.0,2003
+Gerlach,Skyraider II,Takeoff,0.0,0.0,0.0,2.0,2003
+Bell,206B,Landing,0.0,0.0,0.0,3.0,2003
+Aviat,A-1A,Takeoff,0.0,0.0,0.0,1.0,2003
+Piper,PA-18,Landing,0.0,0.0,0.0,2.0,2003
+Raven,S-60A,Landing,0.0,1.0,0.0,5.0,2003
+De Havilland,DHC-2,Landing,0.0,0.0,0.0,5.0,2003
+Piper,PA-31,Approach,2.0,1.0,0.0,0.0,2003
+Cessna,182,Landing,0.0,0.0,1.0,0.0,2003
+Cessna,650,Cruise,0.0,0.0,0.0,9.0,2003
+Bellanca,8GCBC,Landing,0.0,0.0,1.0,0.0,2003
+Bell,47G-3B-1,Maneuvering,0.0,1.0,0.0,0.0,2003
+Beech,58,Landing,0.0,0.0,0.0,2.0,2003
+Aero Commander,690,,1.0,0.0,0.0,0.0,2003
+Maule,M-7-235,Takeoff,0.0,0.0,0.0,2.0,2003
+Piper,PA-18-150,Landing,0.0,0.0,0.0,1.0,2003
+Hughes,269A,Maneuvering,0.0,1.0,0.0,1.0,2003
+Cessna,182L,Takeoff,0.0,0.0,0.0,1.0,2003
+Firefly Balloons,Galaxy 11B,Landing,0.0,2.0,6.0,3.0,2003
+Piper,PA-30,Approach,1.0,0.0,0.0,0.0,2003
+Commander Aircraft,114TC,Go-around,1.0,0.0,0.0,0.0,2003
+Beech,A45,Maneuvering,2.0,0.0,0.0,0.0,2003
+Cessna,R172E,,2.0,0.0,0.0,0.0,2003
+Cessna,182-K,Approach,0.0,0.0,3.0,0.0,2003
+Cessna,414,Maneuvering,4.0,1.0,0.0,0.0,2003
+Canadair,CL-600,Takeoff,0.0,0.0,0.0,2.0,2003
+Robinson,R-22 Beta,Maneuvering,0.0,0.0,0.0,1.0,2004
+Cirrus Design Corp.,SR-22,Landing,0.0,0.0,0.0,1.0,2004
+Garlick,OH58A,,1.0,4.0,0.0,0.0,2004
+Cessna,172M,Landing,0.0,0.0,0.0,1.0,2004
+Cessna,182M,Takeoff,0.0,0.0,0.0,1.0,2004
+Lancair,LC42-550FG,Landing,0.0,0.0,0.0,4.0,2004
+American Champion (acac),8GCBC,Landing,0.0,0.0,0.0,1.0,2004
+Robinson,R44,Taxi,0.0,0.0,3.0,0.0,2004
+Cessna,T210M,Cruise,0.0,0.0,2.0,1.0,2004
+Piper,PA-28-180,Approach,0.0,0.0,1.0,1.0,2004
+Beech,BE-200,Landing,0.0,0.0,0.0,2.0,2004
+Beech,A36,Cruise,0.0,2.0,1.0,0.0,2004
+Swearingen,SA226-T,Takeoff,0.0,0.0,0.0,1.0,2004
+Piper,PA-24-250,Cruise,0.0,0.0,0.0,2.0,2004
+Cirrus Design Corp.,SR20,Takeoff,4.0,0.0,0.0,0.0,2004
+Swearingen,SA-227,,3.0,4.0,0.0,0.0,2004
+Cessna,310R,Takeoff,1.0,0.0,0.0,0.0,2004
+Lockheed,1329-23E,Approach,0.0,0.0,0.0,4.0,2004
+Piper,PA-18-150,Approach,1.0,1.0,0.0,0.0,2004
+Hall,Lancair IV-P,Cruise,3.0,0.0,0.0,0.0,2004
+De Havilland,DHC-2,Landing,0.0,0.0,0.0,2.0,2004
+Bell,206B,Maneuvering,2.0,3.0,0.0,0.0,2004
+Beech,A36,Cruise,0.0,0.0,0.0,4.0,2004
+Air Tractor,AT-402A,Maneuvering,0.0,0.0,1.0,0.0,2004
+Cessna,340A,Cruise,0.0,0.0,0.0,1.0,2004
+Cessna,182A,Descent,0.0,0.0,0.0,1.0,2004
+Thunder & Colt Ltd,210A,Landing,0.0,1.0,7.0,0.0,2004
+Lindstrand Balloons,120A,Landing,0.0,2.0,2.0,1.0,2004
+Hughes,500D,Standing,0.0,0.0,0.0,1.0,2004
+Piper,PA-32R-301T,Landing,5.0,0.0,0.0,0.0,2004
+Cessna,172S,Unknown,0.0,0.0,0.0,1.0,2004
+Piper,PA 25,Maneuvering,0.0,0.0,0.0,1.0,2004
+Cessna,A185F,Takeoff,0.0,0.0,0.0,1.0,2004
+Piper,PA-60-601P,Takeoff,6.0,0.0,0.0,0.0,2004
+Mooney,M20J,Approach,3.0,0.0,0.0,0.0,2004
+Cessna,U206B,Cruise,1.0,0.0,4.0,0.0,2004
+Bell,206B3,Maneuvering,0.0,2.0,2.0,0.0,2004
+De Havilland,DHC-2,Takeoff,0.0,0.0,0.0,6.0,2004
+De Havilland,DHC-3,Maneuvering,1.0,1.0,1.0,0.0,2004
+Cameron Balloons,A-210,Landing,0.0,1.0,0.0,6.0,2004
+Piper,PA-31P-425,,3.0,0.0,0.0,0.0,2004
+Piper,PA-32-301,Landing,0.0,0.0,0.0,1.0,2004
+Hughes,369D,Cruise,0.0,0.0,0.0,3.0,2004
+Beech,B-60,Taxi,0.0,0.0,0.0,1.0,2004
+Piper,PA-18,Approach,0.0,0.0,0.0,1.0,2004
+Smith,Aerostar 601P,Takeoff,0.0,0.0,0.0,1.0,2004
+Cessna,177,Cruise,0.0,0.0,0.0,4.0,2004
+Cessna,152,Landing,0.0,0.0,0.0,2.0,2004
+Aerostar,SP-1,Climb,0.0,0.0,0.0,3.0,2004
+Cessna,210,,0.0,0.0,0.0,2.0,2004
+Malone,VANS RV-6A,Takeoff,1.0,0.0,0.0,0.0,2004
+Cirrus Design Corp.,SR22,Landing,0.0,0.0,0.0,1.0,2004
+Beech,B-55,Landing,0.0,0.0,0.0,1.0,2004
+Cessna,P206B,Cruise,1.0,0.0,1.0,4.0,2004
+Beech,BE-200,Go-around,0.0,0.0,0.0,3.0,2004
+Beech,BE-60,Takeoff,4.0,0.0,0.0,0.0,2004
+Cessna,P210N,Approach,0.0,0.0,1.0,0.0,2004
+Cessna,P210N,Cruise,0.0,0.0,0.0,2.0,2004
+Piper,PA-32R-301T,Cruise,3.0,0.0,0.0,0.0,2004
+Cessna,310,,5.0,0.0,0.0,0.0,2004
+Cessna,152,Descent,0.0,0.0,0.0,2.0,2004
+Cirrus Design Corp.,SR22,Takeoff,0.0,0.0,0.0,3.0,2004
+Cessna,172E,Cruise,0.0,0.0,0.0,3.0,2004
+Piper,PA-24-250,Takeoff,0.0,1.0,0.0,0.0,2004
+Cessna,421B,Takeoff,5.0,1.0,0.0,0.0,2004
+Dassault-breguet,Falcon 20,Landing,0.0,0.0,0.0,4.0,2004
+Cessna,TU206G,,6.0,0.0,0.0,0.0,2004
+Beech,A45,Maneuvering,2.0,0.0,0.0,0.0,2004
+Beech,B200,Approach,0.0,0.0,1.0,0.0,2004
+Mooney,M20F,Cruise,0.0,0.0,0.0,2.0,2004
+Diamond Aircraft,DA40-180,Approach,3.0,0.0,0.0,0.0,2004
+Beech,BE-36-TC,,2.0,0.0,1.0,0.0,2004
+Aero Commander,AC-685,,5.0,0.0,0.0,0.0,2004
+Raytheon Aircraft Company,C90A,Takeoff,0.0,0.0,0.0,2.0,2004
+Aero Commander,690A,Landing,0.0,0.0,0.0,3.0,2005
+Cessna,414A,Takeoff,0.0,0.0,0.0,5.0,2005
+Cessna,180,Landing,0.0,0.0,0.0,1.0,2005
+Piper,PA-30,Takeoff,1.0,0.0,0.0,0.0,2005
+Grumman,G-1159,Landing,0.0,0.0,0.0,9.0,2005
+Beech,P35,Approach,0.0,0.0,1.0,0.0,2005
+Cessna,310-J,Landing,0.0,0.0,0.0,1.0,2005
+Learjet,35A,Landing,0.0,0.0,0.0,2.0,2005
+Beech,BE-58,Cruise,4.0,0.0,0.0,0.0,2005
+Robinson,R44,Maneuvering,0.0,0.0,0.0,3.0,2005
+Twin Commander Acft. Corp.,685,,2.0,1.0,0.0,0.0,2005
+Hawker Siddeley,HS 125 600B,,0.0,3.0,0.0,3.0,2005
+Canadair,CL-600,Takeoff,0.0,0.0,0.0,7.0,2005
+Bell,206B,Maneuvering,0.0,0.0,0.0,2.0,2005
+Gulfstream Aerospace,G-IV,Taxi,0.0,0.0,0.0,14.0,2005
+Cirrus Design Corp.,SR-22,Landing,0.0,0.0,0.0,2.0,2005
+Cessna,182M,Landing,0.0,0.0,0.0,4.0,2005
+Mooney,M20M,Cruise,0.0,0.0,0.0,1.0,2005
+Robinson,R44 II,Standing,0.0,0.0,0.0,2.0,2005
+Beech,A36,Climb,0.0,0.0,0.0,3.0,2005
+Beech,A36TC,Cruise,0.0,0.0,1.0,0.0,2005
+Swearingen,SA-26AT,Landing,0.0,0.0,2.0,0.0,2005
+Bell,206L 1,Maneuvering,0.0,0.0,0.0,1.0,2005
+Piper,PA-18,Landing,0.0,0.0,0.0,1.0,2005
+Rockwell International,NA-265-80,Takeoff,0.0,0.0,0.0,5.0,2005
+Cessna,525A,Landing,0.0,0.0,1.0,3.0,2005
+Cessna,182TR,Landing,0.0,0.0,0.0,1.0,2005
+Israel Aircraft Industries,1124A,,0.0,0.0,0.0,7.0,2005
+De Havilland,DHC-2,Takeoff,0.0,0.0,0.0,6.0,2005
+Douglas,R4D-8,Takeoff,0.0,3.0,0.0,0.0,2005
+Cessna,525A,,0.0,0.0,0.0,3.0,2005
+Cessna,182F,Cruise,0.0,0.0,1.0,0.0,2005
+Enstrom,480B,Maneuvering,0.0,0.0,0.0,2.0,2005
+Piper,PA46-500TP,Landing,0.0,0.0,0.0,2.0,2005
+Cessna,421B,Landing,0.0,0.0,0.0,4.0,2005
+Maule,M-7-235,Approach,1.0,0.0,4.0,0.0,2005
+Piper,PA-31-350,,3.0,0.0,0.0,0.0,2005
+Cessna,525A,Landing,0.0,0.0,0.0,5.0,2005
+Piper,PA-28R-200,Cruise,0.0,0.0,0.0,1.0,2005
+Piper,PA-30,Takeoff,3.0,1.0,0.0,0.0,2005
+Beech,95-B55,Landing,0.0,0.0,0.0,1.0,2005
+Piper,PA-28-151,Climb,1.0,0.0,0.0,0.0,2005
+Forbes,Rutan Long EZE,Approach,0.0,0.0,0.0,1.0,2005
+Enstrom,280C,Approach,0.0,1.0,0.0,1.0,2005
+Robinson,R44,Landing,0.0,0.0,3.0,0.0,2005
+Piper,PA-18,Landing,0.0,0.0,0.0,1.0,2005
+Beech,A36,Cruise,2.0,0.0,0.0,0.0,2005
+De Havilland,Beaver DHC-2 MK.1,Takeoff,0.0,0.0,1.0,6.0,2005
+Bell,206B,Maneuvering,0.0,0.0,4.0,0.0,2005
+Cessna,180,Landing,0.0,0.0,0.0,1.0,2005
+Raytheon,BE-390,Landing,0.0,0.0,0.0,2.0,2005
+Beech,F33A,Cruise,0.0,0.0,0.0,1.0,2005
+Eurocopter Deutschland,BK-117-B2,Landing,0.0,0.0,0.0,5.0,2005
+Robinson,R44,Unknown,3.0,0.0,0.0,0.0,2005
+Grumman,F6F,Cruise,1.0,0.0,0.0,0.0,2005
+Lancair,LC-40-550FG,Descent,2.0,0.0,0.0,0.0,2005
+Bell,206,,2.0,0.0,0.0,0.0,2005
+Beech,BE-76,Approach,0.0,0.0,2.0,0.0,2005
+Beech,F33A,Descent,1.0,0.0,0.0,0.0,2005
+Cessna,172L,Descent,0.0,0.0,0.0,1.0,2005
+Cessna,P210R,Landing,0.0,0.0,0.0,4.0,2005
+Gulfstream Aerospace,G-5,Takeoff,0.0,0.0,0.0,7.0,2005
+Cameron Balloons,N-180,Landing,0.0,0.0,0.0,12.0,2005
+Piper,PA-32-300,Landing,0.0,0.0,0.0,1.0,2006
+Cirrus,SR22,Climb,0.0,0.0,0.0,3.0,2006
+Cessna,T210N,Cruise,0.0,0.0,1.0,1.0,2006
+Cessna,421C,Maneuvering,1.0,0.0,0.0,0.0,2006
+Canadair,CL-600,Landing,0.0,0.0,0.0,3.0,2006
+Piper,PA-32RT-300T,Takeoff,0.0,0.0,0.0,2.0,2006
+Dassault Aviation,Falcon 900EX,Landing,0.0,0.0,0.0,3.0,2006
+Enstrom,280F,Maneuvering,0.0,0.0,0.0,2.0,2006
+Md Helicopter,MD 600,,1.0,0.0,0.0,0.0,2006
+Cessna,340A,Approach,3.0,0.0,0.0,0.0,2006
+Cessna,208B,Climb,2.0,0.0,0.0,0.0,2006
+Cessna,T310R,Cruise,1.0,0.0,0.0,0.0,2006
+Robinson,R22 Beta,Standing,0.0,0.0,0.0,1.0,2006
+Bell,206B,Approach,0.0,0.0,0.0,4.0,2006
+Robinson,R44 Raven II,Cruise,0.0,0.0,0.0,1.0,2006
+Piper,PA-18-150,Landing,0.0,0.0,0.0,1.0,2006
+Piper,PA-18,Approach,0.0,0.0,0.0,2.0,2006
+Piper,PA60-602P,Maneuvering,2.0,0.0,0.0,0.0,2006
+Piper,PA-30,Landing,0.0,0.0,0.0,3.0,2006
+Piper,PA-46-350P,Landing,0.0,0.0,0.0,4.0,2006
+Robinson,R44,Takeoff,0.0,4.0,1.0,0.0,2006
+Cessna,525,Landing,0.0,0.0,0.0,7.0,2006
+Classic Aircraft Corp.,Waco YMF,Takeoff,0.0,0.0,0.0,2.0,2006
+Flight Design,Gmbh,Takeoff,0.0,0.0,1.0,1.0,2006
+Cessna,206G,Takeoff,0.0,0.0,0.0,1.0,2006
+Lciv Llc,Lancair IV-P Propjet,Approach,3.0,0.0,0.0,0.0,2006
+Raytheon Aircraft Company,B36TC,Approach,2.0,0.0,0.0,0.0,2006
+Bell,206B,Maneuvering,1.0,2.0,0.0,0.0,2006
+Dassault Aviation,Mystere Falcon 900,Landing,0.0,0.0,0.0,5.0,2006
+Beech,BE58P,Landing,3.0,0.0,0.0,0.0,2006
+Cessna,P210N,Cruise,1.0,1.0,0.0,0.0,2006
+Cessna,172F,Maneuvering,0.0,3.0,0.0,0.0,2006
+Cessna,150F,Landing,0.0,0.0,1.0,0.0,2006
+Cessna,208,Takeoff,0.0,0.0,0.0,6.0,2006
+Piper,PA-28R-201,Maneuvering,1.0,1.0,0.0,0.0,2006
+Bell,206B,Cruise,0.0,0.0,0.0,5.0,2006
+Piper,PA-12,Landing,0.0,0.0,1.0,1.0,2006
+Cessna,207A,,2.0,0.0,0.0,0.0,2006
+Piper,PA-32-300,Takeoff,0.0,7.0,0.0,0.0,2006
+Cessna,T206H,Climb,0.0,0.0,0.0,3.0,2006
+Md Helicopter,MD-600N,,3.0,1.0,0.0,0.0,2006
+Cirrus Design Corp.,SR20,Cruise,2.0,0.0,0.0,0.0,2006
+Piper,PA-18,Maneuvering,0.0,0.0,0.0,2.0,2006
+Beech,BE-95-B55,Cruise,1.0,0.0,0.0,0.0,2006
+Cessna,T182T,Landing,0.0,0.0,0.0,1.0,2006
+Robinson,R22 BETA,Cruise,0.0,0.0,0.0,1.0,2006
+Piper,PA-46-310P,Cruise,0.0,0.0,0.0,1.0,2006
+Bell,206L,,1.0,0.0,0.0,0.0,2006
+Bell,UH-1H,Cruise,0.0,1.0,1.0,0.0,2006
+Piper,PA-46-500TP,Landing,0.0,0.0,0.0,1.0,2006
+Grob,G 180,,1.0,0.0,0.0,0.0,2006
+Cessna,C-425,Taxi,0.0,0.0,0.0,2.0,2006
+Cessna,310Q,Approach,3.0,0.0,0.0,0.0,2006
+Piper,PA-31T1,Landing,0.0,0.0,0.0,3.0,2006
+Beech,A36,Approach,1.0,3.0,0.0,0.0,2006
+Cessna,T210N,Approach,1.0,0.0,0.0,0.0,2006
+Fairchild Merlin,SA-226-T,Landing,0.0,0.0,0.0,9.0,2007
+American Champion (acac),8GCBC,Landing,0.0,0.0,0.0,1.0,2007
+Cessna,182P,Approach,3.0,0.0,0.0,0.0,2007
+"Smith, Ted Aerostar",601P,Landing,0.0,0.0,0.0,1.0,2007
+Cessna,310Q,Approach,0.0,0.0,0.0,1.0,2007
+Cessna,414A,Approach,0.0,0.0,0.0,1.0,2007
+Raytheon Aircraft Company,B200,Cruise,0.0,0.0,0.0,2.0,2007
+Mcdonnell Douglas,600N,Cruise,0.0,0.0,0.0,2.0,2007
+Columbia Aircraft,LC41-550FG,Cruise,0.0,0.0,0.0,1.0,2007
+Cessna,340A,Approach,4.0,0.0,0.0,0.0,2007
+Piper,PA-31-350,Cruise,0.0,1.0,0.0,0.0,2007
+Robinson,R22 Beta,Maneuvering,0.0,0.0,0.0,1.0,2007
+Beech,BE-90,Cruise,0.0,0.0,0.0,3.0,2007
+Swearingen,SA-226T,Landing,0.0,0.0,0.0,7.0,2007
+Piper,PA-46-310P,Cruise,2.0,0.0,0.0,0.0,2007
+Swearingen,SA-226T,Takeoff,0.0,0.0,0.0,5.0,2007
+Maule,MT-7-235,Landing,0.0,0.0,0.0,1.0,2007
+Cessna,U206-C,Landing,0.0,0.0,0.0,2.0,2007
+Cessna,210,,1.0,0.0,0.0,0.0,2007
+Walker,Zenith Zodiac 601 XL,Maneuvering,1.0,0.0,0.0,0.0,2007
+Piper,PA-28-180,Landing,0.0,0.0,0.0,1.0,2007
+Dassault-breguet,Mystere Falcon 20-F5,,0.0,0.0,0.0,7.0,2007
+Gulfstream Aerospace,G-V,,0.0,0.0,0.0,9.0,2007
+Learjet,36,Takeoff,0.0,0.0,0.0,2.0,2007
+Raytheon Aircraft Company,A36,Descent,0.0,2.0,2.0,0.0,2007
+Cirrus Design Corp.,SR22,Landing,0.0,0.0,0.0,3.0,2007
+Cessna,T210N,Landing,0.0,0.0,0.0,2.0,2007
+Aerostar International,S81A,Landing,0.0,1.0,0.0,12.0,2007
+Piper,PA-34-220T,Landing,0.0,0.0,2.0,0.0,2007
+Cessna,182P,Landing,0.0,0.0,0.0,2.0,2007
+Beech,65-A90,Landing,0.0,0.0,0.0,3.0,2007
+Rockwell,500S,,2.0,0.0,0.0,0.0,2007
+Bell,206B,Takeoff,0.0,0.0,2.0,2.0,2007
+Piper,PA-18,Approach,0.0,0.0,0.0,1.0,2007
+Cessna,206,,3.0,0.0,0.0,0.0,2007
+Mooney,M20R,Landing,0.0,0.0,0.0,2.0,2007
+Piper,PA28-140,Landing,0.0,0.0,0.0,1.0,2007
+Piper,PA-32R-301T,Descent,0.0,0.0,0.0,1.0,2007
+Navion,NAVION H,Landing,0.0,0.0,0.0,1.0,2007
+Bell,206B3,Descent,0.0,0.0,0.0,4.0,2007
+Rogerson Hiller Corp.,RH-1100,Landing,0.0,0.0,1.0,2.0,2007
+Robinson Helicopter,R22 BETA,Climb,0.0,1.0,1.0,0.0,2007
+Maule,M-4-220C,Takeoff,0.0,0.0,1.0,0.0,2007
+Aerostar,S81A,Landing,0.0,1.0,0.0,4.0,2007
+Beech,C90A,Cruise,0.0,0.0,0.0,8.0,2007
+Piper,PA-46-310P,Landing,0.0,0.0,0.0,3.0,2007
+Cessna,C 525,Takeoff,0.0,0.0,0.0,5.0,2007
+Hawker-beechcraft,BE-200,,7.0,0.0,0.0,0.0,2007
+Learjet,35A,Landing,0.0,0.0,0.0,2.0,2007
+Piper,PA-28R-200,Cruise,2.0,0.0,0.0,0.0,2007
+Robinson,R-22B,,2.0,0.0,0.0,0.0,2007
+Cessna,T210K,Approach,0.0,0.0,0.0,2.0,2007
+Raytheon Corporate Jets,Hawker 800XP,Takeoff,0.0,0.0,0.0,8.0,2007
+Piper,PA-18-150,Taxi,0.0,0.0,0.0,2.0,2007
+Mooney,M20E,Cruise,0.0,0.0,0.0,1.0,2007
+Cessna,C208B,Taxi,0.0,0.0,0.0,2.0,2007
+Cessna,340,Approach,3.0,0.0,0.0,0.0,2007
+Gulfstream Aerospace,G-IV,Landing,0.0,0.0,0.0,8.0,2007
+Piper,PA-28R-200,Cruise,1.0,0.0,0.0,0.0,2007
+Piaggio Aero Industries S.p.a.,Avanti P-180,Landing,0.0,0.0,0.0,2.0,2007
+Cessna,208B,,0.0,0.0,0.0,2.0,2007
+Beech,A36,,0.0,0.0,0.0,3.0,2008
+Robinson,R44 II,,0.0,1.0,0.0,3.0,2008
+Beech,58P,,0.0,0.0,0.0,2.0,2008
+Cessna,P210N,,0.0,0.0,0.0,1.0,2008
+BEECHCRAFT,390,,0.0,0.0,0.0,2.0,2008
+Beech,A36,,2.0,0.0,0.0,0.0,2008
+Cessna,525B,,0.0,0.0,0.0,2.0,2008
+Piper,PA32,,0.0,0.0,0.0,2.0,2008
+Piper,PA-46-350P,,5.0,0.0,0.0,0.0,2008
+Beech,95-B55,,2.0,0.0,0.0,0.0,2008
+Piper,PA-28-180,,0.0,0.0,0.0,2.0,2008
+Cessna,180,,0.0,0.0,0.0,3.0,2008
+Cessna,T210N,,0.0,0.0,0.0,3.0,2008
+Cessna,172M,,0.0,0.0,0.0,4.0,2008
+Robinson Helicopter,R22 MARINE,,0.0,0.0,0.0,2.0,2008
+Eclipse Aviation Corporation,EA500,,0.0,0.0,0.0,4.0,2008
+MKII Corporation,Lancair Legacy 2000,,0.0,0.0,0.0,2.0,2008
+Piper Cub Crafters,PA-18-150,,0.0,0.0,0.0,2.0,2008
+Taylorcraft Aviation,F19,,0.0,1.0,0.0,0.0,2008
+Cessna,T206H,,0.0,0.0,0.0,1.0,2008
+Smith,Aerostar 601P,,0.0,4.0,0.0,0.0,2008
+Enstrom,F28F,,0.0,0.0,0.0,1.0,2008
+RAYTHEON COMPANY,COBRA,,0.0,0.0,0.0,1.0,2008
+Morane-saulnier,MS-760/B,,0.0,0.0,0.0,1.0,2008
+Beech,58TC,,1.0,0.0,0.0,0.0,2008
+Raytheon Aircraft Company,C90A,,0.0,0.0,0.0,1.0,2008
+Cessna,441,,0.0,0.0,0.0,4.0,2008
+Cessna,172,,0.0,0.0,2.0,0.0,2008
+Cessna,T210N,,0.0,0.0,0.0,2.0,2008
+Cessna,421,,2.0,0.0,0.0,0.0,2008
+Cessna,310,,5.0,0.0,0.0,0.0,2008
+Cessna,421C,,0.0,0.0,0.0,5.0,2008
+Piper,PA-22-135,,0.0,0.0,0.0,1.0,2008
+Cessna,177RG,,1.0,0.0,0.0,0.0,2008
+De Havilland,DHC-8-311,,0.0,0.0,0.0,38.0,2008
+Mooney,M20R,,0.0,0.0,0.0,1.0,2008
+Beech,E35,,0.0,0.0,0.0,1.0,2008
+Beech,95-B55 (T4,,3.0,0.0,0.0,0.0,2008
+Bell,206,,3.0,0.0,0.0,0.0,2008
+Hughes,369HS,,0.0,0.0,0.0,1.0,2008
+Beech,C90,,1.0,0.0,0.0,0.0,2008
+Cessna,210,,0.0,0.0,0.0,1.0,2008
+Socata,TBM 700,,0.0,0.0,0.0,4.0,2008
+Agusta,AW-139,,0.0,0.0,0.0,0.0,2008
+Cessna,205,,2.0,0.0,0.0,0.0,2009
+Dassault,Falcon,,2.0,0.0,1.0,0.0,2009
+Robinson,R44,,3.0,0.0,0.0,0.0,2009
+Robinson Helicopter,R22,,0.0,0.0,0.0,2.0,2009
+Cirrus Design Corp.,SR22,,2.0,0.0,0.0,0.0,2009
+Cessna,340,,3.0,0.0,1.0,0.0,2009
+Cessna,185E,,0.0,0.0,0.0,1.0,2009
+Cessna,A188B,,0.0,0.0,0.0,1.0,2009
+Hubbell,Prescott Pusher,,0.0,0.0,0.0,1.0,2009
+Cessna,T210L,,0.0,0.0,0.0,1.0,2009
+Robinson Helicopter,R44,,4.0,0.0,0.0,0.0,2009
+Cessna,175,,0.0,0.0,0.0,1.0,2009
+Cessna,421,,0.0,0.0,0.0,1.0,2009
+Beech,F90,,3.0,0.0,0.0,0.0,2009
+Beech,A36,,1.0,0.0,0.0,0.0,2009
+Dassault Falcon,20C,,0.0,0.0,0.0,7.0,2010
+Beech,B200,,0.0,0.0,0.0,4.0,2010
+Smith,AEROSTAR 601P,,2.0,0.0,0.0,0.0,2010
+Piper,PA-31T,,1.0,0.0,0.0,0.0,2010
+Piper,PA-30,,2.0,0.0,0.0,0.0,2010
+Cessna,P210N,,0.0,0.0,0.0,1.0,2010
+Cessna,421,,3.0,0.0,0.0,0.0,2010
+Cessna,421B,,0.0,0.0,0.0,2.0,2010
+Cirrus Design Corp.,SR22,,1.0,0.0,1.0,0.0,2010
+Piper,PA-22-150,,0.0,0.0,0.0,2.0,2010
+Cessna,182F,,0.0,0.0,0.0,1.0,2010
+Mitsubishi,MU-2B-26A,,0.0,1.0,0.0,0.0,2010
+Piper,PA 46-350P,,0.0,0.0,0.0,2.0,2010
+Piper,PA 46-350P,,0.0,0.0,0.0,1.0,2010
+Beech,A36TC,,0.0,2.0,0.0,0.0,2010
+Piper,PA-18-150,,0.0,0.0,0.0,2.0,2010
+Robinson Helicopter,R44,,0.0,0.0,0.0,2.0,2010
+Robinson,R44,,4.0,0.0,0.0,0.0,2010
+Cessna,U206F,,1.0,0.0,4.0,0.0,2010
+Cessna,525,,0.0,0.0,0.0,2.0,2010
+PRIDMORE,LANCAIR IV,,0.0,0.0,0.0,1.0,2010
+Cessna,421,,3.0,0.0,0.0,0.0,2010
+Cessna,A185F,,0.0,0.0,0.0,1.0,2010
+Hawker-beechcraft,390,,0.0,0.0,2.0,0.0,2010
+BELL HELICOPTER TEXTRON CANADA,206B,,1.0,0.0,0.0,1.0,2010
+Cessna,414,,0.0,0.0,0.0,5.0,2010
+Cessna,182C,,1.0,0.0,0.0,0.0,2010
+Cessna,182T,,1.0,0.0,1.0,0.0,2010
+Piper,PA46-310P,,0.0,0.0,0.0,1.0,2010
+Mooney,M20J,,0.0,0.0,0.0,1.0,2010
+Robinson Helicopter,R44 II,,0.0,1.0,0.0,0.0,2010
+Piper,PA-46-350P,,0.0,0.0,0.0,5.0,2010
+Cessna,680,,0.0,0.0,0.0,8.0,2010
+Cessna,182P,,0.0,1.0,0.0,1.0,2010
+HAWKER,MK-20 Sea Fury,,0.0,0.0,0.0,1.0,2010
+Agusta,A109,,3.0,0.0,0.0,0.0,2010
+Cessna,340A,,3.0,0.0,0.0,0.0,2010
+Siai-marchetti,S.205/22R,,0.0,0.0,1.0,0.0,2010
+Bell,412EP,,3.0,0.0,0.0,0.0,2010
+Cessna,T182T,,0.0,2.0,0.0,0.0,2010
+Beech,A36,,0.0,0.0,0.0,3.0,2011
+Bell,206,,4.0,0.0,0.0,0.0,2011
+Piper,PA-32R-301,,0.0,0.0,0.0,3.0,2011
+Grumman,G21,,4.0,0.0,0.0,0.0,2011
+Lancair,LC41-550FG,,0.0,0.0,0.0,1.0,2011
+BOMBARDIER INC,BD-100-1A10,,0.0,0.0,0.0,3.0,2011
+Hiller,UH-12D,,0.0,0.0,0.0,2.0,2011
+Dassault-breguet,Falcon 10,,0.0,0.0,0.0,3.0,2011
+Cessna,425,,0.0,4.0,0.0,3.0,2011
+Beech,F33A,,0.0,0.0,0.0,1.0,2011
+Socata,TBM-850,,0.0,0.0,1.0,3.0,2011
+Piper,PA-24-250,,0.0,0.0,0.0,1.0,2011
+Cessna,172R,,4.0,0.0,0.0,0.0,2011
+American Blimp Corp.,A60PLUS,,1.0,0.0,0.0,3.0,2011
+Cessna,525A,,0.0,0.0,0.0,5.0,2011
+De Havilland,BEAVER DHC-2 MK.3,,0.0,0.0,0.0,1.0,2011
+Cessna,P210R,,0.0,0.0,1.0,0.0,2011
+Cessna,680,,0.0,0.0,0.0,3.0,2011
+Stinson,108-2,,0.0,2.0,0.0,0.0,2011
+Cessna,560 - XL,,0.0,0.0,0.0,0.0,2011
+Beech,95-B55 (T42A),,0.0,0.0,0.0,3.0,2011
+Cessna,T210L,,0.0,0.0,0.0,1.0,2011
+Siai-marchetti,F.260,,0.0,4.0,0.0,0.0,2011
+Piper,PA-18-135,,0.0,1.0,0.0,0.0,2011
+Cessna,180A,,0.0,0.0,0.0,4.0,2011
+Piper,PA-18-150,,0.0,0.0,0.0,2.0,2011
+Cirrus Design Corp.,SR22,,1.0,0.0,0.0,0.0,2011
+LUDWIG LARRY E,BUSHMAN,,0.0,1.0,0.0,0.0,2011
+Bell,412,,0.0,5.0,1.0,0.0,2011
+Piper,PA46R,,0.0,1.0,0.0,0.0,2011
+Cessna,550,,0.0,0.0,0.0,5.0,2011
+Beech,95-B55 (T42A),,0.0,2.0,0.0,0.0,2011
+Beech,95-C55,,0.0,0.0,4.0,0.0,2011
+Piper,PA-22,,0.0,0.0,0.0,1.0,2011
+Cirrus Design Corp.,SR22,,1.0,0.0,1.0,0.0,2011
+Beech,J35,,0.0,0.0,0.0,1.0,2011
+Cessna,R172E,,0.0,1.0,0.0,0.0,2012
+Bell,AH-1F,,0.0,2.0,0.0,0.0,2012
+Cessna,750,,5.0,0.0,0.0,0.0,2012
+Gulfstream Aerospace,GV SP (G550),,0.0,0.0,0.0,0.0,2012
+Cessna,U206G,,0.0,0.0,0.0,2.0,2012
+Bell,206L-3,,0.0,0.0,0.0,1.0,2012
+Piper,PA-28-151,,0.0,2.0,0.0,0.0,2012
+Sikorsky,S-76B,,0.0,0.0,0.0,7.0,2012
+RICE LEO B,KITFOX SERIES 5,,0.0,0.0,0.0,1.0,2012
+Hughes,269C,,0.0,1.0,1.0,0.0,2012
+Piper,PA42,,4.0,0.0,0.0,0.0,2012
+AERO VODOCHODY,L-39,,2.0,0.0,0.0,0.0,2012
+Piper,PA-46-310P,,0.0,0.0,0.0,1.0,2012
+Bellanca,7KCAB,,0.0,0.0,0.0,1.0,2012
+Piper,PA-46,,0.0,0.0,0.0,1.0,2012
+Bell,206L-3,,0.0,0.0,0.0,4.0,2012
+Cirrus Design Corp.,SR-22,,0.0,0.0,0.0,4.0,2012
+Beech,H35,,0.0,0.0,1.0,0.0,2012
+Bellanca,7GCBC,,1.0,0.0,0.0,0.0,2012
+Bell,407,,0.0,1.0,0.0,3.0,2012
+Beech,A36TC,,2.0,0.0,0.0,0.0,2012
+Piper,PA-24-260,,0.0,1.0,2.0,0.0,2012
+Cessna,421B,,0.0,0.0,2.0,0.0,2012
+SCHOEPFLIN,DA-4-550,,1.0,0.0,0.0,0.0,2012
+Aerospatiale,AS 355F1,,1.0,0.0,0.0,0.0,2012
+Cessna,182A,,0.0,0.0,0.0,2.0,2012
+Cirrus Design Corp.,SR20,,0.0,0.0,0.0,1.0,2012
+Cirrus Design Corp.,SR22,,2.0,0.0,0.0,0.0,2012
+Robinson Helicopter,R22 BETA,,0.0,0.0,0.0,2.0,2012
+Piper,PA-23-250,,3.0,0.0,1.0,0.0,2012
+GRUMMAN AIRCRAFT ENG CORP,C-1A,,1.0,0.0,0.0,0.0,2012
+Beech,A36,,0.0,0.0,1.0,0.0,2012
+Robinson Helicopter,R22 MARINER,,0.0,2.0,0.0,0.0,2012
+Cessna,210L,,0.0,3.0,0.0,0.0,2012
+Beech,35B33,,0.0,1.0,0.0,0.0,2012
+Cessna,421C,,1.0,0.0,0.0,0.0,2012
+Robinson Helicopter,R44 II,,0.0,2.0,1.0,0.0,2012
+DIAMOND AIRCRAFT IND INC,DA 40,,1.0,0.0,0.0,0.0,2012
+Beech,B100,,2.0,0.0,0.0,0.0,2012
+Hughes,369D,,0.0,1.0,0.0,0.0,2013
+Raytheon Aircraft Company,58,,4.0,0.0,0.0,0.0,2013
+Cirrus Design Corporation,SR22,,0.0,1.0,0.0,2.0,2013
+Cessna,172N,,0.0,2.0,1.0,0.0,2013
+Robinson Helicopter,R44 II,,0.0,0.0,0.0,1.0,2013
+Cessna,T206H,,0.0,0.0,0.0,1.0,2013
+Beech,A60,,0.0,0.0,0.0,1.0,2013
+Cessna,172P,,0.0,0.0,0.0,4.0,2013
+Maule,MXT-7-180,,1.0,0.0,0.0,0.0,2013
+Piper,PA 46-350P,,0.0,0.0,0.0,4.0,2013
+Piper,PA23-250,,0.0,0.0,0.0,6.0,2013
+NEW PIPER AIRCRAFT INC,PA32-301FT,,0.0,0.0,2.0,0.0,2013
+HAWKER BEECHCRAFT CORPORATION,390,,2.0,0.0,2.0,0.0,2013
+Eurocopter,AS350B3,,0.0,0.0,0.0,1.0,2013
+PIAGGIO,P180,,0.0,0.0,0.0,6.0,2013
+Raytheon Aircraft Company,G36,,0.0,0.0,0.0,3.0,2013
+Air Tractor,AT-302,,0.0,0.0,0.0,1.0,2013
+Cessna,T188C,,0.0,0.0,0.0,1.0,2013
+Stinson,108-3,,0.0,1.0,0.0,0.0,2013
+ULTRAMAGIC SA,T210,,0.0,2.0,0.0,10.0,2013
+ULTRAMAGIC SA,M-105,,0.0,1.0,0.0,5.0,2013
+Bell,212,,2.0,0.0,0.0,0.0,2013
+Aero Commander,685,,0.0,0.0,3.0,0.0,2013
+Bell,206B,,0.0,0.0,1.0,0.0,2013
+Gulfstream,GIV - UNDESIGNAT,,0.0,0.0,0.0,0.0,2013
+Beech,E35,,1.0,0.0,1.0,0.0,2013
+Cessna,185,,0.0,0.0,0.0,4.0,2013
+Cessna,421C,,1.0,0.0,0.0,0.0,2013
+Cessna,180 - B,,0.0,0.0,0.0,1.0,2013
+Beech,C90 - A,,0.0,2.0,1.0,0.0,2013
+Cirrus Design Corp.,SR22,,0.0,1.0,0.0,2.0,2013
+Cessna,421 - C,,4.0,0.0,0.0,0.0,2013
+Piper,PA 46 350P,,0.0,0.0,0.0,1.0,2013
+Robinson,R44 - II,,0.0,0.0,0.0,2.0,2013
+Cessna,500,,2.0,0.0,0.0,0.0,2013
+Cessna,177,,1.0,0.0,0.0,0.0,2013
+YUNEEC,YUNEEC,,0.0,0.0,0.0,2.0,2013
+Bell,206B,,0.0,0.0,0.0,1.0,2013
+Robinson,R66,,1.0,0.0,0.0,0.0,2013
+MCDONNELL DOUGLAS HELICOPTER,369E,,0.0,0.0,0.0,1.0,2013
+Piper,PA 24-250,,3.0,0.0,0.0,0.0,2013
+Raytheon,G36,,1.0,0.0,0.0,0.0,2013
+Bell,430,,0.0,0.0,0.0,2.0,2014
+Bell,47D1,,0.0,2.0,0.0,0.0,2014
+Cessna,414A,,0.0,0.0,0.0,3.0,2014
+PIAGGIO,P180 - AVANTI II,,0.0,0.0,0.0,5.0,2014
+Cessna,525,,0.0,0.0,0.0,7.0,2014
+Piper,PA 46-350P,,0.0,0.0,0.0,2.0,2014
+Cessna,T210N,,2.0,0.0,0.0,0.0,2014
+Cessna,T207A,,0.0,0.0,0.0,2.0,2014
+Cessna,421A,,0.0,0.0,0.0,4.0,2014
+FOUND ACFT CANADA INC,FBA 2C2,,0.0,0.0,0.0,3.0,2014
+Cameron Balloons,Z-225,,1.0,0.0,0.0,10.0,2014
+Cessna,414,,0.0,5.0,0.0,1.0,2014
+De Havilland,DHC 2,,0.0,0.0,0.0,1.0,2014
+Robinson Helicopter,R44,,0.0,0.0,0.0,2.0,2014
+MOONEY AIRPLANE CO INC,M20TN,,0.0,0.0,0.0,1.0,2014
+Beech,B100,,0.0,0.0,0.0,1.0,2014
+De Havilland,DHC 2,,0.0,0.0,0.0,2.0,2014
+De Havilland,BEAVER DHC 2,,0.0,0.0,0.0,7.0,2014
+Piper,PA-46-350P,,0.0,2.0,0.0,2.0,2014
+Socata,TBM 700,,2.0,0.0,3.0,0.0,2014
+Cessna,T206H,,0.0,3.0,0.0,0.0,2014
+Cessna,340A,,4.0,0.0,0.0,0.0,2014
+Raytheon Aircraft Company,G36,,0.0,2.0,0.0,3.0,2014
+Hughes,369D,,0.0,0.0,1.0,0.0,2014
+KLAAS DEVELOPMENT INC,LANCAIR IV P,,1.0,0.0,0.0,0.0,2014
+Piper,PA 18-150,,0.0,0.0,0.0,2.0,2014
+Raytheon Aircraft Company,HAWKER,,0.0,0.0,0.0,3.0,2014
+Robinson Helicopter,R44,,0.0,0.0,0.0,2.0,2014
+Cessna,401A,,0.0,0.0,3.0,0.0,2014
+Piper,PA-46-310P,,0.0,0.0,0.0,1.0,2014
+Cessna,P210 - N,,0.0,2.0,0.0,1.0,2014
+NEW PIPER AIRCRAFT INC,PA 32R-301T,,0.0,2.0,2.0,0.0,2014
+Piper,PA-34-200T,,1.0,0.0,0.0,0.0,2014
+BURTON,CALIDUS,,0.0,1.0,1.0,0.0,2015
+Flight Design,CTLS,,0.0,0.0,0.0,2.0,2015
+Piper,PA 46-350P,,0.0,0.0,0.0,2.0,2015
+Piper,PA 32RT-300T,,0.0,0.0,0.0,2.0,2015
+Beech,58,,0.0,0.0,0.0,4.0,2015
+G-DAWG LLC,JUST ACFT HIGHLANDER,,0.0,0.0,2.0,0.0,2015
+Cessna,177B,,0.0,0.0,0.0,2.0,2015
+Bellanca,7GCBC,,1.0,0.0,0.0,0.0,2015
+Cessna,T206H,,0.0,1.0,0.0,0.0,2015
+Cessna,U206G,,0.0,1.0,0.0,2.0,2015
+Raytheon Corporate Jets,BAE 125 800,,0.0,0.0,0.0,5.0,2015
+BALONY KUBICEK SPOL,BB60Z,,0.0,6.0,2.0,0.0,2015
+Cirrus Design Corp.,SR22,,0.0,2.0,0.0,0.0,2015
+Cessna,R172K,,0.0,0.0,0.0,2.0,2015
+Cessna,U206F,,0.0,0.0,0.0,1.0,2015
+Aero Commander,100,,0.0,1.0,1.0,0.0,2015
+Israel Aircraft Industries,1125 WESTWIND ASTRA,,0.0,0.0,0.0,7.0,2015
+Cessna,182F,,2.0,0.0,0.0,0.0,2015
+Robinson Helicopter,R44 II,,0.0,0.0,2.0,0.0,2015
+Piper,PA44,,1.0,0.0,0.0,0.0,2015
+Robinson,R44 II,,0.0,3.0,3.0,0.0,2015
+Beech,C90,,0.0,0.0,0.0,5.0,2015
+De Havilland,BEAVER DHC 2 MK.1,,0.0,0.0,0.0,1.0,2015
+MOONEY AIRPLANE CO INC,M20TN,,0.0,0.0,0.0,2.0,2015
+Cessna,421B,,0.0,2.0,0.0,0.0,2015
+Cessna,305F,,0.0,0.0,0.0,1.0,2015
+Cessna,152,,2.0,0.0,0.0,0.0,2015
+Robinson Helicopter,R44 II,,0.0,0.0,0.0,1.0,2015
+Cessna,421B,,2.0,0.0,0.0,0.0,2015
+Comp Air Inc. (Plambeck),CA8,,0.0,1.0,0.0,0.0,2015
+Piper,PA31,,1.0,1.0,0.0,1.0,2015
+SCHUMACHER,Lancair Super ES,,3.0,0.0,0.0,0.0,2015
+Cessna,P210,,0.0,0.0,0.0,2.0,2015
+Cessna,208B,,0.0,0.0,0.0,10.0,2015
+Bell,206,,3.0,0.0,0.0,0.0,2015
+Beech,V35B,,0.0,0.0,0.0,1.0,2015
+Piper,PA 46,,0.0,0.0,0.0,2.0,2015
+Socata,TBM700,,0.0,0.0,0.0,2.0,2016
+Cessna,340A,,0.0,0.0,0.0,1.0,2016
+Pilatus,PC12,,0.0,0.0,0.0,1.0,2016
+Aerostar International,RX8,,0.0,0.0,1.0,3.0,2016
+Beech,A36,,1.0,0.0,0.0,0.0,2016
+Piper,PA 31P,,0.0,0.0,0.0,1.0,2016
+Cameron Balloons,Z-150,,0.0,5.0,1.0,0.0,2016
+North American,AT 6,,2.0,0.0,0.0,0.0,2016
+Robinson Helicopter,R22,,0.0,0.0,0.0,2.0,2016
+Cessna,172S,,0.0,0.0,2.0,0.0,2016
+Gulfstream,GULFSTREAM150,,0.0,0.0,0.0,5.0,2016
+BELL HELICOPTER TEXTRON CANADA,407,,1.0,0.0,0.0,0.0,2016
+Cessna,A185,,0.0,0.0,0.0,4.0,2016
+BRISTELL,E-LSA,,0.0,0.0,1.0,0.0,2016
+KUBICEK,BB85,,16.0,0.0,0.0,0.0,2016
+Cessna,U206G,,0.0,0.0,0.0,5.0,2016
+Robinson Helicopter,R44 II,,0.0,0.0,0.0,3.0,2016
+Cessna,U206,,0.0,0.0,0.0,1.0,2016
+Bell,206 L4,,0.0,0.0,0.0,2.0,2016
+Hiller,UH 12D,,0.0,1.0,0.0,0.0,2016
+STEMME GMBH & CO,S10 VT,,2.0,0.0,0.0,0.0,2016
+Beech,A36,,2.0,0.0,0.0,0.0,2016
+Air Tractor,AT802,,0.0,0.0,0.0,1.0,2016
+Beech,B100,,0.0,0.0,0.0,1.0,2016
+Learjet,25,,0.0,0.0,0.0,3.0,2016
+Piper,PA 18,,0.0,0.0,0.0,1.0,2016
+Cessna,T182,,0.0,0.0,0.0,1.0,2016
+Piper,PA18,,0.0,0.0,0.0,2.0,2016
+Cessna,525,,0.0,0.0,0.0,6.0,2016
+NORTHLAND AVIATION LLC,IVP,,0.0,1.0,0.0,0.0,2016
+Cirrus,SR22,,0.0,0.0,0.0,2.0,2016
+Cirrus Design Corp.,SR22,,0.0,0.0,0.0,2.0,2016
+Curtiss-wright,TRAVEL AIR 4000,,0.0,0.0,0.0,5.0,2016
+Cessna,Citation 500,,0.0,0.0,0.0,1.0,2016
+Cessna,182T,,0.0,0.0,0.0,1.0,2017
+TEXTRON AVIATION INC,525C,,0.0,0.0,1.0,0.0,2017
+Robinson Helicopter,R22,,0.0,0.0,0.0,1.0,2017
+Mooney,M20C,,0.0,0.0,1.0,0.0,2017
+THUNDER & COLT AIRBORNE AMER,AX10 180,,0.0,0.0,0.0,10.0,2017
+Socata,TBM700,,0.0,0.0,0.0,1.0,2017
+Cirrus Design Corp.,SR22,,0.0,0.0,0.0,3.0,2017
+Piper,AEROSTAR 602P,,0.0,0.0,0.0,1.0,2017
+Cessna,500,,1.0,0.0,0.0,0.0,2017
+ICON AIRCRAFT INC,A5,,0.0,0.0,0.0,2.0,2017
+Piper,PA-22-135,,0.0,1.0,0.0,2.0,2017
+Piper,PA31T,,4.0,0.0,0.0,0.0,2017
+BALONY KUBICEK SPOL,BB70Z,,0.0,0.0,0.0,9.0,2017
+ICON AIRCRAFT INC,A5,,2.0,0.0,0.0,0.0,2017
+Eurocopter,EC130,,0.0,0.0,0.0,1.0,2017
+Cessna,T182,,0.0,0.0,0.0,3.0,2017
+Robinson Helicopter,R44 II,,1.0,0.0,0.0,0.0,2017
+Robinson Helicopter,R44 II,,0.0,0.0,1.0,3.0,2017
+Champion,7ECA,,0.0,0.0,0.0,1.0,2017
+Cessna,170,,0.0,0.0,0.0,1.0,2017
+Piper,PA31T,,2.0,0.0,0.0,0.0,2017
+Evolution 19,Lancair Evolution,,2.0,0.0,0.0,0.0,2017
+Columbia Aircraft,LC41 550FG,,0.0,0.0,0.0,4.0,2017
+BOYD BRUCE,RV4,,0.0,0.0,0.0,1.0,2017
+THRUSH,S2R,,0.0,0.0,0.0,1.0,2017
+Cessna,A185,,0.0,0.0,0.0,4.0,2017
+Beech,A36,,3.0,0.0,0.0,0.0,2017
+Hughes,369A,,0.0,1.0,1.0,1.0,2017
+Cessna,U206G,,0.0,0.0,0.0,4.0,2017
+AVIAT AIRCRAFT INC,A 1B,,0.0,0.0,0.0,1.0,2017
+Cessna,340,,0.0,0.0,0.0,2.0,2017
+Beech,95 B55,,0.0,0.0,0.0,4.0,2017
+Bell,206L 3,,1.0,0.0,0.0,0.0,2017
+Cessna,T210N,,0.0,0.0,0.0,1.0,2017
+Cessna,P210N,,0.0,1.0,0.0,0.0,2018
+Beech,35,,0.0,0.0,0.0,1.0,2018
+Cessna,441,,3.0,0.0,0.0,0.0,2018
+Robinson Helicopter,R44,,0.0,1.0,0.0,0.0,2018
+Bereznak,Lancair Legacy,,0.0,1.0,0.0,1.0,2018
+LEARJET INC,31,,0.0,0.0,0.0,9.0,2018
+Gulfstream Aerospace,G V,,0.0,2.0,1.0,5.0,2018
+ULTRAMAGIC SA,N 300,,0.0,0.0,0.0,13.0,2018
+GULFSTREAM AM CORP COMM DIV,695A,,0.0,0.0,0.0,2.0,2018
+Hughes,369,,0.0,0.0,0.0,2.0,2018
+Robinson Helicopter,R44 II,,0.0,0.0,0.0,4.0,2018
+AGUSTA BELL,AB206B,,2.0,0.0,1.0,0.0,2018
+Beech,58,,0.0,0.0,0.0,3.0,2018
+Beech,58,,0.0,0.0,0.0,1.0,2018
+Bell Helicopter,206,,1.0,3.0,0.0,0.0,2018
+Hughes,369A,,0.0,0.0,4.0,0.0,2018
+Beech,D17S,,1.0,0.0,0.0,0.0,2018
+North American,SNJ 2,,1.0,0.0,0.0,0.0,2018
+LET,L 23 SUPER BLANIK,,2.0,0.0,0.0,0.0,2018
+Robinson,R22,,0.0,0.0,0.0,1.0,2018
+Robinson Helicopter,R22 BETA,,0.0,2.0,0.0,0.0,2018
+Cessna,172S,,0.0,1.0,0.0,2.0,2018
+Curtiss-wright,C46,,0.0,2.0,0.0,0.0,2018
+Douglas,DC3,,0.0,1.0,6.0,6.0,2018
+Cessna,750,,0.0,0.0,0.0,8.0,2018
+Beech,B300,,0.0,0.0,0.0,6.0,2018
+Cameron,A 250,,1.0,0.0,1.0,9.0,2018
+Cessna,414,,5.0,0.0,0.0,0.0,2018
+Lindstrand,105A,,0.0,0.0,0.0,3.0,2018
+Piper,PA18,,0.0,0.0,0.0,2.0,2018
+Piper,PA46,,0.0,0.0,0.0,4.0,2018
+Cessna,680,,0.0,0.0,0.0,3.0,2018
+Cessna,T310,,0.0,0.0,0.0,1.0,2018
+Cessna,340A,,1.0,0.0,0.0,0.0,2018
+De Havilland,DHC 2,,0.0,1.0,0.0,6.0,2018
+Beech,200,,1.0,0.0,0.0,0.0,2018
+Beech,55,,0.0,0.0,0.0,4.0,2018
+Cessna,525,,3.0,0.0,0.0,0.0,2018
+Cessna,550,,0.0,9.0,0.0,2.0,2018
+Canadair,CL 600 2A12,,0.0,0.0,0.0,9.0,2019
+Beech,200,,3.0,0.0,0.0,0.0,2019
+Beech,400,,0.0,0.0,0.0,3.0,2019
+Cirrus,SR22,,0.0,0.0,0.0,1.0,2019
+Beech,D55,,3.0,0.0,0.0,0.0,2019
+Beech,A100,,0.0,0.0,0.0,4.0,2019
+Cessna,421,,1.0,0.0,0.0,0.0,2019
+Cameron,A-400,,0.0,2.0,1.0,17.0,2019
+Beech,58,,6.0,0.0,0.0,0.0,2019
+Mooney,M20J,,1.0,0.0,0.0,0.0,2019
+Aero Commander,695,,0.0,0.0,0.0,2.0,2019
+Beech,V35,,2.0,0.0,0.0,0.0,2019
+Sikorsky,S76,,0.0,0.0,0.0,6.0,2019
+Lancair,LC41,,0.0,0.0,0.0,1.0,2019
+Cameron,A-275,,0.0,0.0,0.0,17.0,2019
+Cessna,560,,0.0,1.0,1.0,2.0,2019
+Cessna,402,,0.0,0.0,0.0,3.0,2019
+Piper,PA46,,0.0,0.0,0.0,7.0,2019
+ICON,A5,,0.0,0.0,1.0,1.0,2019
+Cessna,P210,,0.0,0.0,0.0,2.0,2019
+Douglas,DC3C,,0.0,0.0,0.0,2.0,2019
+Cameron,A 210,,0.0,0.0,1.0,8.0,2019
+Cessna,182,,2.0,0.0,0.0,0.0,2019
+Raytheon,390,,0.0,0.0,0.0,5.0,2019
+Canadair,CL600 2B16,,0.0,2.0,1.0,7.0,2019
+Head,AX9-118,,0.0,0.0,1.0,0.0,2019
+TEXTRON AVIATION INC,680A,,0.0,3.0,0.0,2.0,2019
+Robinson,R44,,0.0,2.0,1.0,0.0,2019
+Lindstrand,105A,,0.0,0.0,1.0,4.0,2019
+Bell,206,,0.0,0.0,0.0,2.0,2019
+Air Tractor,AT502,,0.0,1.0,0.0,0.0,2019
+Jackson,Velocity,,0.0,0.0,0.0,1.0,2019
+Socata,TBM 700,,5.0,0.0,1.0,0.0,2019
+Piper,AEROSTAR 602P,,1.0,0.0,0.0,0.0,2019
+ULTRAMAGIC SA,N 250,,0.0,0.0,0.0,13.0,2019
+Robinson,R22 Beta,,2.0,0.0,1.0,1.0,2019
+Beech,200,,0.0,0.0,1.0,1.0,2019
+Piper,PA60,,0.0,0.0,0.0,1.0,2019
+Raytheon,A36,,1.0,0.0,0.0,0.0,2019
+Lindstrand,180A,,0.0,0.0,1.0,5.0,2019
+Cessna,182,,3.0,0.0,0.0,0.0,2020
+PIAGGIO,P180,,0.0,0.0,0.0,4.0,2020
+Robinson,R44,,0.0,0.0,0.0,1.0,2020
+Aerospatiale,SA341,,0.0,0.0,0.0,1.0,2020
+Pilatus,PC12,,0.0,0.0,1.0,0.0,2020
+Piper,PA32RT,,2.0,0.0,0.0,0.0,2020
+Great Lakes,2T 1A,,0.0,0.0,0.0,1.0,2020
+De Havilland,DHC-2,,8.0,0.0,0.0,0.0,2020
+Robinson,R22,,0.0,0.0,0.0,1.0,2020
+Rockwell,112,,0.0,0.0,0.0,1.0,2020
+Piper,PA28,,1.0,0.0,2.0,0.0,2020
+AMERICAN EUROCOPTER,AS350,,2.0,0.0,0.0,0.0,2020
+Cessna,337,,1.0,0.0,2.0,0.0,2020
+Head,AX8 88,,0.0,1.0,1.0,1.0,2020
+Cameron,A 315,,0.0,8.0,1.0,10.0,2020
+Lindstrand,310A,,0.0,13.0,2.0,1.0,2020
+Northrop,F5,,0.0,0.0,0.0,1.0,2020
+Rockwell,500,,2.0,0.0,0.0,0.0,2020
+Cessna,A185,,0.0,0.0,0.0,3.0,2020
+Piper,PA31,,0.0,0.0,0.0,8.0,2020
+Sikorsky,S92,,0.0,0.0,0.0,5.0,2020
+Robinson,R44,,0.0,2.0,0.0,1.0,2020
+Cirrus,SR22,,0.0,0.0,0.0,3.0,2020
+Aerospatiale,AS355,,0.0,0.0,0.0,1.0,2020
+Aero Commander,500,,0.0,0.0,0.0,2.0,2020
+Cessna,551,,0.0,1.0,0.0,2.0,2020
+Boeing,737,,0.0,0.0,0.0,2.0,2020
+Robinson,R44,,2.0,0.0,0.0,0.0,2020
+AIRBUS,A330,,0.0,0.0,0.0,0.0,2020
+Cessna,185,,2.0,0.0,0.0,0.0,2021
+Beech,B100,,0.0,0.0,0.0,3.0,2021
+Cessna,208B,,0.0,0.0,0.0,5.0,2021
+Beech,A36,,0.0,0.0,0.0,2.0,2021
+Cessna,208B,,0.0,0.0,0.0,5.0,2021
+Piper,PA-32R-300,,0.0,0.0,0.0,3.0,2021
+Vans Aircraft,RV-7,,0.0,0.0,0.0,1.0,2021
+Beech,C-99,,0.0,0.0,0.0,9.0,2021
+Beech,1900,,0.0,0.0,0.0,1.0,2021
+Cessna,560XL,,0.0,0.0,0.0,5.0,2021
+Air Tractor,502B,,1.0,0.0,0.0,0.0,2021
+Beech,U-8F,,0.0,1.0,0.0,0.0,2021
+Cessna,310R,,0.0,0.0,0.0,2.0,2021
+Cameron Balloons,O-120,,5.0,0.0,0.0,0.0,2021
+Cessna,A185F,,0.0,0.0,0.0,3.0,2021
+Cessna,P210,,0.0,1.0,0.0,1.0,2021
+Cessna,182T,,0.0,0.0,0.0,1.0,2021
+Enstrom,280FX,,0.0,0.0,1.0,0.0,2021
+Cessna,425,,0.0,0.0,3.0,0.0,2021
+De Havilland,DHC-3,,0.0,0.0,0.0,3.0,2021
+Cirrus Design Corp.,SF50,,0.0,0.0,0.0,4.0,2021
+Raytheon Aircraft Company,390,,0.0,0.0,0.0,4.0,2021
+Piper,PA-32R-301,,0.0,0.0,0.0,1.0,2021
+Piper,PA-32-300,,0.0,1.0,2.0,0.0,2021
+Piper,PA-18-150,,0.0,0.0,0.0,2.0,2021
+Bell,407,,0.0,0.0,0.0,3.0,2021
+Cessna,180E,,0.0,0.0,0.0,3.0,2021
+Cessna,210N,,0.0,0.0,0.0,1.0,2021
+Robinson Helicopter,R44 II,,0.0,0.0,0.0,3.0,2021
+Britten-norman,BN-2A,,4.0,0.0,1.0,0.0,2021
+Beech,E-90,,2.0,0.0,0.0,0.0,2021
+Cessna,207A,,0.0,0.0,0.0,6.0,2021
+LEONARDO SPA,AW169,,0.0,0.0,0.0,1.0,2021
+FOUND ACFT CANADA INC,FBA-2C1,,0.0,0.0,0.0,0.0,2021
+Cessna,208,,0.0,1.0,0.0,0.0,2021
+MCDONNELL DOUGLAS HELICOPTER,369E,,0.0,0.0,0.0,2.0,2021
+Cameron Balloons,A-315,,0.0,0.0,1.0,15.0,2021
+BOMBARDIER INC,CL-600-2B16,,0.0,0.0,0.0,2.0,2022
+Bell,206,,0.0,0.0,1.0,3.0,2022
+EMBRAER EXECUTIVE AIRCRAFT INC,EMB-500,,0.0,0.0,0.0,1.0,2022
+Raytheon Aircraft Company,HAWKER 800XP,,0.0,0.0,0.0,6.0,2022
+De Havilland,DHC-3,,0.0,0.0,0.0,8.0,2022
+Cessna,U206F,,0.0,1.0,4.0,0.0,2022
+Beech,200,,0.0,0.0,0.0,5.0,2022
+Cessna,208B,,0.0,0.0,0.0,2.0,2022
+Cessna,208B,,0.0,0.0,0.0,2.0,2022
+Beech,B200,,0.0,0.0,1.0,5.0,2022
+Mooney,M20M,,0.0,1.0,0.0,0.0,2022
+Piper,PA-22-150,,0.0,0.0,0.0,2.0,2022
+Cessna,207A,,0.0,0.0,0.0,1.0,2022
+Beech,B-99,,0.0,0.0,0.0,1.0,2022
+AIRBUS HELICOPTERS,AS 350B3,,0.0,0.0,4.0,0.0,2022
+Cessna,182C,,0.0,0.0,1.0,0.0,2022
+Cessna,172M,,0.0,0.0,0.0,2.0,2022
+Cameron Balloons,Z-90,,0.0,0.0,3.0,0.0,2022
+Pilatus,PC12,,0.0,0.0,0.0,11.0,2022
+BOMBARDIER INC,BD100 1A10,,0.0,0.0,0.0,11.0,2022
+De Havilland,BEAVER U-6A,,0.0,0.0,0.0,7.0,2022
+PIPER AIRCRAFT CORPORATION,PA-60-601P,,0.0,0.0,0.0,1.0,2022
+Cessna,210,,0.0,0.0,0.0,4.0,2022
+De Havilland,BEAVER DHC-2 MK.1,,0.0,0.0,0.0,4.0,2022
+Piper,PA-18-150,,0.0,0.0,0.0,2.0,2022
+Raytheon Aircraft Company,400A,,0.0,0.0,0.0,2.0,2022
+EADS SOCATA,TBM 700,,0.0,0.0,0.0,3.0,2022
+Boeing,A75N1,,0.0,2.0,0.0,2.0,2022
+Boeing,A75N1,,0.0,2.0,0.0,2.0,2022
+Robinson Helicopter,R44,,0.0,3.0,0.0,1.0,2022
+Cessna,750,,0.0,0.0,0.0,2.0,2022
+Cirrus Design Corp.,SF50,,0.0,0.0,0.0,3.0,2022
+Cessna,207,,0.0,0.0,0.0,5.0,2022
+Cessna,525B,,0.0,0.0,0.0,10.0,2022
+Cessna,180,,0.0,0.0,0.0,1.0,2022
+Cessna,550,,0.0,0.0,0.0,2.0,2022
+EMBRAER S A,EMB-545,,0.0,0.0,0.0,4.0,2022
+Beech,A36,,2.0,0.0,0.0,0.0,2022
+Cessna,170A,,0.0,0.0,0.0,1.0,2022
+Bell,206,,0.0,2.0,0.0,1.0,2022
+Beech,B-60,,0.0,2.0,0.0,0.0,2022
+Piper,PA46-500TP,,2.0,0.0,0.0,0.0,2022
+Fairchild,SA227-AT,,0.0,2.0,0.0,1.0,2022
+Cessna,207,,0.0,0.0,0.0,7.0,2022
+LEARJET INC,45,,0.0,2.0,0.0,6.0,2022
+AIRBUS HELICOPTERS,EC 130 T2,,0.0,1.0,0.0,0.0,2022
