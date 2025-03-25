@@ -2,7 +2,7 @@
 
 This project examines aviation accident records to identify trends, assess aircraft safety, and evaluate risk factors. Using **The NTSB aviation accident database (1962-2023)**, the analysis aims to support a critical business decision: selecting aircraft with the lowest operational risk for business flights in the U.S. As the company expands into the aviation industry, it seeks to purchase and operate airplanes for commercial and private use but lacks insights into potential risks. This study provides actionable findings that will help the new aviation division determine which aircraft models offer the safest investment.
 
-## 📌 Business Understanding
+## 💼 Business Understanding
 
 Aviation safety is a critical concern for airlines, manufacturers, and regulatory bodies. Understanding accident trends can help identify high-risk aircraft models, flight phases with elevated accident occurrences, and long-term safety trends. The insights from this analysis are valuable for:
 
