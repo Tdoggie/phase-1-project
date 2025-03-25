@@ -25,7 +25,7 @@ The analysis utilizes **The NTSB aviation accident database (1962-2023)**, which
 - **Aircraft Model & Type**: Identifies which airplane models are most frequently involved in accidents.
 - **Accident Dates & Locations**: Helps track historical trends and geographical risk factors.
 - **Injury Severity & Passenger Outcomes**: Records the number of fatalities, serious injuries, minor injuries, and uninjured passengers.
-- **Flight Phases & Weather Conditions**: Captures details on when accidents occurred during a flight and prevailing weather conditions at the time.
+- **Flight Phases**: Captures details on when accidents occurred during a flight.
 
 This dataset serves as a reliable source for identifying aviation risk factors and informing strategic decisions.
 
@@ -33,15 +33,15 @@ This dataset serves as a reliable source for identifying aviation risk factors a
 
 Below are three critical visualizations that provide insights into accident trends and risk factors:
 
-#### 1️⃣ Total Uninjured by Aircraft Make-Model
+#### 1️⃣ Understanding the Relationship Between Survivability and Operational Risk
 
 ![Total Uninjured by Aircraft Make-Model](images/v1.png)
 
-#### 2️⃣ Density Heatmap of Airplane Crashes by Phase of Flight Over Time
+#### 2️⃣ Exploring Crash Frequency by Phase of Flight Over Time
 
 ![Density Heatmap of Airplane Crashes by Phase of Flight Over Time](images/v2.png)
 
-#### 3️⃣ Number of People Involved in Accidents per Year
+#### 3️⃣ Understanding the Relationship Between Injuries and Survivability over Time
 
 ![Number of People Involved in Accidents per Year](images/v3.png)
 
