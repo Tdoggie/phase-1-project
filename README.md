@@ -52,6 +52,12 @@ Below are three critical visualizations that provide insights into accident tren
 
 By leveraging these insights, aviation businesses can make informed decisions regarding fleet selection, operational risk management, and strategic safety improvements, ensuring long-term success in the industry.
 
+## 💻 Interactive Dashboard  
+![Dashboard Preview](images/idb.png)  
+
+🔗 **View the full interactive dashboard here:** [Tableau Dashboard](https://public.tableau.com/app/profile/vihaan.sheth/viz/Phase-1-Project_17429171082590/Dashboard)
+
+
 ## ⚙️ Technologies Used
 - **Python** - `Pandas`, `Matplotlib`, `Seaborn`, `NumPy`, `TheFuzz`
 - **Jupyter Notebook** 
