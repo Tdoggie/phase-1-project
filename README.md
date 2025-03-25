@@ -55,9 +55,11 @@ By leveraging these insights, aviation businesses can make informed decisions re
 ## ⚙️ Technologies Used
 - **Python** - `Pandas`, `Matplotlib`, `Seaborn`, `NumPy`, `TheFuzz`
 - **Jupyter Notebook** 
-## 📂 Repository Structure
-- `index.ipynb` → Jupyter Notebook containing the full analysis  
-- `Data/` → Folder containing the aviation dataset and FAA airplane manufacturer registry  
-- `images/` → Folder containing key visualizations obtained from the analysis
+## 📂 Repository Structure  
+- `Cleaned/` → Folder containing the extracted cleaned datasets for interactive dashboard creation with Tableau    
+- `Data/` → Folder containing datasets for analysis  
+- `images/` → Folder containing key visualizations obtained from the analysis  
 - `README.md` → This document outlining project details  
+- `index.ipynb` → Jupyter Notebook containing the full analysis
+
 
