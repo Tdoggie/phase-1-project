@@ -29,6 +29,29 @@ The analysis utilizes **The NTSB aviation accident database (1962-2023)**, which
 
 This dataset serves as a reliable source for identifying aviation risk factors and informing strategic decisions.
 
+## 🔍 Methodology: Approach to Airplane Risk Analysis  
+
+To ensure a **thorough and accurate** assessment of airplane risk, this notebook will follow a structured approach:  
+
+*1️⃣ Data Exploration*  
+- Dataset loading to aid examination of its structure, column names, and data types.  
+- Identification of missing values and inconsistencies within the dataset.  
+- Computation of initial descriptive statistics to gain an overview of key attributes.  
+
+*2️⃣ Data Cleaning*  
+- Handling of missing values through imputation or removal where necessary.  
+- Standardization of data formats and correction of inconsistencies.  
+- Filtering of records to retain only relevant data for meaningful analysis.  
+
+*3️⃣ Data Visualization & Analysis*  
+- Generation of visual representations to explore patterns and trends in the data.   
+- Examination of relationships between variables to uncover potential insights.  
+
+*4️⃣ Business Recommendations*
+- Provision of data-driven recommendations informed by identified trends.  
+- Summarization of findings based on the conducted analysis.  
+
+
 ## 📈 Key Visualizations
 
 Below are three critical visualizations that provide insights into accident trends and risk factors:
@@ -61,8 +84,9 @@ By leveraging these insights, aviation businesses can make informed decisions re
 ## ⚙️ Technologies Used
 - **Python** - `Pandas`, `Matplotlib`, `Seaborn`, `NumPy`, `TheFuzz`
 - **Jupyter Notebook** 
+- **Tableau**
 ## 📂 Repository Structure  
-- `Cleaned/` → Folder containing the extracted cleaned datasets for interactive dashboard creation with Tableau    
+- `Cleaned/` → Folder containing the extracted cleaned dataset for interactive dashboard creation with Tableau    
 - `Data/` → Folder containing datasets for analysis  
 - `images/` → Folder containing key visualizations obtained from the analysis  
 - `README.md` → This document outlining project details  
