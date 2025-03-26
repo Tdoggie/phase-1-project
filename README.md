@@ -80,6 +80,10 @@ By leveraging these insights, aviation businesses can make informed decisions re
 
 🔗 **View the full interactive dashboard here:** [Tableau Dashboard](https://public.tableau.com/app/profile/vihaan.sheth/viz/Phase-1-Project_17429171082590/Dashboard)
 
+## 📢 Investor Presentation  
+
+📄 **View the full investor presentation here:** [Presentation](presentation.pdf)  
+
 
 ## ⚙️ Technologies Used
 - **Python** - `Pandas`, `Matplotlib`, `Seaborn`, `NumPy`, `TheFuzz`
@@ -91,5 +95,5 @@ By leveraging these insights, aviation businesses can make informed decisions re
 - `images/` → Folder containing key visualizations obtained from the analysis  
 - `README.md` → This document outlining project details  
 - `index.ipynb` → Jupyter Notebook containing the full analysis
-
+- `presentation.pdf` → Presentation summarizing key insights and business recommendations for investors
 
