@@ -31,7 +31,7 @@ This dataset serves as a reliable source for identifying aviation risk factors a
 
 ## 🔍 Methodology: Approach to Airplane Risk Analysis  
 
-To ensure a **thorough and accurate** assessment of airplane risk, this notebook will follow a structured approach:  
+To ensure a **thorough and accurate** assessment of airplane risk, the notebook will follow a structured approach:  
 
 *1️⃣ Data Exploration*  
 - Dataset loading to aid examination of its structure, column names, and data types.  
